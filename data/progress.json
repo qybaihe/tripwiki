@@ -507,7 +507,7 @@
       "name": "长春市",
       "type": "prefecture_city",
       "code": "2201",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/长春市.md",
       "notes": ""
