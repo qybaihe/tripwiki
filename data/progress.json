@@ -3147,7 +3147,7 @@
       "name": "西宁市",
       "type": "prefecture_city",
       "code": "6301",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/西宁市.md",
       "notes": ""
