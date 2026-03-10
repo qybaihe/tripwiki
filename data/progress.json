@@ -1,0 +1,3426 @@
+{
+  "version": 1,
+  "generated_from": "/root/.openclaw/workspace/tripwiki/data/cities_all.csv",
+  "cities": {
+    "北京市::市辖区": {
+      "province": "北京市",
+      "name": "市辖区",
+      "type": "prefecture_city",
+      "code": "1101",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/市辖区.md",
+      "notes": ""
+    },
+    "天津市::市辖区": {
+      "province": "天津市",
+      "name": "市辖区",
+      "type": "prefecture_city",
+      "code": "1201",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/市辖区.md",
+      "notes": ""
+    },
+    "河北省::石家庄市": {
+      "province": "河北省",
+      "name": "石家庄市",
+      "type": "prefecture_city",
+      "code": "1301",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/石家庄市.md",
+      "notes": ""
+    },
+    "河北省::唐山市": {
+      "province": "河北省",
+      "name": "唐山市",
+      "type": "prefecture_city",
+      "code": "1302",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/唐山市.md",
+      "notes": ""
+    },
+    "河北省::秦皇岛市": {
+      "province": "河北省",
+      "name": "秦皇岛市",
+      "type": "prefecture_city",
+      "code": "1303",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/秦皇岛市.md",
+      "notes": ""
+    },
+    "河北省::邯郸市": {
+      "province": "河北省",
+      "name": "邯郸市",
+      "type": "prefecture_city",
+      "code": "1304",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/邯郸市.md",
+      "notes": ""
+    },
+    "河北省::邢台市": {
+      "province": "河北省",
+      "name": "邢台市",
+      "type": "prefecture_city",
+      "code": "1305",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/邢台市.md",
+      "notes": ""
+    },
+    "河北省::保定市": {
+      "province": "河北省",
+      "name": "保定市",
+      "type": "prefecture_city",
+      "code": "1306",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/保定市.md",
+      "notes": ""
+    },
+    "河北省::张家口市": {
+      "province": "河北省",
+      "name": "张家口市",
+      "type": "prefecture_city",
+      "code": "1307",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/张家口市.md",
+      "notes": ""
+    },
+    "河北省::承德市": {
+      "province": "河北省",
+      "name": "承德市",
+      "type": "prefecture_city",
+      "code": "1308",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/承德市.md",
+      "notes": ""
+    },
+    "河北省::沧州市": {
+      "province": "河北省",
+      "name": "沧州市",
+      "type": "prefecture_city",
+      "code": "1309",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/沧州市.md",
+      "notes": ""
+    },
+    "河北省::廊坊市": {
+      "province": "河北省",
+      "name": "廊坊市",
+      "type": "prefecture_city",
+      "code": "1310",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/廊坊市.md",
+      "notes": ""
+    },
+    "河北省::衡水市": {
+      "province": "河北省",
+      "name": "衡水市",
+      "type": "prefecture_city",
+      "code": "1311",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/衡水市.md",
+      "notes": ""
+    },
+    "山西省::太原市": {
+      "province": "山西省",
+      "name": "太原市",
+      "type": "prefecture_city",
+      "code": "1401",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/太原市.md",
+      "notes": ""
+    },
+    "山西省::大同市": {
+      "province": "山西省",
+      "name": "大同市",
+      "type": "prefecture_city",
+      "code": "1402",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/大同市.md",
+      "notes": ""
+    },
+    "山西省::阳泉市": {
+      "province": "山西省",
+      "name": "阳泉市",
+      "type": "prefecture_city",
+      "code": "1403",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阳泉市.md",
+      "notes": ""
+    },
+    "山西省::长治市": {
+      "province": "山西省",
+      "name": "长治市",
+      "type": "prefecture_city",
+      "code": "1404",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/长治市.md",
+      "notes": ""
+    },
+    "山西省::晋城市": {
+      "province": "山西省",
+      "name": "晋城市",
+      "type": "prefecture_city",
+      "code": "1405",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/晋城市.md",
+      "notes": ""
+    },
+    "山西省::朔州市": {
+      "province": "山西省",
+      "name": "朔州市",
+      "type": "prefecture_city",
+      "code": "1406",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/朔州市.md",
+      "notes": ""
+    },
+    "山西省::晋中市": {
+      "province": "山西省",
+      "name": "晋中市",
+      "type": "prefecture_city",
+      "code": "1407",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/晋中市.md",
+      "notes": ""
+    },
+    "山西省::运城市": {
+      "province": "山西省",
+      "name": "运城市",
+      "type": "prefecture_city",
+      "code": "1408",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/运城市.md",
+      "notes": ""
+    },
+    "山西省::忻州市": {
+      "province": "山西省",
+      "name": "忻州市",
+      "type": "prefecture_city",
+      "code": "1409",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/忻州市.md",
+      "notes": ""
+    },
+    "山西省::临汾市": {
+      "province": "山西省",
+      "name": "临汾市",
+      "type": "prefecture_city",
+      "code": "1410",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/临汾市.md",
+      "notes": ""
+    },
+    "山西省::吕梁市": {
+      "province": "山西省",
+      "name": "吕梁市",
+      "type": "prefecture_city",
+      "code": "1411",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/吕梁市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::呼和浩特市": {
+      "province": "内蒙古自治区",
+      "name": "呼和浩特市",
+      "type": "prefecture_city",
+      "code": "1501",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/呼和浩特市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::包头市": {
+      "province": "内蒙古自治区",
+      "name": "包头市",
+      "type": "prefecture_city",
+      "code": "1502",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/包头市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::乌海市": {
+      "province": "内蒙古自治区",
+      "name": "乌海市",
+      "type": "prefecture_city",
+      "code": "1503",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/乌海市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::赤峰市": {
+      "province": "内蒙古自治区",
+      "name": "赤峰市",
+      "type": "prefecture_city",
+      "code": "1504",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/赤峰市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::通辽市": {
+      "province": "内蒙古自治区",
+      "name": "通辽市",
+      "type": "prefecture_city",
+      "code": "1505",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/通辽市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::鄂尔多斯市": {
+      "province": "内蒙古自治区",
+      "name": "鄂尔多斯市",
+      "type": "prefecture_city",
+      "code": "1506",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鄂尔多斯市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::呼伦贝尔市": {
+      "province": "内蒙古自治区",
+      "name": "呼伦贝尔市",
+      "type": "prefecture_city",
+      "code": "1507",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/呼伦贝尔市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::巴彦淖尔市": {
+      "province": "内蒙古自治区",
+      "name": "巴彦淖尔市",
+      "type": "prefecture_city",
+      "code": "1508",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/巴彦淖尔市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::乌兰察布市": {
+      "province": "内蒙古自治区",
+      "name": "乌兰察布市",
+      "type": "prefecture_city",
+      "code": "1509",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/乌兰察布市.md",
+      "notes": ""
+    },
+    "内蒙古自治区::兴安盟": {
+      "province": "内蒙古自治区",
+      "name": "兴安盟",
+      "type": "league",
+      "code": "1522",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/兴安盟.md",
+      "notes": ""
+    },
+    "内蒙古自治区::锡林郭勒盟": {
+      "province": "内蒙古自治区",
+      "name": "锡林郭勒盟",
+      "type": "league",
+      "code": "1525",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/锡林郭勒盟.md",
+      "notes": ""
+    },
+    "内蒙古自治区::阿拉善盟": {
+      "province": "内蒙古自治区",
+      "name": "阿拉善盟",
+      "type": "league",
+      "code": "1529",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阿拉善盟.md",
+      "notes": ""
+    },
+    "辽宁省::沈阳市": {
+      "province": "辽宁省",
+      "name": "沈阳市",
+      "type": "prefecture_city",
+      "code": "2101",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/沈阳市.md",
+      "notes": ""
+    },
+    "辽宁省::大连市": {
+      "province": "辽宁省",
+      "name": "大连市",
+      "type": "prefecture_city",
+      "code": "2102",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/大连市.md",
+      "notes": ""
+    },
+    "辽宁省::鞍山市": {
+      "province": "辽宁省",
+      "name": "鞍山市",
+      "type": "prefecture_city",
+      "code": "2103",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鞍山市.md",
+      "notes": ""
+    },
+    "辽宁省::抚顺市": {
+      "province": "辽宁省",
+      "name": "抚顺市",
+      "type": "prefecture_city",
+      "code": "2104",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/抚顺市.md",
+      "notes": ""
+    },
+    "辽宁省::本溪市": {
+      "province": "辽宁省",
+      "name": "本溪市",
+      "type": "prefecture_city",
+      "code": "2105",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/本溪市.md",
+      "notes": ""
+    },
+    "辽宁省::丹东市": {
+      "province": "辽宁省",
+      "name": "丹东市",
+      "type": "prefecture_city",
+      "code": "2106",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/丹东市.md",
+      "notes": ""
+    },
+    "辽宁省::锦州市": {
+      "province": "辽宁省",
+      "name": "锦州市",
+      "type": "prefecture_city",
+      "code": "2107",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/锦州市.md",
+      "notes": ""
+    },
+    "辽宁省::营口市": {
+      "province": "辽宁省",
+      "name": "营口市",
+      "type": "prefecture_city",
+      "code": "2108",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/营口市.md",
+      "notes": ""
+    },
+    "辽宁省::阜新市": {
+      "province": "辽宁省",
+      "name": "阜新市",
+      "type": "prefecture_city",
+      "code": "2109",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阜新市.md",
+      "notes": ""
+    },
+    "辽宁省::辽阳市": {
+      "province": "辽宁省",
+      "name": "辽阳市",
+      "type": "prefecture_city",
+      "code": "2110",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/辽阳市.md",
+      "notes": ""
+    },
+    "辽宁省::盘锦市": {
+      "province": "辽宁省",
+      "name": "盘锦市",
+      "type": "prefecture_city",
+      "code": "2111",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/盘锦市.md",
+      "notes": ""
+    },
+    "辽宁省::铁岭市": {
+      "province": "辽宁省",
+      "name": "铁岭市",
+      "type": "prefecture_city",
+      "code": "2112",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/铁岭市.md",
+      "notes": ""
+    },
+    "辽宁省::朝阳市": {
+      "province": "辽宁省",
+      "name": "朝阳市",
+      "type": "prefecture_city",
+      "code": "2113",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/朝阳市.md",
+      "notes": ""
+    },
+    "辽宁省::葫芦岛市": {
+      "province": "辽宁省",
+      "name": "葫芦岛市",
+      "type": "prefecture_city",
+      "code": "2114",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/葫芦岛市.md",
+      "notes": ""
+    },
+    "吉林省::长春市": {
+      "province": "吉林省",
+      "name": "长春市",
+      "type": "prefecture_city",
+      "code": "2201",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/长春市.md",
+      "notes": ""
+    },
+    "吉林省::吉林市": {
+      "province": "吉林省",
+      "name": "吉林市",
+      "type": "prefecture_city",
+      "code": "2202",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/吉林市.md",
+      "notes": ""
+    },
+    "吉林省::四平市": {
+      "province": "吉林省",
+      "name": "四平市",
+      "type": "prefecture_city",
+      "code": "2203",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/四平市.md",
+      "notes": ""
+    },
+    "吉林省::辽源市": {
+      "province": "吉林省",
+      "name": "辽源市",
+      "type": "prefecture_city",
+      "code": "2204",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/辽源市.md",
+      "notes": ""
+    },
+    "吉林省::通化市": {
+      "province": "吉林省",
+      "name": "通化市",
+      "type": "prefecture_city",
+      "code": "2205",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/通化市.md",
+      "notes": ""
+    },
+    "吉林省::白山市": {
+      "province": "吉林省",
+      "name": "白山市",
+      "type": "prefecture_city",
+      "code": "2206",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/白山市.md",
+      "notes": ""
+    },
+    "吉林省::松原市": {
+      "province": "吉林省",
+      "name": "松原市",
+      "type": "prefecture_city",
+      "code": "2207",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/松原市.md",
+      "notes": ""
+    },
+    "吉林省::白城市": {
+      "province": "吉林省",
+      "name": "白城市",
+      "type": "prefecture_city",
+      "code": "2208",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/白城市.md",
+      "notes": ""
+    },
+    "吉林省::延边朝鲜族自治州": {
+      "province": "吉林省",
+      "name": "延边朝鲜族自治州",
+      "type": "autonomous_prefecture",
+      "code": "2224",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/延边朝鲜族自治州.md",
+      "notes": ""
+    },
+    "黑龙江省::哈尔滨市": {
+      "province": "黑龙江省",
+      "name": "哈尔滨市",
+      "type": "prefecture_city",
+      "code": "2301",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/哈尔滨市.md",
+      "notes": ""
+    },
+    "黑龙江省::齐齐哈尔市": {
+      "province": "黑龙江省",
+      "name": "齐齐哈尔市",
+      "type": "prefecture_city",
+      "code": "2302",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/齐齐哈尔市.md",
+      "notes": ""
+    },
+    "黑龙江省::鸡西市": {
+      "province": "黑龙江省",
+      "name": "鸡西市",
+      "type": "prefecture_city",
+      "code": "2303",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鸡西市.md",
+      "notes": ""
+    },
+    "黑龙江省::鹤岗市": {
+      "province": "黑龙江省",
+      "name": "鹤岗市",
+      "type": "prefecture_city",
+      "code": "2304",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鹤岗市.md",
+      "notes": ""
+    },
+    "黑龙江省::双鸭山市": {
+      "province": "黑龙江省",
+      "name": "双鸭山市",
+      "type": "prefecture_city",
+      "code": "2305",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/双鸭山市.md",
+      "notes": ""
+    },
+    "黑龙江省::大庆市": {
+      "province": "黑龙江省",
+      "name": "大庆市",
+      "type": "prefecture_city",
+      "code": "2306",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/大庆市.md",
+      "notes": ""
+    },
+    "黑龙江省::伊春市": {
+      "province": "黑龙江省",
+      "name": "伊春市",
+      "type": "prefecture_city",
+      "code": "2307",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/伊春市.md",
+      "notes": ""
+    },
+    "黑龙江省::佳木斯市": {
+      "province": "黑龙江省",
+      "name": "佳木斯市",
+      "type": "prefecture_city",
+      "code": "2308",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/佳木斯市.md",
+      "notes": ""
+    },
+    "黑龙江省::七台河市": {
+      "province": "黑龙江省",
+      "name": "七台河市",
+      "type": "prefecture_city",
+      "code": "2309",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/七台河市.md",
+      "notes": ""
+    },
+    "黑龙江省::牡丹江市": {
+      "province": "黑龙江省",
+      "name": "牡丹江市",
+      "type": "prefecture_city",
+      "code": "2310",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/牡丹江市.md",
+      "notes": ""
+    },
+    "黑龙江省::黑河市": {
+      "province": "黑龙江省",
+      "name": "黑河市",
+      "type": "prefecture_city",
+      "code": "2311",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黑河市.md",
+      "notes": ""
+    },
+    "黑龙江省::绥化市": {
+      "province": "黑龙江省",
+      "name": "绥化市",
+      "type": "prefecture_city",
+      "code": "2312",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/绥化市.md",
+      "notes": ""
+    },
+    "黑龙江省::大兴安岭地区": {
+      "province": "黑龙江省",
+      "name": "大兴安岭地区",
+      "type": "prefecture_region",
+      "code": "2327",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/大兴安岭地区.md",
+      "notes": ""
+    },
+    "上海市::市辖区": {
+      "province": "上海市",
+      "name": "市辖区",
+      "type": "prefecture_city",
+      "code": "3101",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/市辖区.md",
+      "notes": ""
+    },
+    "江苏省::南京市": {
+      "province": "江苏省",
+      "name": "南京市",
+      "type": "prefecture_city",
+      "code": "3201",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南京市.md",
+      "notes": ""
+    },
+    "江苏省::无锡市": {
+      "province": "江苏省",
+      "name": "无锡市",
+      "type": "prefecture_city",
+      "code": "3202",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/无锡市.md",
+      "notes": ""
+    },
+    "江苏省::徐州市": {
+      "province": "江苏省",
+      "name": "徐州市",
+      "type": "prefecture_city",
+      "code": "3203",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/徐州市.md",
+      "notes": ""
+    },
+    "江苏省::常州市": {
+      "province": "江苏省",
+      "name": "常州市",
+      "type": "prefecture_city",
+      "code": "3204",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/常州市.md",
+      "notes": ""
+    },
+    "江苏省::苏州市": {
+      "province": "江苏省",
+      "name": "苏州市",
+      "type": "prefecture_city",
+      "code": "3205",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/苏州市.md",
+      "notes": ""
+    },
+    "江苏省::南通市": {
+      "province": "江苏省",
+      "name": "南通市",
+      "type": "prefecture_city",
+      "code": "3206",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南通市.md",
+      "notes": ""
+    },
+    "江苏省::连云港市": {
+      "province": "江苏省",
+      "name": "连云港市",
+      "type": "prefecture_city",
+      "code": "3207",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/连云港市.md",
+      "notes": ""
+    },
+    "江苏省::淮安市": {
+      "province": "江苏省",
+      "name": "淮安市",
+      "type": "prefecture_city",
+      "code": "3208",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/淮安市.md",
+      "notes": ""
+    },
+    "江苏省::盐城市": {
+      "province": "江苏省",
+      "name": "盐城市",
+      "type": "prefecture_city",
+      "code": "3209",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/盐城市.md",
+      "notes": ""
+    },
+    "江苏省::扬州市": {
+      "province": "江苏省",
+      "name": "扬州市",
+      "type": "prefecture_city",
+      "code": "3210",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/扬州市.md",
+      "notes": ""
+    },
+    "江苏省::镇江市": {
+      "province": "江苏省",
+      "name": "镇江市",
+      "type": "prefecture_city",
+      "code": "3211",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/镇江市.md",
+      "notes": ""
+    },
+    "江苏省::泰州市": {
+      "province": "江苏省",
+      "name": "泰州市",
+      "type": "prefecture_city",
+      "code": "3212",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/泰州市.md",
+      "notes": ""
+    },
+    "江苏省::宿迁市": {
+      "province": "江苏省",
+      "name": "宿迁市",
+      "type": "prefecture_city",
+      "code": "3213",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宿迁市.md",
+      "notes": ""
+    },
+    "浙江省::杭州市": {
+      "province": "浙江省",
+      "name": "杭州市",
+      "type": "prefecture_city",
+      "code": "3301",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/杭州市.md",
+      "notes": ""
+    },
+    "浙江省::宁波市": {
+      "province": "浙江省",
+      "name": "宁波市",
+      "type": "prefecture_city",
+      "code": "3302",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宁波市.md",
+      "notes": ""
+    },
+    "浙江省::温州市": {
+      "province": "浙江省",
+      "name": "温州市",
+      "type": "prefecture_city",
+      "code": "3303",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/温州市.md",
+      "notes": ""
+    },
+    "浙江省::嘉兴市": {
+      "province": "浙江省",
+      "name": "嘉兴市",
+      "type": "prefecture_city",
+      "code": "3304",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/嘉兴市.md",
+      "notes": ""
+    },
+    "浙江省::湖州市": {
+      "province": "浙江省",
+      "name": "湖州市",
+      "type": "prefecture_city",
+      "code": "3305",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/湖州市.md",
+      "notes": ""
+    },
+    "浙江省::绍兴市": {
+      "province": "浙江省",
+      "name": "绍兴市",
+      "type": "prefecture_city",
+      "code": "3306",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/绍兴市.md",
+      "notes": ""
+    },
+    "浙江省::金华市": {
+      "province": "浙江省",
+      "name": "金华市",
+      "type": "prefecture_city",
+      "code": "3307",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/金华市.md",
+      "notes": ""
+    },
+    "浙江省::衢州市": {
+      "province": "浙江省",
+      "name": "衢州市",
+      "type": "prefecture_city",
+      "code": "3308",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/衢州市.md",
+      "notes": ""
+    },
+    "浙江省::舟山市": {
+      "province": "浙江省",
+      "name": "舟山市",
+      "type": "prefecture_city",
+      "code": "3309",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/舟山市.md",
+      "notes": ""
+    },
+    "浙江省::台州市": {
+      "province": "浙江省",
+      "name": "台州市",
+      "type": "prefecture_city",
+      "code": "3310",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/台州市.md",
+      "notes": ""
+    },
+    "浙江省::丽水市": {
+      "province": "浙江省",
+      "name": "丽水市",
+      "type": "prefecture_city",
+      "code": "3311",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/丽水市.md",
+      "notes": ""
+    },
+    "安徽省::合肥市": {
+      "province": "安徽省",
+      "name": "合肥市",
+      "type": "prefecture_city",
+      "code": "3401",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/合肥市.md",
+      "notes": ""
+    },
+    "安徽省::芜湖市": {
+      "province": "安徽省",
+      "name": "芜湖市",
+      "type": "prefecture_city",
+      "code": "3402",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/芜湖市.md",
+      "notes": ""
+    },
+    "安徽省::蚌埠市": {
+      "province": "安徽省",
+      "name": "蚌埠市",
+      "type": "prefecture_city",
+      "code": "3403",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/蚌埠市.md",
+      "notes": ""
+    },
+    "安徽省::淮南市": {
+      "province": "安徽省",
+      "name": "淮南市",
+      "type": "prefecture_city",
+      "code": "3404",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/淮南市.md",
+      "notes": ""
+    },
+    "安徽省::马鞍山市": {
+      "province": "安徽省",
+      "name": "马鞍山市",
+      "type": "prefecture_city",
+      "code": "3405",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/马鞍山市.md",
+      "notes": ""
+    },
+    "安徽省::淮北市": {
+      "province": "安徽省",
+      "name": "淮北市",
+      "type": "prefecture_city",
+      "code": "3406",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/淮北市.md",
+      "notes": ""
+    },
+    "安徽省::铜陵市": {
+      "province": "安徽省",
+      "name": "铜陵市",
+      "type": "prefecture_city",
+      "code": "3407",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/铜陵市.md",
+      "notes": ""
+    },
+    "安徽省::安庆市": {
+      "province": "安徽省",
+      "name": "安庆市",
+      "type": "prefecture_city",
+      "code": "3408",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/安庆市.md",
+      "notes": ""
+    },
+    "安徽省::黄山市": {
+      "province": "安徽省",
+      "name": "黄山市",
+      "type": "prefecture_city",
+      "code": "3410",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黄山市.md",
+      "notes": ""
+    },
+    "安徽省::滁州市": {
+      "province": "安徽省",
+      "name": "滁州市",
+      "type": "prefecture_city",
+      "code": "3411",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/滁州市.md",
+      "notes": ""
+    },
+    "安徽省::阜阳市": {
+      "province": "安徽省",
+      "name": "阜阳市",
+      "type": "prefecture_city",
+      "code": "3412",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阜阳市.md",
+      "notes": ""
+    },
+    "安徽省::宿州市": {
+      "province": "安徽省",
+      "name": "宿州市",
+      "type": "prefecture_city",
+      "code": "3413",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宿州市.md",
+      "notes": ""
+    },
+    "安徽省::六安市": {
+      "province": "安徽省",
+      "name": "六安市",
+      "type": "prefecture_city",
+      "code": "3415",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/六安市.md",
+      "notes": ""
+    },
+    "安徽省::亳州市": {
+      "province": "安徽省",
+      "name": "亳州市",
+      "type": "prefecture_city",
+      "code": "3416",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/亳州市.md",
+      "notes": ""
+    },
+    "安徽省::池州市": {
+      "province": "安徽省",
+      "name": "池州市",
+      "type": "prefecture_city",
+      "code": "3417",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/池州市.md",
+      "notes": ""
+    },
+    "安徽省::宣城市": {
+      "province": "安徽省",
+      "name": "宣城市",
+      "type": "prefecture_city",
+      "code": "3418",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宣城市.md",
+      "notes": ""
+    },
+    "福建省::福州市": {
+      "province": "福建省",
+      "name": "福州市",
+      "type": "prefecture_city",
+      "code": "3501",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/福州市.md",
+      "notes": ""
+    },
+    "福建省::厦门市": {
+      "province": "福建省",
+      "name": "厦门市",
+      "type": "prefecture_city",
+      "code": "3502",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/厦门市.md",
+      "notes": ""
+    },
+    "福建省::莆田市": {
+      "province": "福建省",
+      "name": "莆田市",
+      "type": "prefecture_city",
+      "code": "3503",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/莆田市.md",
+      "notes": ""
+    },
+    "福建省::三明市": {
+      "province": "福建省",
+      "name": "三明市",
+      "type": "prefecture_city",
+      "code": "3504",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/三明市.md",
+      "notes": ""
+    },
+    "福建省::泉州市": {
+      "province": "福建省",
+      "name": "泉州市",
+      "type": "prefecture_city",
+      "code": "3505",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/泉州市.md",
+      "notes": ""
+    },
+    "福建省::漳州市": {
+      "province": "福建省",
+      "name": "漳州市",
+      "type": "prefecture_city",
+      "code": "3506",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/漳州市.md",
+      "notes": ""
+    },
+    "福建省::南平市": {
+      "province": "福建省",
+      "name": "南平市",
+      "type": "prefecture_city",
+      "code": "3507",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南平市.md",
+      "notes": ""
+    },
+    "福建省::龙岩市": {
+      "province": "福建省",
+      "name": "龙岩市",
+      "type": "prefecture_city",
+      "code": "3508",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/龙岩市.md",
+      "notes": ""
+    },
+    "福建省::宁德市": {
+      "province": "福建省",
+      "name": "宁德市",
+      "type": "prefecture_city",
+      "code": "3509",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宁德市.md",
+      "notes": ""
+    },
+    "江西省::南昌市": {
+      "province": "江西省",
+      "name": "南昌市",
+      "type": "prefecture_city",
+      "code": "3601",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南昌市.md",
+      "notes": ""
+    },
+    "江西省::景德镇市": {
+      "province": "江西省",
+      "name": "景德镇市",
+      "type": "prefecture_city",
+      "code": "3602",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/景德镇市.md",
+      "notes": ""
+    },
+    "江西省::萍乡市": {
+      "province": "江西省",
+      "name": "萍乡市",
+      "type": "prefecture_city",
+      "code": "3603",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/萍乡市.md",
+      "notes": ""
+    },
+    "江西省::九江市": {
+      "province": "江西省",
+      "name": "九江市",
+      "type": "prefecture_city",
+      "code": "3604",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/九江市.md",
+      "notes": ""
+    },
+    "江西省::新余市": {
+      "province": "江西省",
+      "name": "新余市",
+      "type": "prefecture_city",
+      "code": "3605",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/新余市.md",
+      "notes": ""
+    },
+    "江西省::鹰潭市": {
+      "province": "江西省",
+      "name": "鹰潭市",
+      "type": "prefecture_city",
+      "code": "3606",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鹰潭市.md",
+      "notes": ""
+    },
+    "江西省::赣州市": {
+      "province": "江西省",
+      "name": "赣州市",
+      "type": "prefecture_city",
+      "code": "3607",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/赣州市.md",
+      "notes": ""
+    },
+    "江西省::吉安市": {
+      "province": "江西省",
+      "name": "吉安市",
+      "type": "prefecture_city",
+      "code": "3608",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/吉安市.md",
+      "notes": ""
+    },
+    "江西省::宜春市": {
+      "province": "江西省",
+      "name": "宜春市",
+      "type": "prefecture_city",
+      "code": "3609",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宜春市.md",
+      "notes": ""
+    },
+    "江西省::抚州市": {
+      "province": "江西省",
+      "name": "抚州市",
+      "type": "prefecture_city",
+      "code": "3610",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/抚州市.md",
+      "notes": ""
+    },
+    "江西省::上饶市": {
+      "province": "江西省",
+      "name": "上饶市",
+      "type": "prefecture_city",
+      "code": "3611",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/上饶市.md",
+      "notes": ""
+    },
+    "山东省::济南市": {
+      "province": "山东省",
+      "name": "济南市",
+      "type": "prefecture_city",
+      "code": "3701",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/济南市.md",
+      "notes": ""
+    },
+    "山东省::青岛市": {
+      "province": "山东省",
+      "name": "青岛市",
+      "type": "prefecture_city",
+      "code": "3702",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/青岛市.md",
+      "notes": ""
+    },
+    "山东省::淄博市": {
+      "province": "山东省",
+      "name": "淄博市",
+      "type": "prefecture_city",
+      "code": "3703",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/淄博市.md",
+      "notes": ""
+    },
+    "山东省::枣庄市": {
+      "province": "山东省",
+      "name": "枣庄市",
+      "type": "prefecture_city",
+      "code": "3704",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/枣庄市.md",
+      "notes": ""
+    },
+    "山东省::东营市": {
+      "province": "山东省",
+      "name": "东营市",
+      "type": "prefecture_city",
+      "code": "3705",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/东营市.md",
+      "notes": ""
+    },
+    "山东省::烟台市": {
+      "province": "山东省",
+      "name": "烟台市",
+      "type": "prefecture_city",
+      "code": "3706",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/烟台市.md",
+      "notes": ""
+    },
+    "山东省::潍坊市": {
+      "province": "山东省",
+      "name": "潍坊市",
+      "type": "prefecture_city",
+      "code": "3707",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/潍坊市.md",
+      "notes": ""
+    },
+    "山东省::济宁市": {
+      "province": "山东省",
+      "name": "济宁市",
+      "type": "prefecture_city",
+      "code": "3708",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/济宁市.md",
+      "notes": ""
+    },
+    "山东省::泰安市": {
+      "province": "山东省",
+      "name": "泰安市",
+      "type": "prefecture_city",
+      "code": "3709",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/泰安市.md",
+      "notes": ""
+    },
+    "山东省::威海市": {
+      "province": "山东省",
+      "name": "威海市",
+      "type": "prefecture_city",
+      "code": "3710",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/威海市.md",
+      "notes": ""
+    },
+    "山东省::日照市": {
+      "province": "山东省",
+      "name": "日照市",
+      "type": "prefecture_city",
+      "code": "3711",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/日照市.md",
+      "notes": ""
+    },
+    "山东省::临沂市": {
+      "province": "山东省",
+      "name": "临沂市",
+      "type": "prefecture_city",
+      "code": "3713",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/临沂市.md",
+      "notes": ""
+    },
+    "山东省::德州市": {
+      "province": "山东省",
+      "name": "德州市",
+      "type": "prefecture_city",
+      "code": "3714",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/德州市.md",
+      "notes": ""
+    },
+    "山东省::聊城市": {
+      "province": "山东省",
+      "name": "聊城市",
+      "type": "prefecture_city",
+      "code": "3715",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/聊城市.md",
+      "notes": ""
+    },
+    "山东省::滨州市": {
+      "province": "山东省",
+      "name": "滨州市",
+      "type": "prefecture_city",
+      "code": "3716",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/滨州市.md",
+      "notes": ""
+    },
+    "山东省::菏泽市": {
+      "province": "山东省",
+      "name": "菏泽市",
+      "type": "prefecture_city",
+      "code": "3717",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/菏泽市.md",
+      "notes": ""
+    },
+    "河南省::郑州市": {
+      "province": "河南省",
+      "name": "郑州市",
+      "type": "prefecture_city",
+      "code": "4101",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/郑州市.md",
+      "notes": ""
+    },
+    "河南省::开封市": {
+      "province": "河南省",
+      "name": "开封市",
+      "type": "prefecture_city",
+      "code": "4102",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/开封市.md",
+      "notes": ""
+    },
+    "河南省::洛阳市": {
+      "province": "河南省",
+      "name": "洛阳市",
+      "type": "prefecture_city",
+      "code": "4103",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/洛阳市.md",
+      "notes": ""
+    },
+    "河南省::平顶山市": {
+      "province": "河南省",
+      "name": "平顶山市",
+      "type": "prefecture_city",
+      "code": "4104",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/平顶山市.md",
+      "notes": ""
+    },
+    "河南省::安阳市": {
+      "province": "河南省",
+      "name": "安阳市",
+      "type": "prefecture_city",
+      "code": "4105",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/安阳市.md",
+      "notes": ""
+    },
+    "河南省::鹤壁市": {
+      "province": "河南省",
+      "name": "鹤壁市",
+      "type": "prefecture_city",
+      "code": "4106",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鹤壁市.md",
+      "notes": ""
+    },
+    "河南省::新乡市": {
+      "province": "河南省",
+      "name": "新乡市",
+      "type": "prefecture_city",
+      "code": "4107",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/新乡市.md",
+      "notes": ""
+    },
+    "河南省::焦作市": {
+      "province": "河南省",
+      "name": "焦作市",
+      "type": "prefecture_city",
+      "code": "4108",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/焦作市.md",
+      "notes": ""
+    },
+    "河南省::濮阳市": {
+      "province": "河南省",
+      "name": "濮阳市",
+      "type": "prefecture_city",
+      "code": "4109",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/濮阳市.md",
+      "notes": ""
+    },
+    "河南省::许昌市": {
+      "province": "河南省",
+      "name": "许昌市",
+      "type": "prefecture_city",
+      "code": "4110",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/许昌市.md",
+      "notes": ""
+    },
+    "河南省::漯河市": {
+      "province": "河南省",
+      "name": "漯河市",
+      "type": "prefecture_city",
+      "code": "4111",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/漯河市.md",
+      "notes": ""
+    },
+    "河南省::三门峡市": {
+      "province": "河南省",
+      "name": "三门峡市",
+      "type": "prefecture_city",
+      "code": "4112",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/三门峡市.md",
+      "notes": ""
+    },
+    "河南省::南阳市": {
+      "province": "河南省",
+      "name": "南阳市",
+      "type": "prefecture_city",
+      "code": "4113",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南阳市.md",
+      "notes": ""
+    },
+    "河南省::商丘市": {
+      "province": "河南省",
+      "name": "商丘市",
+      "type": "prefecture_city",
+      "code": "4114",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/商丘市.md",
+      "notes": ""
+    },
+    "河南省::信阳市": {
+      "province": "河南省",
+      "name": "信阳市",
+      "type": "prefecture_city",
+      "code": "4115",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/信阳市.md",
+      "notes": ""
+    },
+    "河南省::周口市": {
+      "province": "河南省",
+      "name": "周口市",
+      "type": "prefecture_city",
+      "code": "4116",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/周口市.md",
+      "notes": ""
+    },
+    "河南省::驻马店市": {
+      "province": "河南省",
+      "name": "驻马店市",
+      "type": "prefecture_city",
+      "code": "4117",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/驻马店市.md",
+      "notes": ""
+    },
+    "河南省::省直辖县级行政区划": {
+      "province": "河南省",
+      "name": "省直辖县级行政区划",
+      "type": "prefecture",
+      "code": "4190",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/省直辖县级行政区划.md",
+      "notes": ""
+    },
+    "湖北省::武汉市": {
+      "province": "湖北省",
+      "name": "武汉市",
+      "type": "prefecture_city",
+      "code": "4201",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/武汉市.md",
+      "notes": ""
+    },
+    "湖北省::黄石市": {
+      "province": "湖北省",
+      "name": "黄石市",
+      "type": "prefecture_city",
+      "code": "4202",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黄石市.md",
+      "notes": ""
+    },
+    "湖北省::十堰市": {
+      "province": "湖北省",
+      "name": "十堰市",
+      "type": "prefecture_city",
+      "code": "4203",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/十堰市.md",
+      "notes": ""
+    },
+    "湖北省::宜昌市": {
+      "province": "湖北省",
+      "name": "宜昌市",
+      "type": "prefecture_city",
+      "code": "4205",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宜昌市.md",
+      "notes": ""
+    },
+    "湖北省::襄阳市": {
+      "province": "湖北省",
+      "name": "襄阳市",
+      "type": "prefecture_city",
+      "code": "4206",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/襄阳市.md",
+      "notes": ""
+    },
+    "湖北省::鄂州市": {
+      "province": "湖北省",
+      "name": "鄂州市",
+      "type": "prefecture_city",
+      "code": "4207",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/鄂州市.md",
+      "notes": ""
+    },
+    "湖北省::荆门市": {
+      "province": "湖北省",
+      "name": "荆门市",
+      "type": "prefecture_city",
+      "code": "4208",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/荆门市.md",
+      "notes": ""
+    },
+    "湖北省::孝感市": {
+      "province": "湖北省",
+      "name": "孝感市",
+      "type": "prefecture_city",
+      "code": "4209",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/孝感市.md",
+      "notes": ""
+    },
+    "湖北省::荆州市": {
+      "province": "湖北省",
+      "name": "荆州市",
+      "type": "prefecture_city",
+      "code": "4210",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/荆州市.md",
+      "notes": ""
+    },
+    "湖北省::黄冈市": {
+      "province": "湖北省",
+      "name": "黄冈市",
+      "type": "prefecture_city",
+      "code": "4211",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黄冈市.md",
+      "notes": ""
+    },
+    "湖北省::咸宁市": {
+      "province": "湖北省",
+      "name": "咸宁市",
+      "type": "prefecture_city",
+      "code": "4212",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/咸宁市.md",
+      "notes": ""
+    },
+    "湖北省::随州市": {
+      "province": "湖北省",
+      "name": "随州市",
+      "type": "prefecture_city",
+      "code": "4213",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/随州市.md",
+      "notes": ""
+    },
+    "湖北省::恩施土家族苗族自治州": {
+      "province": "湖北省",
+      "name": "恩施土家族苗族自治州",
+      "type": "autonomous_prefecture",
+      "code": "4228",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/恩施土家族苗族自治州.md",
+      "notes": ""
+    },
+    "湖北省::省直辖县级行政区划": {
+      "province": "湖北省",
+      "name": "省直辖县级行政区划",
+      "type": "prefecture",
+      "code": "4290",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/省直辖县级行政区划.md",
+      "notes": ""
+    },
+    "湖南省::长沙市": {
+      "province": "湖南省",
+      "name": "长沙市",
+      "type": "prefecture_city",
+      "code": "4301",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/长沙市.md",
+      "notes": ""
+    },
+    "湖南省::株洲市": {
+      "province": "湖南省",
+      "name": "株洲市",
+      "type": "prefecture_city",
+      "code": "4302",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/株洲市.md",
+      "notes": ""
+    },
+    "湖南省::湘潭市": {
+      "province": "湖南省",
+      "name": "湘潭市",
+      "type": "prefecture_city",
+      "code": "4303",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/湘潭市.md",
+      "notes": ""
+    },
+    "湖南省::衡阳市": {
+      "province": "湖南省",
+      "name": "衡阳市",
+      "type": "prefecture_city",
+      "code": "4304",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/衡阳市.md",
+      "notes": ""
+    },
+    "湖南省::邵阳市": {
+      "province": "湖南省",
+      "name": "邵阳市",
+      "type": "prefecture_city",
+      "code": "4305",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/邵阳市.md",
+      "notes": ""
+    },
+    "湖南省::岳阳市": {
+      "province": "湖南省",
+      "name": "岳阳市",
+      "type": "prefecture_city",
+      "code": "4306",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/岳阳市.md",
+      "notes": ""
+    },
+    "湖南省::常德市": {
+      "province": "湖南省",
+      "name": "常德市",
+      "type": "prefecture_city",
+      "code": "4307",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/常德市.md",
+      "notes": ""
+    },
+    "湖南省::张家界市": {
+      "province": "湖南省",
+      "name": "张家界市",
+      "type": "prefecture_city",
+      "code": "4308",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/张家界市.md",
+      "notes": ""
+    },
+    "湖南省::益阳市": {
+      "province": "湖南省",
+      "name": "益阳市",
+      "type": "prefecture_city",
+      "code": "4309",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/益阳市.md",
+      "notes": ""
+    },
+    "湖南省::郴州市": {
+      "province": "湖南省",
+      "name": "郴州市",
+      "type": "prefecture_city",
+      "code": "4310",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/郴州市.md",
+      "notes": ""
+    },
+    "湖南省::永州市": {
+      "province": "湖南省",
+      "name": "永州市",
+      "type": "prefecture_city",
+      "code": "4311",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/永州市.md",
+      "notes": ""
+    },
+    "湖南省::怀化市": {
+      "province": "湖南省",
+      "name": "怀化市",
+      "type": "prefecture_city",
+      "code": "4312",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/怀化市.md",
+      "notes": ""
+    },
+    "湖南省::娄底市": {
+      "province": "湖南省",
+      "name": "娄底市",
+      "type": "prefecture_city",
+      "code": "4313",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/娄底市.md",
+      "notes": ""
+    },
+    "湖南省::湘西土家族苗族自治州": {
+      "province": "湖南省",
+      "name": "湘西土家族苗族自治州",
+      "type": "autonomous_prefecture",
+      "code": "4331",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/湘西土家族苗族自治州.md",
+      "notes": ""
+    },
+    "广东省::广州市": {
+      "province": "广东省",
+      "name": "广州市",
+      "type": "prefecture_city",
+      "code": "4401",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/广州市.md",
+      "notes": ""
+    },
+    "广东省::韶关市": {
+      "province": "广东省",
+      "name": "韶关市",
+      "type": "prefecture_city",
+      "code": "4402",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/韶关市.md",
+      "notes": ""
+    },
+    "广东省::深圳市": {
+      "province": "广东省",
+      "name": "深圳市",
+      "type": "prefecture_city",
+      "code": "4403",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/深圳市.md",
+      "notes": ""
+    },
+    "广东省::珠海市": {
+      "province": "广东省",
+      "name": "珠海市",
+      "type": "prefecture_city",
+      "code": "4404",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/珠海市.md",
+      "notes": ""
+    },
+    "广东省::汕头市": {
+      "province": "广东省",
+      "name": "汕头市",
+      "type": "prefecture_city",
+      "code": "4405",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/汕头市.md",
+      "notes": ""
+    },
+    "广东省::佛山市": {
+      "province": "广东省",
+      "name": "佛山市",
+      "type": "prefecture_city",
+      "code": "4406",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/佛山市.md",
+      "notes": ""
+    },
+    "广东省::江门市": {
+      "province": "广东省",
+      "name": "江门市",
+      "type": "prefecture_city",
+      "code": "4407",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/江门市.md",
+      "notes": ""
+    },
+    "广东省::湛江市": {
+      "province": "广东省",
+      "name": "湛江市",
+      "type": "prefecture_city",
+      "code": "4408",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/湛江市.md",
+      "notes": ""
+    },
+    "广东省::茂名市": {
+      "province": "广东省",
+      "name": "茂名市",
+      "type": "prefecture_city",
+      "code": "4409",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/茂名市.md",
+      "notes": ""
+    },
+    "广东省::肇庆市": {
+      "province": "广东省",
+      "name": "肇庆市",
+      "type": "prefecture_city",
+      "code": "4412",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/肇庆市.md",
+      "notes": ""
+    },
+    "广东省::惠州市": {
+      "province": "广东省",
+      "name": "惠州市",
+      "type": "prefecture_city",
+      "code": "4413",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/惠州市.md",
+      "notes": ""
+    },
+    "广东省::梅州市": {
+      "province": "广东省",
+      "name": "梅州市",
+      "type": "prefecture_city",
+      "code": "4414",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/梅州市.md",
+      "notes": ""
+    },
+    "广东省::汕尾市": {
+      "province": "广东省",
+      "name": "汕尾市",
+      "type": "prefecture_city",
+      "code": "4415",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/汕尾市.md",
+      "notes": ""
+    },
+    "广东省::河源市": {
+      "province": "广东省",
+      "name": "河源市",
+      "type": "prefecture_city",
+      "code": "4416",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/河源市.md",
+      "notes": ""
+    },
+    "广东省::阳江市": {
+      "province": "广东省",
+      "name": "阳江市",
+      "type": "prefecture_city",
+      "code": "4417",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阳江市.md",
+      "notes": ""
+    },
+    "广东省::清远市": {
+      "province": "广东省",
+      "name": "清远市",
+      "type": "prefecture_city",
+      "code": "4418",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/清远市.md",
+      "notes": ""
+    },
+    "广东省::东莞市": {
+      "province": "广东省",
+      "name": "东莞市",
+      "type": "prefecture_city",
+      "code": "4419",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/东莞市.md",
+      "notes": ""
+    },
+    "广东省::中山市": {
+      "province": "广东省",
+      "name": "中山市",
+      "type": "prefecture_city",
+      "code": "4420",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/中山市.md",
+      "notes": ""
+    },
+    "广东省::潮州市": {
+      "province": "广东省",
+      "name": "潮州市",
+      "type": "prefecture_city",
+      "code": "4451",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/潮州市.md",
+      "notes": ""
+    },
+    "广东省::揭阳市": {
+      "province": "广东省",
+      "name": "揭阳市",
+      "type": "prefecture_city",
+      "code": "4452",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/揭阳市.md",
+      "notes": ""
+    },
+    "广东省::云浮市": {
+      "province": "广东省",
+      "name": "云浮市",
+      "type": "prefecture_city",
+      "code": "4453",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/云浮市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::南宁市": {
+      "province": "广西壮族自治区",
+      "name": "南宁市",
+      "type": "prefecture_city",
+      "code": "4501",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南宁市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::柳州市": {
+      "province": "广西壮族自治区",
+      "name": "柳州市",
+      "type": "prefecture_city",
+      "code": "4502",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/柳州市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::桂林市": {
+      "province": "广西壮族自治区",
+      "name": "桂林市",
+      "type": "prefecture_city",
+      "code": "4503",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/桂林市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::梧州市": {
+      "province": "广西壮族自治区",
+      "name": "梧州市",
+      "type": "prefecture_city",
+      "code": "4504",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/梧州市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::北海市": {
+      "province": "广西壮族自治区",
+      "name": "北海市",
+      "type": "prefecture_city",
+      "code": "4505",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/北海市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::防城港市": {
+      "province": "广西壮族自治区",
+      "name": "防城港市",
+      "type": "prefecture_city",
+      "code": "4506",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/防城港市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::钦州市": {
+      "province": "广西壮族自治区",
+      "name": "钦州市",
+      "type": "prefecture_city",
+      "code": "4507",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/钦州市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::贵港市": {
+      "province": "广西壮族自治区",
+      "name": "贵港市",
+      "type": "prefecture_city",
+      "code": "4508",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/贵港市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::玉林市": {
+      "province": "广西壮族自治区",
+      "name": "玉林市",
+      "type": "prefecture_city",
+      "code": "4509",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/玉林市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::百色市": {
+      "province": "广西壮族自治区",
+      "name": "百色市",
+      "type": "prefecture_city",
+      "code": "4510",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/百色市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::贺州市": {
+      "province": "广西壮族自治区",
+      "name": "贺州市",
+      "type": "prefecture_city",
+      "code": "4511",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/贺州市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::河池市": {
+      "province": "广西壮族自治区",
+      "name": "河池市",
+      "type": "prefecture_city",
+      "code": "4512",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/河池市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::来宾市": {
+      "province": "广西壮族自治区",
+      "name": "来宾市",
+      "type": "prefecture_city",
+      "code": "4513",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/来宾市.md",
+      "notes": ""
+    },
+    "广西壮族自治区::崇左市": {
+      "province": "广西壮族自治区",
+      "name": "崇左市",
+      "type": "prefecture_city",
+      "code": "4514",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/崇左市.md",
+      "notes": ""
+    },
+    "海南省::海口市": {
+      "province": "海南省",
+      "name": "海口市",
+      "type": "prefecture_city",
+      "code": "4601",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/海口市.md",
+      "notes": ""
+    },
+    "海南省::三亚市": {
+      "province": "海南省",
+      "name": "三亚市",
+      "type": "prefecture_city",
+      "code": "4602",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/三亚市.md",
+      "notes": ""
+    },
+    "海南省::三沙市": {
+      "province": "海南省",
+      "name": "三沙市",
+      "type": "prefecture_city",
+      "code": "4603",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/三沙市.md",
+      "notes": ""
+    },
+    "海南省::儋州市": {
+      "province": "海南省",
+      "name": "儋州市",
+      "type": "prefecture_city",
+      "code": "4604",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/儋州市.md",
+      "notes": ""
+    },
+    "海南省::省直辖县级行政区划": {
+      "province": "海南省",
+      "name": "省直辖县级行政区划",
+      "type": "prefecture",
+      "code": "4690",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/省直辖县级行政区划.md",
+      "notes": ""
+    },
+    "重庆市::市辖区": {
+      "province": "重庆市",
+      "name": "市辖区",
+      "type": "prefecture_city",
+      "code": "5001",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/市辖区.md",
+      "notes": ""
+    },
+    "重庆市::县": {
+      "province": "重庆市",
+      "name": "县",
+      "type": "prefecture",
+      "code": "5002",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/县.md",
+      "notes": ""
+    },
+    "四川省::成都市": {
+      "province": "四川省",
+      "name": "成都市",
+      "type": "prefecture_city",
+      "code": "5101",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/成都市.md",
+      "notes": ""
+    },
+    "四川省::自贡市": {
+      "province": "四川省",
+      "name": "自贡市",
+      "type": "prefecture_city",
+      "code": "5103",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/自贡市.md",
+      "notes": ""
+    },
+    "四川省::攀枝花市": {
+      "province": "四川省",
+      "name": "攀枝花市",
+      "type": "prefecture_city",
+      "code": "5104",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/攀枝花市.md",
+      "notes": ""
+    },
+    "四川省::泸州市": {
+      "province": "四川省",
+      "name": "泸州市",
+      "type": "prefecture_city",
+      "code": "5105",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/泸州市.md",
+      "notes": ""
+    },
+    "四川省::德阳市": {
+      "province": "四川省",
+      "name": "德阳市",
+      "type": "prefecture_city",
+      "code": "5106",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/德阳市.md",
+      "notes": ""
+    },
+    "四川省::绵阳市": {
+      "province": "四川省",
+      "name": "绵阳市",
+      "type": "prefecture_city",
+      "code": "5107",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/绵阳市.md",
+      "notes": ""
+    },
+    "四川省::广元市": {
+      "province": "四川省",
+      "name": "广元市",
+      "type": "prefecture_city",
+      "code": "5108",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/广元市.md",
+      "notes": ""
+    },
+    "四川省::遂宁市": {
+      "province": "四川省",
+      "name": "遂宁市",
+      "type": "prefecture_city",
+      "code": "5109",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/遂宁市.md",
+      "notes": ""
+    },
+    "四川省::内江市": {
+      "province": "四川省",
+      "name": "内江市",
+      "type": "prefecture_city",
+      "code": "5110",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/内江市.md",
+      "notes": ""
+    },
+    "四川省::乐山市": {
+      "province": "四川省",
+      "name": "乐山市",
+      "type": "prefecture_city",
+      "code": "5111",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/乐山市.md",
+      "notes": ""
+    },
+    "四川省::南充市": {
+      "province": "四川省",
+      "name": "南充市",
+      "type": "prefecture_city",
+      "code": "5113",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/南充市.md",
+      "notes": ""
+    },
+    "四川省::眉山市": {
+      "province": "四川省",
+      "name": "眉山市",
+      "type": "prefecture_city",
+      "code": "5114",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/眉山市.md",
+      "notes": ""
+    },
+    "四川省::宜宾市": {
+      "province": "四川省",
+      "name": "宜宾市",
+      "type": "prefecture_city",
+      "code": "5115",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宜宾市.md",
+      "notes": ""
+    },
+    "四川省::广安市": {
+      "province": "四川省",
+      "name": "广安市",
+      "type": "prefecture_city",
+      "code": "5116",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/广安市.md",
+      "notes": ""
+    },
+    "四川省::达州市": {
+      "province": "四川省",
+      "name": "达州市",
+      "type": "prefecture_city",
+      "code": "5117",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/达州市.md",
+      "notes": ""
+    },
+    "四川省::雅安市": {
+      "province": "四川省",
+      "name": "雅安市",
+      "type": "prefecture_city",
+      "code": "5118",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/雅安市.md",
+      "notes": ""
+    },
+    "四川省::巴中市": {
+      "province": "四川省",
+      "name": "巴中市",
+      "type": "prefecture_city",
+      "code": "5119",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/巴中市.md",
+      "notes": ""
+    },
+    "四川省::资阳市": {
+      "province": "四川省",
+      "name": "资阳市",
+      "type": "prefecture_city",
+      "code": "5120",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/资阳市.md",
+      "notes": ""
+    },
+    "四川省::阿坝藏族羌族自治州": {
+      "province": "四川省",
+      "name": "阿坝藏族羌族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5132",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阿坝藏族羌族自治州.md",
+      "notes": ""
+    },
+    "四川省::甘孜藏族自治州": {
+      "province": "四川省",
+      "name": "甘孜藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5133",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/甘孜藏族自治州.md",
+      "notes": ""
+    },
+    "四川省::凉山彝族自治州": {
+      "province": "四川省",
+      "name": "凉山彝族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5134",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/凉山彝族自治州.md",
+      "notes": ""
+    },
+    "贵州省::贵阳市": {
+      "province": "贵州省",
+      "name": "贵阳市",
+      "type": "prefecture_city",
+      "code": "5201",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/贵阳市.md",
+      "notes": ""
+    },
+    "贵州省::六盘水市": {
+      "province": "贵州省",
+      "name": "六盘水市",
+      "type": "prefecture_city",
+      "code": "5202",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/六盘水市.md",
+      "notes": ""
+    },
+    "贵州省::遵义市": {
+      "province": "贵州省",
+      "name": "遵义市",
+      "type": "prefecture_city",
+      "code": "5203",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/遵义市.md",
+      "notes": ""
+    },
+    "贵州省::安顺市": {
+      "province": "贵州省",
+      "name": "安顺市",
+      "type": "prefecture_city",
+      "code": "5204",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/安顺市.md",
+      "notes": ""
+    },
+    "贵州省::毕节市": {
+      "province": "贵州省",
+      "name": "毕节市",
+      "type": "prefecture_city",
+      "code": "5205",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/毕节市.md",
+      "notes": ""
+    },
+    "贵州省::铜仁市": {
+      "province": "贵州省",
+      "name": "铜仁市",
+      "type": "prefecture_city",
+      "code": "5206",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/铜仁市.md",
+      "notes": ""
+    },
+    "贵州省::黔西南布依族苗族自治州": {
+      "province": "贵州省",
+      "name": "黔西南布依族苗族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5223",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黔西南布依族苗族自治州.md",
+      "notes": ""
+    },
+    "贵州省::黔东南苗族侗族自治州": {
+      "province": "贵州省",
+      "name": "黔东南苗族侗族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5226",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黔东南苗族侗族自治州.md",
+      "notes": ""
+    },
+    "贵州省::黔南布依族苗族自治州": {
+      "province": "贵州省",
+      "name": "黔南布依族苗族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5227",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黔南布依族苗族自治州.md",
+      "notes": ""
+    },
+    "云南省::昆明市": {
+      "province": "云南省",
+      "name": "昆明市",
+      "type": "prefecture_city",
+      "code": "5301",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/昆明市.md",
+      "notes": ""
+    },
+    "云南省::曲靖市": {
+      "province": "云南省",
+      "name": "曲靖市",
+      "type": "prefecture_city",
+      "code": "5303",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/曲靖市.md",
+      "notes": ""
+    },
+    "云南省::玉溪市": {
+      "province": "云南省",
+      "name": "玉溪市",
+      "type": "prefecture_city",
+      "code": "5304",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/玉溪市.md",
+      "notes": ""
+    },
+    "云南省::保山市": {
+      "province": "云南省",
+      "name": "保山市",
+      "type": "prefecture_city",
+      "code": "5305",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/保山市.md",
+      "notes": ""
+    },
+    "云南省::昭通市": {
+      "province": "云南省",
+      "name": "昭通市",
+      "type": "prefecture_city",
+      "code": "5306",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/昭通市.md",
+      "notes": ""
+    },
+    "云南省::丽江市": {
+      "province": "云南省",
+      "name": "丽江市",
+      "type": "prefecture_city",
+      "code": "5307",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/丽江市.md",
+      "notes": ""
+    },
+    "云南省::普洱市": {
+      "province": "云南省",
+      "name": "普洱市",
+      "type": "prefecture_city",
+      "code": "5308",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/普洱市.md",
+      "notes": ""
+    },
+    "云南省::临沧市": {
+      "province": "云南省",
+      "name": "临沧市",
+      "type": "prefecture_city",
+      "code": "5309",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/临沧市.md",
+      "notes": ""
+    },
+    "云南省::楚雄彝族自治州": {
+      "province": "云南省",
+      "name": "楚雄彝族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5323",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/楚雄彝族自治州.md",
+      "notes": ""
+    },
+    "云南省::红河哈尼族彝族自治州": {
+      "province": "云南省",
+      "name": "红河哈尼族彝族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5325",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/红河哈尼族彝族自治州.md",
+      "notes": ""
+    },
+    "云南省::文山壮族苗族自治州": {
+      "province": "云南省",
+      "name": "文山壮族苗族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5326",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/文山壮族苗族自治州.md",
+      "notes": ""
+    },
+    "云南省::西双版纳傣族自治州": {
+      "province": "云南省",
+      "name": "西双版纳傣族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5328",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/西双版纳傣族自治州.md",
+      "notes": ""
+    },
+    "云南省::大理白族自治州": {
+      "province": "云南省",
+      "name": "大理白族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5329",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/大理白族自治州.md",
+      "notes": ""
+    },
+    "云南省::德宏傣族景颇族自治州": {
+      "province": "云南省",
+      "name": "德宏傣族景颇族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5331",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/德宏傣族景颇族自治州.md",
+      "notes": ""
+    },
+    "云南省::怒江傈僳族自治州": {
+      "province": "云南省",
+      "name": "怒江傈僳族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5333",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/怒江傈僳族自治州.md",
+      "notes": ""
+    },
+    "云南省::迪庆藏族自治州": {
+      "province": "云南省",
+      "name": "迪庆藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "5334",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/迪庆藏族自治州.md",
+      "notes": ""
+    },
+    "西藏自治区::拉萨市": {
+      "province": "西藏自治区",
+      "name": "拉萨市",
+      "type": "prefecture_city",
+      "code": "5401",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/拉萨市.md",
+      "notes": ""
+    },
+    "西藏自治区::日喀则市": {
+      "province": "西藏自治区",
+      "name": "日喀则市",
+      "type": "prefecture_city",
+      "code": "5402",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/日喀则市.md",
+      "notes": ""
+    },
+    "西藏自治区::昌都市": {
+      "province": "西藏自治区",
+      "name": "昌都市",
+      "type": "prefecture_city",
+      "code": "5403",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/昌都市.md",
+      "notes": ""
+    },
+    "西藏自治区::林芝市": {
+      "province": "西藏自治区",
+      "name": "林芝市",
+      "type": "prefecture_city",
+      "code": "5404",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/林芝市.md",
+      "notes": ""
+    },
+    "西藏自治区::山南市": {
+      "province": "西藏自治区",
+      "name": "山南市",
+      "type": "prefecture_city",
+      "code": "5405",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/山南市.md",
+      "notes": ""
+    },
+    "西藏自治区::那曲市": {
+      "province": "西藏自治区",
+      "name": "那曲市",
+      "type": "prefecture_city",
+      "code": "5406",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/那曲市.md",
+      "notes": ""
+    },
+    "西藏自治区::阿里地区": {
+      "province": "西藏自治区",
+      "name": "阿里地区",
+      "type": "prefecture_region",
+      "code": "5425",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阿里地区.md",
+      "notes": ""
+    },
+    "陕西省::西安市": {
+      "province": "陕西省",
+      "name": "西安市",
+      "type": "prefecture_city",
+      "code": "6101",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/西安市.md",
+      "notes": ""
+    },
+    "陕西省::铜川市": {
+      "province": "陕西省",
+      "name": "铜川市",
+      "type": "prefecture_city",
+      "code": "6102",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/铜川市.md",
+      "notes": ""
+    },
+    "陕西省::宝鸡市": {
+      "province": "陕西省",
+      "name": "宝鸡市",
+      "type": "prefecture_city",
+      "code": "6103",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/宝鸡市.md",
+      "notes": ""
+    },
+    "陕西省::咸阳市": {
+      "province": "陕西省",
+      "name": "咸阳市",
+      "type": "prefecture_city",
+      "code": "6104",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/咸阳市.md",
+      "notes": ""
+    },
+    "陕西省::渭南市": {
+      "province": "陕西省",
+      "name": "渭南市",
+      "type": "prefecture_city",
+      "code": "6105",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/渭南市.md",
+      "notes": ""
+    },
+    "陕西省::延安市": {
+      "province": "陕西省",
+      "name": "延安市",
+      "type": "prefecture_city",
+      "code": "6106",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/延安市.md",
+      "notes": ""
+    },
+    "陕西省::汉中市": {
+      "province": "陕西省",
+      "name": "汉中市",
+      "type": "prefecture_city",
+      "code": "6107",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/汉中市.md",
+      "notes": ""
+    },
+    "陕西省::榆林市": {
+      "province": "陕西省",
+      "name": "榆林市",
+      "type": "prefecture_city",
+      "code": "6108",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/榆林市.md",
+      "notes": ""
+    },
+    "陕西省::安康市": {
+      "province": "陕西省",
+      "name": "安康市",
+      "type": "prefecture_city",
+      "code": "6109",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/安康市.md",
+      "notes": ""
+    },
+    "陕西省::商洛市": {
+      "province": "陕西省",
+      "name": "商洛市",
+      "type": "prefecture_city",
+      "code": "6110",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/商洛市.md",
+      "notes": ""
+    },
+    "甘肃省::兰州市": {
+      "province": "甘肃省",
+      "name": "兰州市",
+      "type": "prefecture_city",
+      "code": "6201",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/兰州市.md",
+      "notes": ""
+    },
+    "甘肃省::嘉峪关市": {
+      "province": "甘肃省",
+      "name": "嘉峪关市",
+      "type": "prefecture_city",
+      "code": "6202",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/嘉峪关市.md",
+      "notes": ""
+    },
+    "甘肃省::金昌市": {
+      "province": "甘肃省",
+      "name": "金昌市",
+      "type": "prefecture_city",
+      "code": "6203",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/金昌市.md",
+      "notes": ""
+    },
+    "甘肃省::白银市": {
+      "province": "甘肃省",
+      "name": "白银市",
+      "type": "prefecture_city",
+      "code": "6204",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/白银市.md",
+      "notes": ""
+    },
+    "甘肃省::天水市": {
+      "province": "甘肃省",
+      "name": "天水市",
+      "type": "prefecture_city",
+      "code": "6205",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/天水市.md",
+      "notes": ""
+    },
+    "甘肃省::武威市": {
+      "province": "甘肃省",
+      "name": "武威市",
+      "type": "prefecture_city",
+      "code": "6206",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/武威市.md",
+      "notes": ""
+    },
+    "甘肃省::张掖市": {
+      "province": "甘肃省",
+      "name": "张掖市",
+      "type": "prefecture_city",
+      "code": "6207",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/张掖市.md",
+      "notes": ""
+    },
+    "甘肃省::平凉市": {
+      "province": "甘肃省",
+      "name": "平凉市",
+      "type": "prefecture_city",
+      "code": "6208",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/平凉市.md",
+      "notes": ""
+    },
+    "甘肃省::酒泉市": {
+      "province": "甘肃省",
+      "name": "酒泉市",
+      "type": "prefecture_city",
+      "code": "6209",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/酒泉市.md",
+      "notes": ""
+    },
+    "甘肃省::庆阳市": {
+      "province": "甘肃省",
+      "name": "庆阳市",
+      "type": "prefecture_city",
+      "code": "6210",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/庆阳市.md",
+      "notes": ""
+    },
+    "甘肃省::定西市": {
+      "province": "甘肃省",
+      "name": "定西市",
+      "type": "prefecture_city",
+      "code": "6211",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/定西市.md",
+      "notes": ""
+    },
+    "甘肃省::陇南市": {
+      "province": "甘肃省",
+      "name": "陇南市",
+      "type": "prefecture_city",
+      "code": "6212",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/陇南市.md",
+      "notes": ""
+    },
+    "甘肃省::临夏回族自治州": {
+      "province": "甘肃省",
+      "name": "临夏回族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6229",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/临夏回族自治州.md",
+      "notes": ""
+    },
+    "甘肃省::甘南藏族自治州": {
+      "province": "甘肃省",
+      "name": "甘南藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6230",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/甘南藏族自治州.md",
+      "notes": ""
+    },
+    "青海省::西宁市": {
+      "province": "青海省",
+      "name": "西宁市",
+      "type": "prefecture_city",
+      "code": "6301",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/西宁市.md",
+      "notes": ""
+    },
+    "青海省::海东市": {
+      "province": "青海省",
+      "name": "海东市",
+      "type": "prefecture_city",
+      "code": "6302",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/海东市.md",
+      "notes": ""
+    },
+    "青海省::海北藏族自治州": {
+      "province": "青海省",
+      "name": "海北藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6322",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/海北藏族自治州.md",
+      "notes": ""
+    },
+    "青海省::黄南藏族自治州": {
+      "province": "青海省",
+      "name": "黄南藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6323",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/黄南藏族自治州.md",
+      "notes": ""
+    },
+    "青海省::海南藏族自治州": {
+      "province": "青海省",
+      "name": "海南藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6325",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/海南藏族自治州.md",
+      "notes": ""
+    },
+    "青海省::果洛藏族自治州": {
+      "province": "青海省",
+      "name": "果洛藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6326",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/果洛藏族自治州.md",
+      "notes": ""
+    },
+    "青海省::玉树藏族自治州": {
+      "province": "青海省",
+      "name": "玉树藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6327",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/玉树藏族自治州.md",
+      "notes": ""
+    },
+    "青海省::海西蒙古族藏族自治州": {
+      "province": "青海省",
+      "name": "海西蒙古族藏族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6328",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/海西蒙古族藏族自治州.md",
+      "notes": ""
+    },
+    "宁夏回族自治区::银川市": {
+      "province": "宁夏回族自治区",
+      "name": "银川市",
+      "type": "prefecture_city",
+      "code": "6401",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/银川市.md",
+      "notes": ""
+    },
+    "宁夏回族自治区::石嘴山市": {
+      "province": "宁夏回族自治区",
+      "name": "石嘴山市",
+      "type": "prefecture_city",
+      "code": "6402",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/石嘴山市.md",
+      "notes": ""
+    },
+    "宁夏回族自治区::吴忠市": {
+      "province": "宁夏回族自治区",
+      "name": "吴忠市",
+      "type": "prefecture_city",
+      "code": "6403",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/吴忠市.md",
+      "notes": ""
+    },
+    "宁夏回族自治区::固原市": {
+      "province": "宁夏回族自治区",
+      "name": "固原市",
+      "type": "prefecture_city",
+      "code": "6404",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/固原市.md",
+      "notes": ""
+    },
+    "宁夏回族自治区::中卫市": {
+      "province": "宁夏回族自治区",
+      "name": "中卫市",
+      "type": "prefecture_city",
+      "code": "6405",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/中卫市.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::乌鲁木齐市": {
+      "province": "新疆维吾尔自治区",
+      "name": "乌鲁木齐市",
+      "type": "prefecture_city",
+      "code": "6501",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/乌鲁木齐市.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::克拉玛依市": {
+      "province": "新疆维吾尔自治区",
+      "name": "克拉玛依市",
+      "type": "prefecture_city",
+      "code": "6502",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/克拉玛依市.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::吐鲁番市": {
+      "province": "新疆维吾尔自治区",
+      "name": "吐鲁番市",
+      "type": "prefecture_city",
+      "code": "6504",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/吐鲁番市.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::哈密市": {
+      "province": "新疆维吾尔自治区",
+      "name": "哈密市",
+      "type": "prefecture_city",
+      "code": "6505",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/哈密市.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::昌吉回族自治州": {
+      "province": "新疆维吾尔自治区",
+      "name": "昌吉回族自治州",
+      "type": "autonomous_prefecture",
+      "code": "6523",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/昌吉回族自治州.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::博尔塔拉蒙古自治州": {
+      "province": "新疆维吾尔自治区",
+      "name": "博尔塔拉蒙古自治州",
+      "type": "autonomous_prefecture",
+      "code": "6527",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/博尔塔拉蒙古自治州.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::巴音郭楞蒙古自治州": {
+      "province": "新疆维吾尔自治区",
+      "name": "巴音郭楞蒙古自治州",
+      "type": "autonomous_prefecture",
+      "code": "6528",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/巴音郭楞蒙古自治州.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::阿克苏地区": {
+      "province": "新疆维吾尔自治区",
+      "name": "阿克苏地区",
+      "type": "prefecture_region",
+      "code": "6529",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阿克苏地区.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::克孜勒苏柯尔克孜自治州": {
+      "province": "新疆维吾尔自治区",
+      "name": "克孜勒苏柯尔克孜自治州",
+      "type": "autonomous_prefecture",
+      "code": "6530",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/克孜勒苏柯尔克孜自治州.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::喀什地区": {
+      "province": "新疆维吾尔自治区",
+      "name": "喀什地区",
+      "type": "prefecture_region",
+      "code": "6531",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/喀什地区.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::和田地区": {
+      "province": "新疆维吾尔自治区",
+      "name": "和田地区",
+      "type": "prefecture_region",
+      "code": "6532",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/和田地区.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::伊犁哈萨克自治州": {
+      "province": "新疆维吾尔自治区",
+      "name": "伊犁哈萨克自治州",
+      "type": "autonomous_prefecture",
+      "code": "6540",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/伊犁哈萨克自治州.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::塔城地区": {
+      "province": "新疆维吾尔自治区",
+      "name": "塔城地区",
+      "type": "prefecture_region",
+      "code": "6542",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/塔城地区.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::阿勒泰地区": {
+      "province": "新疆维吾尔自治区",
+      "name": "阿勒泰地区",
+      "type": "prefecture_region",
+      "code": "6543",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/阿勒泰地区.md",
+      "notes": ""
+    },
+    "新疆维吾尔自治区::自治区直辖县级行政区划": {
+      "province": "新疆维吾尔自治区",
+      "name": "自治区直辖县级行政区划",
+      "type": "prefecture",
+      "code": "6590",
+      "status": "todo",
+      "updated": null,
+      "file": "cities/自治区直辖县级行政区划.md",
+      "notes": ""
+    }
+  }
+}
