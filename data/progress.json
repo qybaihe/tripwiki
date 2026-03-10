@@ -3007,7 +3007,7 @@
       "name": "兰州市",
       "type": "prefecture_city",
       "code": "6201",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/兰州市.md",
       "notes": ""
