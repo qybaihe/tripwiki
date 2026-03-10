@@ -777,7 +777,7 @@
       "name": "苏州市",
       "type": "prefecture_city",
       "code": "3205",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/苏州市.md",
       "notes": ""
@@ -1347,7 +1347,7 @@
       "name": "青岛市",
       "type": "prefecture_city",
       "code": "3702",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/青岛市.md",
       "notes": ""
@@ -2357,7 +2357,7 @@
       "name": "市辖区",
       "type": "prefecture_city",
       "code": "5001",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/市辖区.md",
       "notes": ""
@@ -2677,7 +2677,7 @@
       "name": "昆明市",
       "type": "prefecture_city",
       "code": "5301",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/昆明市.md",
       "notes": ""
@@ -2907,7 +2907,7 @@
       "name": "西安市",
       "type": "prefecture_city",
       "code": "6101",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/西安市.md",
       "notes": ""
