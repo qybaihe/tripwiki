@@ -17,10 +17,10 @@
       "name": "市辖区",
       "type": "prefecture_city",
       "code": "1201",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-10 19:12",
       "file": "cities/市辖区.md",
-      "notes": ""
+      "notes": "mode2 draft imported; needs tavily verification pass"
     },
     "河北省::石家庄市": {
       "province": "河北省",
@@ -367,20 +367,20 @@
       "name": "沈阳市",
       "type": "prefecture_city",
       "code": "2101",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-10 19:12",
       "file": "cities/沈阳市.md",
-      "notes": ""
+      "notes": "mode2 draft imported; needs tavily verification pass"
     },
     "辽宁省::大连市": {
       "province": "辽宁省",
       "name": "大连市",
       "type": "prefecture_city",
       "code": "2102",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-10 19:12",
       "file": "cities/大连市.md",
-      "notes": ""
+      "notes": "mode2 draft imported; needs tavily verification pass"
     },
     "辽宁省::鞍山市": {
       "province": "辽宁省",
@@ -1677,10 +1677,10 @@
       "name": "武汉市",
       "type": "prefecture_city",
       "code": "4201",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-10 19:12",
       "file": "cities/武汉市.md",
-      "notes": ""
+      "notes": "mode2 draft imported; needs tavily verification pass"
     },
     "湖北省::黄石市": {
       "province": "湖北省",
@@ -1817,10 +1817,10 @@
       "name": "长沙市",
       "type": "prefecture_city",
       "code": "4301",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-10 19:12",
       "file": "cities/长沙市.md",
-      "notes": ""
+      "notes": "mode2 draft imported; needs tavily verification pass"
     },
     "湖南省::株洲市": {
       "province": "湖南省",
