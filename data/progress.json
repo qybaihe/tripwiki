@@ -1147,7 +1147,7 @@
       "name": "厦门市",
       "type": "prefecture_city",
       "code": "3502",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/厦门市.md",
       "notes": ""
@@ -1517,7 +1517,7 @@
       "name": "洛阳市",
       "type": "prefecture_city",
       "code": "4103",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/洛阳市.md",
       "notes": ""
@@ -1987,7 +1987,7 @@
       "name": "珠海市",
       "type": "prefecture_city",
       "code": "4404",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/珠海市.md",
       "notes": ""
@@ -2317,7 +2317,7 @@
       "name": "三亚市",
       "type": "prefecture_city",
       "code": "4602",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/三亚市.md",
       "notes": ""
@@ -2727,7 +2727,7 @@
       "name": "丽江市",
       "type": "prefecture_city",
       "code": "5307",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/丽江市.md",
       "notes": ""
