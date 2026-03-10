@@ -7,7 +7,7 @@
       "name": "市辖区",
       "type": "prefecture_city",
       "code": "1101",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/市辖区.md",
       "notes": ""
@@ -597,7 +597,7 @@
       "name": "哈尔滨市",
       "type": "prefecture_city",
       "code": "2301",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/哈尔滨市.md",
       "notes": ""
@@ -727,7 +727,7 @@
       "name": "市辖区",
       "type": "prefecture_city",
       "code": "3101",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/市辖区.md",
       "notes": ""
@@ -867,7 +867,7 @@
       "name": "杭州市",
       "type": "prefecture_city",
       "code": "3301",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/杭州市.md",
       "notes": ""
@@ -1887,7 +1887,7 @@
       "name": "张家界市",
       "type": "prefecture_city",
       "code": "4308",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/张家界市.md",
       "notes": ""
@@ -1957,7 +1957,7 @@
       "name": "广州市",
       "type": "prefecture_city",
       "code": "4401",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/广州市.md",
       "notes": ""
@@ -2187,7 +2187,7 @@
       "name": "桂林市",
       "type": "prefecture_city",
       "code": "4503",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/桂林市.md",
       "notes": ""
@@ -2377,7 +2377,7 @@
       "name": "成都市",
       "type": "prefecture_city",
       "code": "5101",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/成都市.md",
       "notes": ""
@@ -2587,7 +2587,7 @@
       "name": "贵阳市",
       "type": "prefecture_city",
       "code": "5201",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/贵阳市.md",
       "notes": ""
@@ -2837,7 +2837,7 @@
       "name": "拉萨市",
       "type": "prefecture_city",
       "code": "5401",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/拉萨市.md",
       "notes": ""
