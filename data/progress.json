@@ -1427,7 +1427,7 @@
       "name": "威海市",
       "type": "prefecture_city",
       "code": "3710",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/威海市.md",
       "notes": ""
