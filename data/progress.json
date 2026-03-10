@@ -3367,7 +3367,7 @@
       "name": "喀什地区",
       "type": "prefecture_region",
       "code": "6531",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/喀什地区.md",
       "notes": ""
