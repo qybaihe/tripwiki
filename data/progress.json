@@ -1387,7 +1387,7 @@
       "name": "烟台市",
       "type": "prefecture_city",
       "code": "3706",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/烟台市.md",
       "notes": ""
