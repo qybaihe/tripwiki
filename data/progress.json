@@ -737,7 +737,7 @@
       "name": "南京市",
       "type": "prefecture_city",
       "code": "3201",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/南京市.md",
       "notes": ""
@@ -1497,7 +1497,7 @@
       "name": "郑州市",
       "type": "prefecture_city",
       "code": "4101",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/郑州市.md",
       "notes": ""
@@ -1977,7 +1977,7 @@
       "name": "深圳市",
       "type": "prefecture_city",
       "code": "4403",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/深圳市.md",
       "notes": ""
