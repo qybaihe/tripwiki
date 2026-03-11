@@ -467,40 +467,40 @@
       "name": "盘锦市",
       "type": "prefecture_city",
       "code": "2111",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/盘锦市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:08",
+      "file": "cities/盘锦.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::铁岭市": {
       "province": "辽宁省",
       "name": "铁岭市",
       "type": "prefecture_city",
       "code": "2112",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/铁岭市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:08",
+      "file": "cities/铁岭.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::朝阳市": {
       "province": "辽宁省",
       "name": "朝阳市",
       "type": "prefecture_city",
       "code": "2113",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/朝阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:08",
+      "file": "cities/朝阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::葫芦岛市": {
       "province": "辽宁省",
       "name": "葫芦岛市",
       "type": "prefecture_city",
       "code": "2114",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/葫芦岛市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:08",
+      "file": "cities/葫芦岛.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::长春市": {
       "province": "吉林省",
@@ -517,10 +517,10 @@
       "name": "吉林市",
       "type": "prefecture_city",
       "code": "2202",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/吉林市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:08",
+      "file": "cities/吉林.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::四平市": {
       "province": "吉林省",
