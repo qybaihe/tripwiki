@@ -637,60 +637,60 @@
       "name": "双鸭山市",
       "type": "prefecture_city",
       "code": "2305",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/双鸭山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:04",
+      "file": "cities/双鸭山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::大庆市": {
       "province": "黑龙江省",
       "name": "大庆市",
       "type": "prefecture_city",
       "code": "2306",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/大庆市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:04",
+      "file": "cities/大庆.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::伊春市": {
       "province": "黑龙江省",
       "name": "伊春市",
       "type": "prefecture_city",
       "code": "2307",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/伊春市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:04",
+      "file": "cities/伊春.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::佳木斯市": {
       "province": "黑龙江省",
       "name": "佳木斯市",
       "type": "prefecture_city",
       "code": "2308",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/佳木斯市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:04",
+      "file": "cities/佳木斯.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::七台河市": {
       "province": "黑龙江省",
       "name": "七台河市",
       "type": "prefecture_city",
       "code": "2309",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/七台河市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:04",
+      "file": "cities/七台河.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::牡丹江市": {
       "province": "黑龙江省",
       "name": "牡丹江市",
       "type": "prefecture_city",
       "code": "2310",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/牡丹江市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:04",
+      "file": "cities/牡丹江.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::黑河市": {
       "province": "黑龙江省",
