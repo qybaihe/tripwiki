@@ -2207,7 +2207,7 @@
       "name": "北海市",
       "type": "prefecture_city",
       "code": "4505",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/北海市.md",
       "notes": ""
