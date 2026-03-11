@@ -697,30 +697,30 @@
       "name": "黑河市",
       "type": "prefecture_city",
       "code": "2311",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/黑河市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/黑河.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::绥化市": {
       "province": "黑龙江省",
       "name": "绥化市",
       "type": "prefecture_city",
       "code": "2312",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/绥化市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/绥化.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::大兴安岭地区": {
       "province": "黑龙江省",
       "name": "大兴安岭地区",
       "type": "prefecture_region",
       "code": "2327",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 07:33",
       "file": "cities/大兴安岭地区.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "上海市::市辖区": {
       "province": "上海市",
@@ -747,10 +747,10 @@
       "name": "无锡市",
       "type": "prefecture_city",
       "code": "3202",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/无锡市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/无锡.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::徐州市": {
       "province": "江苏省",
@@ -767,10 +767,10 @@
       "name": "常州市",
       "type": "prefecture_city",
       "code": "3204",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/常州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/常州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::苏州市": {
       "province": "江苏省",
@@ -787,50 +787,50 @@
       "name": "南通市",
       "type": "prefecture_city",
       "code": "3206",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/南通市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/南通.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::连云港市": {
       "province": "江苏省",
       "name": "连云港市",
       "type": "prefecture_city",
       "code": "3207",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/连云港市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/连云港.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::淮安市": {
       "province": "江苏省",
       "name": "淮安市",
       "type": "prefecture_city",
       "code": "3208",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/淮安市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/淮安.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::盐城市": {
       "province": "江苏省",
       "name": "盐城市",
       "type": "prefecture_city",
       "code": "3209",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/盐城市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/盐城.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::扬州市": {
       "province": "江苏省",
       "name": "扬州市",
       "type": "prefecture_city",
       "code": "3210",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/扬州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:33",
+      "file": "cities/扬州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::镇江市": {
       "province": "江苏省",
