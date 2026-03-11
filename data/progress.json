@@ -297,50 +297,50 @@
       "name": "鄂尔多斯市",
       "type": "prefecture_city",
       "code": "1506",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鄂尔多斯市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:23",
+      "file": "cities/鄂尔多斯.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::呼伦贝尔市": {
       "province": "内蒙古自治区",
       "name": "呼伦贝尔市",
       "type": "prefecture_city",
       "code": "1507",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/呼伦贝尔市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:23",
+      "file": "cities/呼伦贝尔.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::巴彦淖尔市": {
       "province": "内蒙古自治区",
       "name": "巴彦淖尔市",
       "type": "prefecture_city",
       "code": "1508",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/巴彦淖尔市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:23",
+      "file": "cities/巴彦淖尔.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::乌兰察布市": {
       "province": "内蒙古自治区",
       "name": "乌兰察布市",
       "type": "prefecture_city",
       "code": "1509",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/乌兰察布市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:23",
+      "file": "cities/乌兰察布.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::兴安盟": {
       "province": "内蒙古自治区",
       "name": "兴安盟",
       "type": "league",
       "code": "1522",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 05:23",
       "file": "cities/兴安盟.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::锡林郭勒盟": {
       "province": "内蒙古自治区",
