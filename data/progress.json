@@ -837,30 +837,30 @@
       "name": "镇江市",
       "type": "prefecture_city",
       "code": "3211",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/镇江市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:48",
+      "file": "cities/镇江.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::泰州市": {
       "province": "江苏省",
       "name": "泰州市",
       "type": "prefecture_city",
       "code": "3212",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/泰州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:48",
+      "file": "cities/泰州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江苏省::宿迁市": {
       "province": "江苏省",
       "name": "宿迁市",
       "type": "prefecture_city",
       "code": "3213",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/宿迁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:48",
+      "file": "cities/宿迁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "浙江省::杭州市": {
       "province": "浙江省",
@@ -907,10 +907,10 @@
       "name": "湖州市",
       "type": "prefecture_city",
       "code": "3305",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/湖州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:48",
+      "file": "cities/湖州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "浙江省::绍兴市": {
       "province": "浙江省",
@@ -937,10 +937,10 @@
       "name": "衢州市",
       "type": "prefecture_city",
       "code": "3308",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/衢州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 07:48",
+      "file": "cities/衢州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "浙江省::舟山市": {
       "province": "浙江省",
