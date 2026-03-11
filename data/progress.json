@@ -137,7 +137,7 @@
       "name": "太原市",
       "type": "prefecture_city",
       "code": "1401",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/太原市.md",
       "notes": ""
@@ -977,7 +977,7 @@
       "name": "合肥市",
       "type": "prefecture_city",
       "code": "3401",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/合肥市.md",
       "notes": ""
