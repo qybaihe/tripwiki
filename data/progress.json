@@ -927,7 +927,7 @@
       "name": "金华市",
       "type": "prefecture_city",
       "code": "3307",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/金华市.md",
       "notes": ""
