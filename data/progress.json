@@ -77,50 +77,50 @@
       "name": "保定市",
       "type": "prefecture_city",
       "code": "1306",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/保定市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:19",
+      "file": "cities/保定.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::张家口市": {
       "province": "河北省",
       "name": "张家口市",
       "type": "prefecture_city",
       "code": "1307",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/张家口市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:19",
+      "file": "cities/张家口.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::承德市": {
       "province": "河北省",
       "name": "承德市",
       "type": "prefecture_city",
       "code": "1308",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/承德市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:19",
+      "file": "cities/承德.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::沧州市": {
       "province": "河北省",
       "name": "沧州市",
       "type": "prefecture_city",
       "code": "1309",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/沧州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:19",
+      "file": "cities/沧州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::廊坊市": {
       "province": "河北省",
       "name": "廊坊市",
       "type": "prefecture_city",
       "code": "1310",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/廊坊市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:19",
+      "file": "cities/廊坊.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::衡水市": {
       "province": "河北省",

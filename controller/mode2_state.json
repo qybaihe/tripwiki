@@ -1,42 +1,20 @@
 {
-  "generated_at": "2026-03-12T02:45:25",
+  "generated_at": "2026-03-12T04:19:30",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [],
-    "completed_since_last_run": [],
-    "launched": [],
-    "launch_failures": [
-      {
-        "city": "石家庄",
-        "key": "河北省::石家庄市",
-        "reason": "rewrite",
-        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-石家庄\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《石家庄》城市攻略（快速可用版），写入 `cities/石家庄.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
-      },
-      {
-        "city": "唐山",
-        "key": "河北省::唐山市",
-        "reason": "rewrite",
-        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-唐山\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《唐山》城市攻略（快速可用版），写入 `cities/唐山.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
-      },
-      {
-        "city": "秦皇岛",
-        "key": "河北省::秦皇岛市",
-        "reason": "rewrite",
-        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-秦皇岛\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《秦皇岛》城市攻略（快速可用版），写入 `cities/秦皇岛.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
-      },
-      {
-        "city": "邯郸",
-        "key": "河北省::邯郸市",
-        "reason": "rewrite",
-        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-邯郸\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《邯郸》城市攻略（快速可用版），写入 `cities/邯郸.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
-      },
-      {
-        "city": "邢台",
-        "key": "河北省::邢台市",
-        "reason": "rewrite",
-        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-邢台\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《邢台》城市攻略（快速可用版），写入 `cities/邢台.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
-      }
+    "synced_from_workspace": [
+      "保定",
+      "廊坊"
     ],
+    "completed_since_last_run": [
+      "保定",
+      "张家口",
+      "承德",
+      "沧州",
+      "廊坊"
+    ],
+    "launched": [],
+    "launch_failures": [],
     "launch_plan_only": [
       {
         "city": "石家庄",
@@ -176,12 +154,12 @@
     ]
   },
   "summary": {
-    "done": 69,
-    "todo": 273,
-    "synced_count": 0,
-    "completed_count": 0,
+    "done": 74,
+    "todo": 268,
+    "synced_count": 2,
+    "completed_count": 5,
     "launch_count": 0,
-    "launch_failure_count": 5,
+    "launch_failure_count": 0,
     "running_count": 0,
     "open_slots": 5
   },
