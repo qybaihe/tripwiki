@@ -1,93 +1,254 @@
 {
+  "generated_at": "2026-03-12T00:14:24",
   "workers": 5,
-  "generated_at": "2026-03-11T13:24:18",
-  "candidates": [
-    {
-      "province": "河北省",
-      "name": "唐山市",
-      "type": "prefecture_city",
-      "code": "1302",
-      "file": "cities/唐山市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "秦皇岛市",
-      "type": "prefecture_city",
-      "code": "1303",
-      "file": "cities/秦皇岛市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "邯郸市",
-      "type": "prefecture_city",
-      "code": "1304",
-      "file": "cities/邯郸市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "邢台市",
-      "type": "prefecture_city",
-      "code": "1305",
-      "file": "cities/邢台市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "保定市",
-      "type": "prefecture_city",
-      "code": "1306",
-      "file": "cities/保定市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "张家口市",
-      "type": "prefecture_city",
-      "code": "1307",
-      "file": "cities/张家口市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "承德市",
-      "type": "prefecture_city",
-      "code": "1308",
-      "file": "cities/承德市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "沧州市",
-      "type": "prefecture_city",
-      "code": "1309",
-      "file": "cities/沧州市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "廊坊市",
-      "type": "prefecture_city",
-      "code": "1310",
-      "file": "cities/廊坊市.md"
-    },
-    {
-      "province": "河北省",
-      "name": "衡水市",
-      "type": "prefecture_city",
-      "code": "1311",
-      "file": "cities/衡水市.md"
-    },
-    {
-      "province": "山西省",
-      "name": "阳泉市",
-      "type": "prefecture_city",
-      "code": "1403",
-      "file": "cities/阳泉市.md"
-    },
-    {
-      "province": "山西省",
-      "name": "长治市",
-      "type": "prefecture_city",
-      "code": "1404",
-      "file": "cities/长治市.md"
-    }
-  ],
+  "actions": {
+    "synced_from_workspace": [
+      "杭州"
+    ],
+    "sync_commit_created": true,
+    "needs_rewrite": [
+      {
+        "city": "重庆",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/重庆.md",
+        "issues": [
+          "missing_section:美食",
+          "missing_section:住宿",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "拉萨",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/拉萨.md",
+        "issues": [
+          "scenic_lt_18:0",
+          "missing_section:美食",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "烟台",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/烟台.md",
+        "issues": [
+          "scenic_lt_18:0",
+          "missing_section:美食",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "西宁",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/西宁.md",
+        "issues": [
+          "missing_section:住宿",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "延安",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/延安.md",
+        "issues": [
+          "missing_section:美食",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "大同",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/大同.md",
+        "issues": [
+          "scenic_lt_18:1",
+          "missing_section:美食"
+        ]
+      },
+      {
+        "city": "杭州",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/杭州.md",
+        "issues": [
+          "missing_section:美食",
+          "missing_section:住宿",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "南平",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/南平.md",
+        "issues": [
+          "scenic_lt_18:0",
+          "missing_section:美食",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "泉州",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/泉州.md",
+        "issues": [
+          "scenic_lt_18:0",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "宁波",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/宁波.md",
+        "issues": [
+          "missing_section:美食"
+        ]
+      },
+      {
+        "city": "张掖",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/张掖.md",
+        "issues": [
+          "missing_section:美食",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "洛阳",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/洛阳.md",
+        "issues": [
+          "scenic_lt_18:16",
+          "missing_section:美食",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "银川",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/银川.md",
+        "issues": [
+          "missing_section:美食",
+          "missing_section:住宿",
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "喀什",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/喀什.md",
+        "issues": [
+          "missing_section:避坑"
+        ]
+      },
+      {
+        "city": "温州",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/温州.md",
+        "issues": [
+          "scenic_lt_18:1",
+          "missing_section:美食"
+        ]
+      },
+      {
+        "city": "西安",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/西安.md",
+        "issues": [
+          "scenic_lt_18:8",
+          "missing_section:住宿"
+        ]
+      },
+      {
+        "city": "合肥",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/合肥.md",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "贵阳",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/贵阳.md",
+        "issues": [
+          "missing_section:住宿"
+        ]
+      },
+      {
+        "city": "徐州",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/徐州.md",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "昆明",
+        "file": "/root/.openclaw/workspace/tripwiki/cities/昆明.md",
+        "issues": [
+          "missing_section:住宿",
+          "missing_section:避坑"
+        ]
+      }
+    ],
+    "launched_candidates": [
+      {
+        "city": "石家庄",
+        "province": "河北省",
+        "key": "河北省::石家庄市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "唐山",
+        "province": "河北省",
+        "key": "河北省::唐山市",
+        "reason": "todo",
+        "issues": []
+      },
+      {
+        "city": "秦皇岛",
+        "province": "河北省",
+        "key": "河北省::秦皇岛市",
+        "reason": "todo",
+        "issues": []
+      },
+      {
+        "city": "邯郸",
+        "province": "河北省",
+        "key": "河北省::邯郸市",
+        "reason": "todo",
+        "issues": []
+      },
+      {
+        "city": "邢台",
+        "province": "河北省",
+        "key": "河北省::邢台市",
+        "reason": "todo",
+        "issues": []
+      }
+    ],
+    "running_before": []
+  },
   "summary": {
-    "candidate_count": 12
-  }
+    "done": 65,
+    "todo": 277,
+    "synced_count": 1,
+    "rewrite_count": 62,
+    "launch_count": 5,
+    "open_slots": 5
+  },
+  "running_after": [
+    {
+      "city": "石家庄",
+      "key": "河北省::石家庄市",
+      "started_at": "2026-03-12T00:14:24",
+      "reason": "rewrite"
+    },
+    {
+      "city": "唐山",
+      "key": "河北省::唐山市",
+      "started_at": "2026-03-12T00:14:24",
+      "reason": "todo"
+    },
+    {
+      "city": "秦皇岛",
+      "key": "河北省::秦皇岛市",
+      "started_at": "2026-03-12T00:14:24",
+      "reason": "todo"
+    },
+    {
+      "city": "邯郸",
+      "key": "河北省::邯郸市",
+      "started_at": "2026-03-12T00:14:24",
+      "reason": "todo"
+    },
+    {
+      "city": "邢台",
+      "key": "河北省::邢台市",
+      "started_at": "2026-03-12T00:14:24",
+      "reason": "todo"
+    }
+  ]
 }
