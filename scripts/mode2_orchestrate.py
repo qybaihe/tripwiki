@@ -16,16 +16,17 @@ CITIES_CSV = REPO_DIR / 'data' / 'cities_all.csv'
 CITY_DIR = REPO_DIR / 'cities'
 STATE_DIR = REPO_DIR / 'controller'
 STATE_PATH = STATE_DIR / 'mode2_state.json'
+PROMPT_PATH = REPO_DIR / 'scripts' / 'mode2_task_prompt.txt'
 WORKERS = 5
 
 SUFFIXES = ('特别行政区', '自治州', '地区', '盟', '市')
 SKIP_NAMES = {'市辖区'}
-PLACEHOLDER_MARKERS = [
-    '本文件为 cron 主控占位符',
-    '待生成',
-    '下一轮将补齐'
-]
+PLACEHOLDER_MARKERS = ['本文件为 cron 主控占位符', '待生成', '下一轮将补齐']
 REQUIRED_SECTIONS = ['美食', '住宿', '交通', '避坑']
+
+
+def sh(args: List[str], cwd: Path | None = None) -> str:
+    return subprocess.check_output(args, cwd=str(cwd or REPO_DIR), text=True).strip()
 
 
 def norm(name: str) -> str:
@@ -49,6 +50,10 @@ def save_json(path: Path, obj):
 
 def load_progress() -> Dict:
     return load_json(PROGRESS_PATH, {'version': 1, 'cities': {}})
+
+
+def save_progress(progress: Dict):
+    save_json(PROGRESS_PATH, progress)
 
 
 def load_city_rows() -> List[Dict[str, str]]:
@@ -106,7 +111,7 @@ def progress_key_map() -> Dict[str, str]:
     return mp
 
 
-def build_todo_candidates(progress: Dict, limit: int = 20) -> List[Dict]:
+def build_candidates(progress: Dict, limit: int = 50) -> List[Dict]:
     rows = load_city_rows()
     repo = existing_repo_files()
     candidates = []
@@ -132,17 +137,16 @@ def build_todo_candidates(progress: Dict, limit: int = 20) -> List[Dict]:
     return candidates
 
 
-def git(*args: str) -> str:
-    return subprocess.check_output(['git', *args], cwd=REPO_DIR, text=True).strip()
+def git_status() -> str:
+    return sh(['git', 'status', '--porcelain'])
 
 
 def commit_if_needed(message: str) -> bool:
-    status = git('status', '--porcelain')
-    if not status:
+    if not git_status():
         return False
-    git('add', '-A')
-    git('commit', '-m', message)
-    git('push')
+    sh(['git', 'add', '-A'])
+    sh(['git', 'commit', '-m', message])
+    sh(['git', 'push'])
     return True
 
 
@@ -159,66 +163,108 @@ def sync_and_commit(syncs: List[Dict], progress: Dict) -> List[str]:
         key = keymap.get(city)
         if key and key in progress.get('cities', {}):
             progress['cities'][key]['status'] = 'done'
-    save_json(PROGRESS_PATH, progress)
+    save_progress(progress)
     return updated
+
+
+def spawn_task(city: str) -> Dict:
+    prompt = PROMPT_PATH.read_text(encoding='utf-8').replace('{city}', city)
+    payload = {
+        'runtime': 'subagent',
+        'mode': 'run',
+        'label': f'tripwiki-mode2-{city}',
+        'cwd': str(REPO_DIR),
+        'task': prompt,
+        'timeoutSeconds': 1800,
+        'sandbox': 'inherit'
+    }
+    out = sh(['openclaw', 'tools', 'call', 'sessions_spawn', json.dumps(payload, ensure_ascii=False)], cwd=REPO_DIR)
+    try:
+        data = json.loads(out)
+    except Exception:
+        data = {'raw': out}
+    return data
+
+
+def sync_completed_from_workspace(progress: Dict) -> List[str]:
+    synced = sync_and_commit(sync_workspace_candidates(), progress)
+    if synced:
+        commit_if_needed(f"chore: sync generated city guides ({', '.join(synced[:5])})")
+    return synced
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--workers', type=int, default=WORKERS)
-    parser.add_argument('--limit', type=int, default=20)
     args = parser.parse_args()
 
     STATE_DIR.mkdir(parents=True, exist_ok=True)
+    state = load_json(STATE_PATH, {'running': []})
     progress = load_progress()
 
-    syncs = sync_workspace_candidates()
-    synced = sync_and_commit(syncs, progress) if syncs else []
-    sync_commit = False
-    if synced:
-        sync_commit = commit_if_needed(f"chore: sync generated city guides ({', '.join(synced[:5])})")
+    synced = sync_completed_from_workspace(progress)
 
-    repo = existing_repo_files()
-    rewrites = []
-    for city, path in repo.items():
-        if city != norm(city):
-            continue
-        ok, issues = file_quality(path)
-        if not ok:
-            rewrites.append({'city': city, 'file': str(path), 'issues': issues})
-
-    state = load_json(STATE_PATH, {})
+    # cleanup finished running tasks if file now exists and quality ok
     running = state.get('running', [])
-    running_cities = {x.get('city') for x in running}
-    open_slots = max(0, args.workers - len(running))
+    still_running = []
+    completed = []
+    for r in running:
+        city = r['city']
+        p = CITY_DIR / f'{city}.md'
+        if p.exists():
+            ok, _ = file_quality(p)
+            if ok:
+                completed.append(city)
+                key = r.get('key')
+                if key and key in progress.get('cities', {}):
+                    progress['cities'][key]['status'] = 'done'
+                continue
+        still_running.append(r)
+    if completed:
+        save_progress(progress)
+        commit_if_needed(f"chore: update progress (done): {' '.join(completed[:5])}")
 
-    todo_candidates = [c for c in build_todo_candidates(progress, limit=args.limit) if c['city'] not in running_cities]
-    launches = todo_candidates[:open_slots]
+    candidates = build_candidates(progress)
+    running_cities = {r['city'] for r in still_running}
+    open_slots = max(0, args.workers - len(still_running))
+    launches = [c for c in candidates if c['city'] not in running_cities][:open_slots]
 
+    launched = []
+    now = datetime.now().isoformat(timespec='seconds')
+    for c in launches:
+        res = spawn_task(c['city'])
+        child = res.get('childSessionKey') or res.get('sessionKey') or res.get('raw', '')
+        launched.append({
+            'city': c['city'],
+            'key': c['key'],
+            'reason': c['reason'],
+            'started_at': now,
+            'childSessionKey': child
+        })
+
+    new_running = still_running + launched
     payload = {
-        'generated_at': datetime.now().isoformat(timespec='seconds'),
+        'generated_at': now,
         'workers': args.workers,
         'actions': {
             'synced_from_workspace': synced,
-            'sync_commit_created': sync_commit,
-            'needs_rewrite': rewrites[:20],
-            'launched_candidates': launches,
+            'completed_since_last_run': completed,
+            'launched': launched,
             'running_before': running,
+            'running_after': new_running,
+            'needs_rewrite_preview': [c for c in candidates if c['reason'] == 'rewrite'][:10]
         },
         'summary': {
             'done': sum(1 for v in progress.get('cities', {}).values() if v.get('status') == 'done'),
             'todo': sum(1 for v in progress.get('cities', {}).values() if v.get('status') != 'done'),
             'synced_count': len(synced),
-            'rewrite_count': len(rewrites),
-            'launch_count': len(launches),
-            'open_slots': open_slots,
-        }
+            'completed_count': len(completed),
+            'launch_count': len(launched),
+            'running_count': len(new_running),
+            'open_slots': max(0, args.workers - len(new_running))
+        },
+        'running': new_running
     }
-
-    new_running = running.copy()
-    for c in launches:
-        new_running.append({'city': c['city'], 'key': c['key'], 'started_at': payload['generated_at'], 'reason': c['reason']})
-    payload['running_after'] = new_running[:args.workers]
     save_json(STATE_PATH, payload)
     print(json.dumps(payload, ensure_ascii=False, indent=2))
 
