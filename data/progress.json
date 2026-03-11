@@ -887,7 +887,7 @@
       "name": "温州市",
       "type": "prefecture_city",
       "code": "3303",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/温州市.md",
       "notes": ""
