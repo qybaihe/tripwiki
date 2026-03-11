@@ -247,50 +247,50 @@
       "name": "呼和浩特市",
       "type": "prefecture_city",
       "code": "1501",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/呼和浩特市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:06",
+      "file": "cities/呼和浩特.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::包头市": {
       "province": "内蒙古自治区",
       "name": "包头市",
       "type": "prefecture_city",
       "code": "1502",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/包头市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:06",
+      "file": "cities/包头.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::乌海市": {
       "province": "内蒙古自治区",
       "name": "乌海市",
       "type": "prefecture_city",
       "code": "1503",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/乌海市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:06",
+      "file": "cities/乌海.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::赤峰市": {
       "province": "内蒙古自治区",
       "name": "赤峰市",
       "type": "prefecture_city",
       "code": "1504",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/赤峰市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:06",
+      "file": "cities/赤峰.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::通辽市": {
       "province": "内蒙古自治区",
       "name": "通辽市",
       "type": "prefecture_city",
       "code": "1505",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/通辽市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:06",
+      "file": "cities/通辽.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::鄂尔多斯市": {
       "province": "内蒙古自治区",

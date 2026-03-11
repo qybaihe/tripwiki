@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T04:49:30",
+  "generated_at": "2026-03-12T05:06:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
@@ -7,11 +7,11 @@
       "廊坊"
     ],
     "completed_since_last_run": [
-      "晋中",
-      "运城",
-      "忻州",
-      "临汾",
-      "吕梁"
+      "呼和浩特",
+      "包头",
+      "乌海",
+      "赤峰",
+      "通辽"
     ],
     "launched": [],
     "launch_failures": [],
@@ -154,8 +154,8 @@
     ]
   },
   "summary": {
-    "done": 84,
-    "todo": 258,
+    "done": 89,
+    "todo": 253,
     "synced_count": 2,
     "completed_count": 5,
     "launch_count": 0,
