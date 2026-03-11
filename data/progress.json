@@ -527,50 +527,50 @@
       "name": "四平市",
       "type": "prefecture_city",
       "code": "2203",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/四平市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:20",
+      "file": "cities/四平.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::辽源市": {
       "province": "吉林省",
       "name": "辽源市",
       "type": "prefecture_city",
       "code": "2204",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/辽源市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:20",
+      "file": "cities/辽源.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::通化市": {
       "province": "吉林省",
       "name": "通化市",
       "type": "prefecture_city",
       "code": "2205",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/通化市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:20",
+      "file": "cities/通化.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::白山市": {
       "province": "吉林省",
       "name": "白山市",
       "type": "prefecture_city",
       "code": "2206",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/白山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:20",
+      "file": "cities/白山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::松原市": {
       "province": "吉林省",
       "name": "松原市",
       "type": "prefecture_city",
       "code": "2207",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/松原市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:20",
+      "file": "cities/松原.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::白城市": {
       "province": "吉林省",
