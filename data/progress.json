@@ -957,7 +957,7 @@
       "name": "台州市",
       "type": "prefecture_city",
       "code": "3310",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/台州市.md",
       "notes": ""
