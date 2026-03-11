@@ -178,12 +178,20 @@ def spawn_task(city: str) -> Dict:
         'timeoutSeconds': 1800,
         'sandbox': 'inherit'
     }
-    out = sh(['openclaw', 'tools', 'call', 'sessions_spawn', json.dumps(payload, ensure_ascii=False)], cwd=REPO_DIR)
     try:
-        data = json.loads(out)
-    except Exception:
-        data = {'raw': out}
-    return data
+        out = sh(['openclaw', 'tools', 'call', 'sessions_spawn', json.dumps(payload, ensure_ascii=False)], cwd=REPO_DIR)
+        try:
+            data = json.loads(out)
+        except Exception:
+            data = {'raw': out}
+        data['spawn_ok'] = True
+        return data
+    except Exception as e:
+        return {
+            'spawn_ok': False,
+            'error': str(e),
+            'payload': payload,
+        }
 
 
 def sync_completed_from_workspace(progress: Dict) -> List[str]:
@@ -230,17 +238,26 @@ def main():
     launches = [c for c in candidates if c['city'] not in running_cities][:open_slots]
 
     launched = []
+    launch_failures = []
     now = datetime.now().isoformat(timespec='seconds')
     for c in launches:
         res = spawn_task(c['city'])
-        child = res.get('childSessionKey') or res.get('sessionKey') or res.get('raw', '')
-        launched.append({
-            'city': c['city'],
-            'key': c['key'],
-            'reason': c['reason'],
-            'started_at': now,
-            'childSessionKey': child
-        })
+        if res.get('spawn_ok'):
+            child = res.get('childSessionKey') or res.get('sessionKey') or res.get('raw', '')
+            launched.append({
+                'city': c['city'],
+                'key': c['key'],
+                'reason': c['reason'],
+                'started_at': now,
+                'childSessionKey': child
+            })
+        else:
+            launch_failures.append({
+                'city': c['city'],
+                'key': c['key'],
+                'reason': c['reason'],
+                'error': res.get('error', ''),
+            })
 
     new_running = still_running + launched
     payload = {
@@ -250,6 +267,8 @@ def main():
             'synced_from_workspace': synced,
             'completed_since_last_run': completed,
             'launched': launched,
+            'launch_failures': launch_failures,
+            'launch_plan_only': [c for c in launches] if launch_failures and not launched else [],
             'running_before': running,
             'running_after': new_running,
             'needs_rewrite_preview': [c for c in candidates if c['reason'] == 'rewrite'][:10]
@@ -260,6 +279,7 @@ def main():
             'synced_count': len(synced),
             'completed_count': len(completed),
             'launch_count': len(launched),
+            'launch_failure_count': len(launch_failures),
             'running_count': len(new_running),
             'open_slots': max(0, args.workers - len(new_running))
         },

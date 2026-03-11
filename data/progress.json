@@ -28,9 +28,9 @@
       "type": "prefecture_city",
       "code": "1301",
       "status": "done",
-      "updated": null,
-      "file": "cities/石家庄市.md",
-      "notes": ""
+      "updated": "2026-03-12 02:43",
+      "file": "cities/石家庄.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::唐山市": {
       "province": "河北省",
@@ -38,9 +38,9 @@
       "type": "prefecture_city",
       "code": "1302",
       "status": "done",
-      "updated": null,
-      "file": "cities/唐山市.md",
-      "notes": ""
+      "updated": "2026-03-12 02:43",
+      "file": "cities/唐山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::秦皇岛市": {
       "province": "河北省",
@@ -48,9 +48,9 @@
       "type": "prefecture_city",
       "code": "1303",
       "status": "done",
-      "updated": null,
-      "file": "cities/秦皇岛市.md",
-      "notes": ""
+      "updated": "2026-03-12 02:43",
+      "file": "cities/秦皇岛.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::邯郸市": {
       "province": "河北省",
@@ -58,9 +58,9 @@
       "type": "prefecture_city",
       "code": "1304",
       "status": "done",
-      "updated": null,
-      "file": "cities/邯郸市.md",
-      "notes": ""
+      "updated": "2026-03-12 02:43",
+      "file": "cities/邯郸.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::邢台市": {
       "province": "河北省",
@@ -68,9 +68,9 @@
       "type": "prefecture_city",
       "code": "1305",
       "status": "done",
-      "updated": null,
-      "file": "cities/邢台市.md",
-      "notes": ""
+      "updated": "2026-03-12 02:43",
+      "file": "cities/邢台.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河北省::保定市": {
       "province": "河北省",
