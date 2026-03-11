@@ -197,50 +197,50 @@
       "name": "晋中市",
       "type": "prefecture_city",
       "code": "1407",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/晋中市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:49",
+      "file": "cities/晋中.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::运城市": {
       "province": "山西省",
       "name": "运城市",
       "type": "prefecture_city",
       "code": "1408",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/运城市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:49",
+      "file": "cities/运城.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::忻州市": {
       "province": "山西省",
       "name": "忻州市",
       "type": "prefecture_city",
       "code": "1409",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/忻州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:49",
+      "file": "cities/忻州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::临汾市": {
       "province": "山西省",
       "name": "临汾市",
       "type": "prefecture_city",
       "code": "1410",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/临汾市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:49",
+      "file": "cities/临汾.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::吕梁市": {
       "province": "山西省",
       "name": "吕梁市",
       "type": "prefecture_city",
       "code": "1411",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/吕梁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:49",
+      "file": "cities/吕梁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::呼和浩特市": {
       "province": "内蒙古自治区",
