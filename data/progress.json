@@ -347,20 +347,20 @@
       "name": "锡林郭勒盟",
       "type": "league",
       "code": "1525",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/锡林郭勒盟.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:34",
+      "file": "cities/锡林郭勒.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "内蒙古自治区::阿拉善盟": {
       "province": "内蒙古自治区",
       "name": "阿拉善盟",
       "type": "league",
       "code": "1529",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阿拉善盟.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:34",
+      "file": "cities/阿拉善.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::沈阳市": {
       "province": "辽宁省",
@@ -387,30 +387,30 @@
       "name": "鞍山市",
       "type": "prefecture_city",
       "code": "2103",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鞍山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:34",
+      "file": "cities/鞍山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::抚顺市": {
       "province": "辽宁省",
       "name": "抚顺市",
       "type": "prefecture_city",
       "code": "2104",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/抚顺市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:34",
+      "file": "cities/抚顺.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::本溪市": {
       "province": "辽宁省",
       "name": "本溪市",
       "type": "prefecture_city",
       "code": "2105",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/本溪市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:34",
+      "file": "cities/本溪.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::丹东市": {
       "province": "辽宁省",
