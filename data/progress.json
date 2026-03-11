@@ -37,7 +37,7 @@
       "name": "唐山市",
       "type": "prefecture_city",
       "code": "1302",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/唐山市.md",
       "notes": ""
@@ -67,7 +67,7 @@
       "name": "邢台市",
       "type": "prefecture_city",
       "code": "1305",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/邢台市.md",
       "notes": ""
