@@ -1137,7 +1137,7 @@
       "name": "福州市",
       "type": "prefecture_city",
       "code": "3501",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/福州市.md",
       "notes": ""
