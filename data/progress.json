@@ -127,10 +127,10 @@
       "name": "衡水市",
       "type": "prefecture_city",
       "code": "1311",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/衡水市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:35",
+      "file": "cities/衡水.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::太原市": {
       "province": "山西省",
@@ -157,40 +157,40 @@
       "name": "阳泉市",
       "type": "prefecture_city",
       "code": "1403",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阳泉市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:35",
+      "file": "cities/阳泉.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::长治市": {
       "province": "山西省",
       "name": "长治市",
       "type": "prefecture_city",
       "code": "1404",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/长治市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:35",
+      "file": "cities/长治.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::晋城市": {
       "province": "山西省",
       "name": "晋城市",
       "type": "prefecture_city",
       "code": "1405",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/晋城市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:35",
+      "file": "cities/晋城.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::朔州市": {
       "province": "山西省",
       "name": "朔州市",
       "type": "prefecture_city",
       "code": "1406",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/朔州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 04:35",
+      "file": "cities/朔州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山西省::晋中市": {
       "province": "山西省",
