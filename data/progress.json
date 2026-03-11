@@ -417,50 +417,50 @@
       "name": "丹东市",
       "type": "prefecture_city",
       "code": "2106",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/丹东市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:49",
+      "file": "cities/丹东.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::锦州市": {
       "province": "辽宁省",
       "name": "锦州市",
       "type": "prefecture_city",
       "code": "2107",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/锦州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:49",
+      "file": "cities/锦州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::营口市": {
       "province": "辽宁省",
       "name": "营口市",
       "type": "prefecture_city",
       "code": "2108",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/营口市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:49",
+      "file": "cities/营口.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::阜新市": {
       "province": "辽宁省",
       "name": "阜新市",
       "type": "prefecture_city",
       "code": "2109",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阜新市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:49",
+      "file": "cities/阜新.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::辽阳市": {
       "province": "辽宁省",
       "name": "辽阳市",
       "type": "prefecture_city",
       "code": "2110",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/辽阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 05:49",
+      "file": "cities/辽阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "辽宁省::盘锦市": {
       "province": "辽宁省",
