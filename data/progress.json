@@ -1227,7 +1227,7 @@
       "name": "南昌市",
       "type": "prefecture_city",
       "code": "3601",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/南昌市.md",
       "notes": ""
