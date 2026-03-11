@@ -947,7 +947,7 @@
       "name": "舟山市",
       "type": "prefecture_city",
       "code": "3309",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/舟山市.md",
       "notes": ""
