@@ -757,7 +757,7 @@
       "name": "徐州市",
       "type": "prefecture_city",
       "code": "3203",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/徐州市.md",
       "notes": ""
