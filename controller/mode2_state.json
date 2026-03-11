@@ -1,0 +1,93 @@
+{
+  "workers": 5,
+  "generated_at": "2026-03-11T13:24:18",
+  "candidates": [
+    {
+      "province": "河北省",
+      "name": "唐山市",
+      "type": "prefecture_city",
+      "code": "1302",
+      "file": "cities/唐山市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "秦皇岛市",
+      "type": "prefecture_city",
+      "code": "1303",
+      "file": "cities/秦皇岛市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "邯郸市",
+      "type": "prefecture_city",
+      "code": "1304",
+      "file": "cities/邯郸市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "邢台市",
+      "type": "prefecture_city",
+      "code": "1305",
+      "file": "cities/邢台市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "保定市",
+      "type": "prefecture_city",
+      "code": "1306",
+      "file": "cities/保定市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "张家口市",
+      "type": "prefecture_city",
+      "code": "1307",
+      "file": "cities/张家口市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "承德市",
+      "type": "prefecture_city",
+      "code": "1308",
+      "file": "cities/承德市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "沧州市",
+      "type": "prefecture_city",
+      "code": "1309",
+      "file": "cities/沧州市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "廊坊市",
+      "type": "prefecture_city",
+      "code": "1310",
+      "file": "cities/廊坊市.md"
+    },
+    {
+      "province": "河北省",
+      "name": "衡水市",
+      "type": "prefecture_city",
+      "code": "1311",
+      "file": "cities/衡水市.md"
+    },
+    {
+      "province": "山西省",
+      "name": "阳泉市",
+      "type": "prefecture_city",
+      "code": "1403",
+      "file": "cities/阳泉市.md"
+    },
+    {
+      "province": "山西省",
+      "name": "长治市",
+      "type": "prefecture_city",
+      "code": "1404",
+      "file": "cities/长治市.md"
+    }
+  ],
+  "summary": {
+    "candidate_count": 12
+  }
+}
