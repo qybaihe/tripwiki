@@ -1217,7 +1217,7 @@
       "name": "宁德市",
       "type": "prefecture_city",
       "code": "3509",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/宁德市.md",
       "notes": ""
