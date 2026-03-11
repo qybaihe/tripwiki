@@ -877,7 +877,7 @@
       "name": "宁波市",
       "type": "prefecture_city",
       "code": "3302",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/宁波市.md",
       "notes": ""
@@ -1167,7 +1167,7 @@
       "name": "三明市",
       "type": "prefecture_city",
       "code": "3504",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/三明市.md",
       "notes": ""
@@ -1197,7 +1197,7 @@
       "name": "南平市",
       "type": "prefecture_city",
       "code": "3507",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/南平市.md",
       "notes": ""
