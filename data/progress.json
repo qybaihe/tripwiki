@@ -577,20 +577,20 @@
       "name": "白城市",
       "type": "prefecture_city",
       "code": "2208",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/白城市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:34",
+      "file": "cities/白城.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "吉林省::延边朝鲜族自治州": {
       "province": "吉林省",
       "name": "延边朝鲜族自治州",
       "type": "autonomous_prefecture",
       "code": "2224",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 06:34",
       "file": "cities/延边朝鲜族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::哈尔滨市": {
       "province": "黑龙江省",
@@ -607,30 +607,30 @@
       "name": "齐齐哈尔市",
       "type": "prefecture_city",
       "code": "2302",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/齐齐哈尔市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:34",
+      "file": "cities/齐齐哈尔.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::鸡西市": {
       "province": "黑龙江省",
       "name": "鸡西市",
       "type": "prefecture_city",
       "code": "2303",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鸡西市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:34",
+      "file": "cities/鸡西.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::鹤岗市": {
       "province": "黑龙江省",
       "name": "鹤岗市",
       "type": "prefecture_city",
       "code": "2304",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鹤岗市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 06:34",
+      "file": "cities/鹤岗.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "黑龙江省::双鸭山市": {
       "province": "黑龙江省",
