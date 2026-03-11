@@ -1717,7 +1717,7 @@
       "name": "襄阳市",
       "type": "prefecture_city",
       "code": "4206",
-      "status": "todo",
+      "status": "done",
       "updated": null,
       "file": "cities/襄阳市.md",
       "notes": ""
