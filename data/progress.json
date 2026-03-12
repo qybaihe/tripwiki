@@ -2567,20 +2567,20 @@
       "name": "甘孜藏族自治州",
       "type": "autonomous_prefecture",
       "code": "5133",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 15:36",
       "file": "cities/甘孜藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::凉山彝族自治州": {
       "province": "四川省",
       "name": "凉山彝族自治州",
       "type": "autonomous_prefecture",
       "code": "5134",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 15:36",
       "file": "cities/凉山彝族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::贵阳市": {
       "province": "贵州省",
@@ -2597,30 +2597,30 @@
       "name": "六盘水市",
       "type": "prefecture_city",
       "code": "5202",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/六盘水市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:36",
+      "file": "cities/六盘水.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::遵义市": {
       "province": "贵州省",
       "name": "遵义市",
       "type": "prefecture_city",
       "code": "5203",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/遵义市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:36",
+      "file": "cities/遵义.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::安顺市": {
       "province": "贵州省",
       "name": "安顺市",
       "type": "prefecture_city",
       "code": "5204",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/安顺市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:36",
+      "file": "cities/安顺.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::毕节市": {
       "province": "贵州省",
