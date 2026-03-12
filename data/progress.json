@@ -3047,20 +3047,20 @@
       "name": "天水市",
       "type": "prefecture_city",
       "code": "6205",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/天水市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:40",
+      "file": "cities/天水.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::武威市": {
       "province": "甘肃省",
       "name": "武威市",
       "type": "prefecture_city",
       "code": "6206",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/武威市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:40",
+      "file": "cities/武威.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::张掖市": {
       "province": "甘肃省",
@@ -3077,10 +3077,10 @@
       "name": "平凉市",
       "type": "prefecture_city",
       "code": "6208",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/平凉市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:40",
+      "file": "cities/平凉.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::酒泉市": {
       "province": "甘肃省",
@@ -3097,20 +3097,20 @@
       "name": "庆阳市",
       "type": "prefecture_city",
       "code": "6210",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/庆阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:40",
+      "file": "cities/庆阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::定西市": {
       "province": "甘肃省",
       "name": "定西市",
       "type": "prefecture_city",
       "code": "6211",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/定西市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:40",
+      "file": "cities/定西.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::陇南市": {
       "province": "甘肃省",
