@@ -1067,50 +1067,50 @@
       "name": "滁州市",
       "type": "prefecture_city",
       "code": "3411",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/滁州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:49",
+      "file": "cities/滁州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::阜阳市": {
       "province": "安徽省",
       "name": "阜阳市",
       "type": "prefecture_city",
       "code": "3412",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阜阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:49",
+      "file": "cities/阜阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::宿州市": {
       "province": "安徽省",
       "name": "宿州市",
       "type": "prefecture_city",
       "code": "3413",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/宿州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:49",
+      "file": "cities/宿州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::六安市": {
       "province": "安徽省",
       "name": "六安市",
       "type": "prefecture_city",
       "code": "3415",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/六安市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:49",
+      "file": "cities/六安.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::亳州市": {
       "province": "安徽省",
       "name": "亳州市",
       "type": "prefecture_city",
       "code": "3416",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/亳州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:49",
+      "file": "cities/亳州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::池州市": {
       "province": "安徽省",
