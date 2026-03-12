@@ -2137,50 +2137,50 @@
       "name": "潮州市",
       "type": "prefecture_city",
       "code": "4451",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/潮州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:49",
+      "file": "cities/潮州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::揭阳市": {
       "province": "广东省",
       "name": "揭阳市",
       "type": "prefecture_city",
       "code": "4452",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/揭阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:49",
+      "file": "cities/揭阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::云浮市": {
       "province": "广东省",
       "name": "云浮市",
       "type": "prefecture_city",
       "code": "4453",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/云浮市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:49",
+      "file": "cities/云浮.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::南宁市": {
       "province": "广西壮族自治区",
       "name": "南宁市",
       "type": "prefecture_city",
       "code": "4501",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/南宁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:49",
+      "file": "cities/南宁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::柳州市": {
       "province": "广西壮族自治区",
       "name": "柳州市",
       "type": "prefecture_city",
       "code": "4502",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/柳州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:49",
+      "file": "cities/柳州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::桂林市": {
       "province": "广西壮族自治区",
