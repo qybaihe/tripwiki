@@ -1897,30 +1897,30 @@
       "name": "益阳市",
       "type": "prefecture_city",
       "code": "4309",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/益阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:50",
+      "file": "cities/益阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::郴州市": {
       "province": "湖南省",
       "name": "郴州市",
       "type": "prefecture_city",
       "code": "4310",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/郴州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:50",
+      "file": "cities/郴州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::永州市": {
       "province": "湖南省",
       "name": "永州市",
       "type": "prefecture_city",
       "code": "4311",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/永州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:50",
+      "file": "cities/永州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::怀化市": {
       "province": "湖南省",
@@ -1937,20 +1937,20 @@
       "name": "娄底市",
       "type": "prefecture_city",
       "code": "4313",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/娄底市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:50",
+      "file": "cities/娄底.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::湘西土家族苗族自治州": {
       "province": "湖南省",
       "name": "湘西土家族苗族自治州",
       "type": "autonomous_prefecture",
       "code": "4331",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 12:50",
       "file": "cities/湘西土家族苗族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::广州市": {
       "province": "广东省",
