@@ -967,10 +967,10 @@
       "name": "丽水市",
       "type": "prefecture_city",
       "code": "3311",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/丽水市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:18",
+      "file": "cities/丽水.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::合肥市": {
       "province": "安徽省",
@@ -1037,10 +1037,10 @@
       "name": "铜陵市",
       "type": "prefecture_city",
       "code": "3407",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/铜陵市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:18",
+      "file": "cities/铜陵.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::安庆市": {
       "province": "安徽省",
