@@ -1267,50 +1267,50 @@
       "name": "新余市",
       "type": "prefecture_city",
       "code": "3605",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/新余市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:18",
+      "file": "cities/新余.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江西省::鹰潭市": {
       "province": "江西省",
       "name": "鹰潭市",
       "type": "prefecture_city",
       "code": "3606",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鹰潭市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:18",
+      "file": "cities/鹰潭.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江西省::赣州市": {
       "province": "江西省",
       "name": "赣州市",
       "type": "prefecture_city",
       "code": "3607",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/赣州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:18",
+      "file": "cities/赣州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江西省::吉安市": {
       "province": "江西省",
       "name": "吉安市",
       "type": "prefecture_city",
       "code": "3608",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/吉安市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:18",
+      "file": "cities/吉安.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江西省::宜春市": {
       "province": "江西省",
       "name": "宜春市",
       "type": "prefecture_city",
       "code": "3609",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/宜春市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:18",
+      "file": "cities/宜春.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江西省::抚州市": {
       "province": "江西省",
