@@ -275,7 +275,9 @@ def main():
         },
         'summary': {
             'done': sum(1 for v in progress.get('cities', {}).values() if v.get('status') == 'done'),
-            'todo': sum(1 for v in progress.get('cities', {}).values() if v.get('status') != 'done'),
+            'todo': sum(1 for v in progress.get('cities', {}).values() if v.get('status') not in ('done', 'skipped')),
+            'skipped': sum(1 for v in progress.get('cities', {}).values() if v.get('status') == 'skipped'),
+            'rewrite_pending': len([c for c in candidates if c['reason'] == 'rewrite']),
             'synced_count': len(synced),
             'completed_count': len(completed),
             'launch_count': len(launched),
