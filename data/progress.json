@@ -1967,10 +1967,10 @@
       "name": "韶关市",
       "type": "prefecture_city",
       "code": "4402",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/韶关市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:05",
+      "file": "cities/韶关.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::深圳市": {
       "province": "广东省",
@@ -1997,40 +1997,40 @@
       "name": "汕头市",
       "type": "prefecture_city",
       "code": "4405",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/汕头市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:05",
+      "file": "cities/汕头.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::佛山市": {
       "province": "广东省",
       "name": "佛山市",
       "type": "prefecture_city",
       "code": "4406",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/佛山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:05",
+      "file": "cities/佛山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::江门市": {
       "province": "广东省",
       "name": "江门市",
       "type": "prefecture_city",
       "code": "4407",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/江门市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:05",
+      "file": "cities/江门.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::湛江市": {
       "province": "广东省",
       "name": "湛江市",
       "type": "prefecture_city",
       "code": "4408",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/湛江市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:05",
+      "file": "cities/湛江.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::茂名市": {
       "province": "广东省",
