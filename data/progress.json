@@ -2417,50 +2417,50 @@
       "name": "德阳市",
       "type": "prefecture_city",
       "code": "5106",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/德阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:49",
+      "file": "cities/德阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::绵阳市": {
       "province": "四川省",
       "name": "绵阳市",
       "type": "prefecture_city",
       "code": "5107",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/绵阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:49",
+      "file": "cities/绵阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::广元市": {
       "province": "四川省",
       "name": "广元市",
       "type": "prefecture_city",
       "code": "5108",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/广元市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:49",
+      "file": "cities/广元.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::遂宁市": {
       "province": "四川省",
       "name": "遂宁市",
       "type": "prefecture_city",
       "code": "5109",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/遂宁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:49",
+      "file": "cities/遂宁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::内江市": {
       "province": "四川省",
       "name": "内江市",
       "type": "prefecture_city",
       "code": "5110",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/内江市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:49",
+      "file": "cities/内江.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::乐山市": {
       "province": "四川省",
