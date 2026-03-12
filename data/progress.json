@@ -2517,50 +2517,50 @@
       "name": "达州市",
       "type": "prefecture_city",
       "code": "5117",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/达州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:18",
+      "file": "cities/达州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::雅安市": {
       "province": "四川省",
       "name": "雅安市",
       "type": "prefecture_city",
       "code": "5118",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/雅安市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:18",
+      "file": "cities/雅安.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::巴中市": {
       "province": "四川省",
       "name": "巴中市",
       "type": "prefecture_city",
       "code": "5119",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/巴中市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:18",
+      "file": "cities/巴中.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::资阳市": {
       "province": "四川省",
       "name": "资阳市",
       "type": "prefecture_city",
       "code": "5120",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/资阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:18",
+      "file": "cities/资阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::阿坝藏族羌族自治州": {
       "province": "四川省",
       "name": "阿坝藏族羌族自治州",
       "type": "autonomous_prefecture",
       "code": "5132",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 15:18",
       "file": "cities/阿坝藏族羌族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::甘孜藏族自治州": {
       "province": "四川省",
