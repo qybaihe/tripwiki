@@ -1697,10 +1697,10 @@
       "name": "十堰市",
       "type": "prefecture_city",
       "code": "4203",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/十堰市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:49",
+      "file": "cities/十堰.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::宜昌市": {
       "province": "湖北省",
@@ -1727,40 +1727,40 @@
       "name": "鄂州市",
       "type": "prefecture_city",
       "code": "4207",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鄂州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:49",
+      "file": "cities/鄂州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::荆门市": {
       "province": "湖北省",
       "name": "荆门市",
       "type": "prefecture_city",
       "code": "4208",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/荆门市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:49",
+      "file": "cities/荆门.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::孝感市": {
       "province": "湖北省",
       "name": "孝感市",
       "type": "prefecture_city",
       "code": "4209",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/孝感市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:49",
+      "file": "cities/孝感.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::荆州市": {
       "province": "湖北省",
       "name": "荆州市",
       "type": "prefecture_city",
       "code": "4210",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/荆州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:49",
+      "file": "cities/荆州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::黄冈市": {
       "province": "湖北省",
