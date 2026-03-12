@@ -2687,40 +2687,40 @@
       "name": "曲靖市",
       "type": "prefecture_city",
       "code": "5303",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/曲靖市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:04",
+      "file": "cities/曲靖.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::玉溪市": {
       "province": "云南省",
       "name": "玉溪市",
       "type": "prefecture_city",
       "code": "5304",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/玉溪市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:04",
+      "file": "cities/玉溪.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::保山市": {
       "province": "云南省",
       "name": "保山市",
       "type": "prefecture_city",
       "code": "5305",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/保山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:04",
+      "file": "cities/保山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::昭通市": {
       "province": "云南省",
       "name": "昭通市",
       "type": "prefecture_city",
       "code": "5306",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/昭通市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:04",
+      "file": "cities/昭通.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::丽江市": {
       "province": "云南省",
@@ -2737,10 +2737,10 @@
       "name": "普洱市",
       "type": "prefecture_city",
       "code": "5308",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/普洱市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:04",
+      "file": "cities/普洱.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::临沧市": {
       "province": "云南省",
