@@ -1027,10 +1027,10 @@
       "name": "淮北市",
       "type": "prefecture_city",
       "code": "3406",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/淮北市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:43",
+      "file": "cities/淮北.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::铜陵市": {
       "province": "安徽省",
@@ -1047,20 +1047,20 @@
       "name": "安庆市",
       "type": "prefecture_city",
       "code": "3408",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/安庆市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:43",
+      "file": "cities/安庆.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::黄山市": {
       "province": "安徽省",
       "name": "黄山市",
       "type": "prefecture_city",
       "code": "3410",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/黄山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:43",
+      "file": "cities/黄山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::滁州市": {
       "province": "安徽省",
