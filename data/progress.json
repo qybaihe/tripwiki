@@ -1627,40 +1627,40 @@
       "name": "商丘市",
       "type": "prefecture_city",
       "code": "4114",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/商丘市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:33",
+      "file": "cities/商丘.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::信阳市": {
       "province": "河南省",
       "name": "信阳市",
       "type": "prefecture_city",
       "code": "4115",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/信阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:33",
+      "file": "cities/信阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::周口市": {
       "province": "河南省",
       "name": "周口市",
       "type": "prefecture_city",
       "code": "4116",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/周口市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:33",
+      "file": "cities/周口.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::驻马店市": {
       "province": "河南省",
       "name": "驻马店市",
       "type": "prefecture_city",
       "code": "4117",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/驻马店市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:33",
+      "file": "cities/驻马店.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::省直辖县级行政区划": {
       "province": "河南省",
@@ -1687,10 +1687,10 @@
       "name": "黄石市",
       "type": "prefecture_city",
       "code": "4202",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/黄石市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:33",
+      "file": "cities/黄石.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::十堰市": {
       "province": "湖北省",
