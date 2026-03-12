@@ -2627,50 +2627,50 @@
       "name": "毕节市",
       "type": "prefecture_city",
       "code": "5205",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/毕节市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:50",
+      "file": "cities/毕节.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::铜仁市": {
       "province": "贵州省",
       "name": "铜仁市",
       "type": "prefecture_city",
       "code": "5206",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/铜仁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:50",
+      "file": "cities/铜仁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::黔西南布依族苗族自治州": {
       "province": "贵州省",
       "name": "黔西南布依族苗族自治州",
       "type": "autonomous_prefecture",
       "code": "5223",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 15:50",
       "file": "cities/黔西南布依族苗族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::黔东南苗族侗族自治州": {
       "province": "贵州省",
       "name": "黔东南苗族侗族自治州",
       "type": "autonomous_prefecture",
       "code": "5226",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 15:50",
       "file": "cities/黔东南苗族侗族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "贵州省::黔南布依族苗族自治州": {
       "province": "贵州省",
       "name": "黔南布依族苗族自治州",
       "type": "autonomous_prefecture",
       "code": "5227",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 15:50",
       "file": "cities/黔南布依族苗族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::昆明市": {
       "province": "云南省",
