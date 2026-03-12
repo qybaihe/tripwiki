@@ -3117,30 +3117,30 @@
       "name": "陇南市",
       "type": "prefecture_city",
       "code": "6212",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/陇南市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:48",
+      "file": "cities/陇南.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::临夏回族自治州": {
       "province": "甘肃省",
       "name": "临夏回族自治州",
       "type": "autonomous_prefecture",
       "code": "6229",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 17:48",
       "file": "cities/临夏回族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::甘南藏族自治州": {
       "province": "甘肃省",
       "name": "甘南藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6230",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 17:48",
       "file": "cities/甘南藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::西宁市": {
       "province": "青海省",
@@ -3157,20 +3157,20 @@
       "name": "海东市",
       "type": "prefecture_city",
       "code": "6302",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/海东市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:48",
+      "file": "cities/海东.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::海北藏族自治州": {
       "province": "青海省",
       "name": "海北藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6322",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 17:48",
       "file": "cities/海北藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::黄南藏族自治州": {
       "province": "青海省",
