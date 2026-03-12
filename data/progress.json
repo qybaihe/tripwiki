@@ -2247,20 +2247,20 @@
       "name": "玉林市",
       "type": "prefecture_city",
       "code": "4509",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/玉林市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:12",
+      "file": "cities/玉林.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::百色市": {
       "province": "广西壮族自治区",
       "name": "百色市",
       "type": "prefecture_city",
       "code": "4510",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/百色市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:12",
+      "file": "cities/百色.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::贺州市": {
       "province": "广西壮族自治区",
