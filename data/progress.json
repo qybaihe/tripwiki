@@ -1317,30 +1317,30 @@
       "name": "抚州市",
       "type": "prefecture_city",
       "code": "3610",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/抚州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:35",
+      "file": "cities/抚州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "江西省::上饶市": {
       "province": "江西省",
       "name": "上饶市",
       "type": "prefecture_city",
       "code": "3611",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/上饶市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:35",
+      "file": "cities/上饶.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::济南市": {
       "province": "山东省",
       "name": "济南市",
       "type": "prefecture_city",
       "code": "3701",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/济南市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:35",
+      "file": "cities/济南.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::青岛市": {
       "province": "山东省",
@@ -1357,20 +1357,20 @@
       "name": "淄博市",
       "type": "prefecture_city",
       "code": "3703",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/淄博市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:35",
+      "file": "cities/淄博.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::枣庄市": {
       "province": "山东省",
       "name": "枣庄市",
       "type": "prefecture_city",
       "code": "3704",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/枣庄市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:35",
+      "file": "cities/枣庄.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::东营市": {
       "province": "山东省",
