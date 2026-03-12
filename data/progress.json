@@ -3177,50 +3177,50 @@
       "name": "黄南藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6323",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:05",
       "file": "cities/黄南藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::海南藏族自治州": {
       "province": "青海省",
       "name": "海南藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6325",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:05",
       "file": "cities/海南藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::果洛藏族自治州": {
       "province": "青海省",
       "name": "果洛藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6326",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:05",
       "file": "cities/果洛藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::玉树藏族自治州": {
       "province": "青海省",
       "name": "玉树藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6327",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:05",
       "file": "cities/玉树藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "青海省::海西蒙古族藏族自治州": {
       "province": "青海省",
       "name": "海西蒙古族藏族自治州",
       "type": "autonomous_prefecture",
       "code": "6328",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:05",
       "file": "cities/海西蒙古族藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "宁夏回族自治区::银川市": {
       "province": "宁夏回族自治区",
