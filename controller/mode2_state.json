@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T18:35:30",
+  "generated_at": "2026-03-12T18:49:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
@@ -7,11 +7,11 @@
       "廊坊"
     ],
     "completed_since_last_run": [
-      "吐鲁番",
-      "哈密",
-      "昌吉回族自治州",
-      "博尔塔拉蒙古自治州",
-      "巴音郭楞蒙古自治州"
+      "阿克苏",
+      "克孜勒苏柯尔克孜自治州",
+      "和田",
+      "伊犁哈萨克自治州",
+      "塔城"
     ],
     "launched": [],
     "launch_failures": [],
@@ -154,8 +154,8 @@
     ]
   },
   "summary": {
-    "done": 331,
-    "todo": 11,
+    "done": 336,
+    "todo": 6,
     "synced_count": 2,
     "completed_count": 5,
     "launch_count": 0,

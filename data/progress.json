@@ -3347,20 +3347,20 @@
       "name": "阿克苏地区",
       "type": "prefecture_region",
       "code": "6529",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阿克苏地区.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:49",
+      "file": "cities/阿克苏.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::克孜勒苏柯尔克孜自治州": {
       "province": "新疆维吾尔自治区",
       "name": "克孜勒苏柯尔克孜自治州",
       "type": "autonomous_prefecture",
       "code": "6530",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:49",
       "file": "cities/克孜勒苏柯尔克孜自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::喀什地区": {
       "province": "新疆维吾尔自治区",
@@ -3377,30 +3377,30 @@
       "name": "和田地区",
       "type": "prefecture_region",
       "code": "6532",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/和田地区.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:49",
+      "file": "cities/和田.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::伊犁哈萨克自治州": {
       "province": "新疆维吾尔自治区",
       "name": "伊犁哈萨克自治州",
       "type": "autonomous_prefecture",
       "code": "6540",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 18:49",
       "file": "cities/伊犁哈萨克自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::塔城地区": {
       "province": "新疆维吾尔自治区",
       "name": "塔城地区",
       "type": "prefecture_region",
       "code": "6542",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/塔城地区.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:49",
+      "file": "cities/塔城.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::阿勒泰地区": {
       "province": "新疆维吾尔自治区",
