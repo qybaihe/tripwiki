@@ -2267,50 +2267,50 @@
       "name": "贺州市",
       "type": "prefecture_city",
       "code": "4511",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/贺州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:18",
+      "file": "cities/贺州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::河池市": {
       "province": "广西壮族自治区",
       "name": "河池市",
       "type": "prefecture_city",
       "code": "4512",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/河池市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:18",
+      "file": "cities/河池.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::来宾市": {
       "province": "广西壮族自治区",
       "name": "来宾市",
       "type": "prefecture_city",
       "code": "4513",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/来宾市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:18",
+      "file": "cities/来宾.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::崇左市": {
       "province": "广西壮族自治区",
       "name": "崇左市",
       "type": "prefecture_city",
       "code": "4514",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/崇左市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:18",
+      "file": "cities/崇左.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "海南省::海口市": {
       "province": "海南省",
       "name": "海口市",
       "type": "prefecture_city",
       "code": "4601",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/海口市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:18",
+      "file": "cities/海口.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "海南省::三亚市": {
       "province": "海南省",
