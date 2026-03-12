@@ -2197,10 +2197,10 @@
       "name": "梧州市",
       "type": "prefecture_city",
       "code": "4504",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/梧州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:06",
+      "file": "cities/梧州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::北海市": {
       "province": "广西壮族自治区",
@@ -2217,30 +2217,30 @@
       "name": "防城港市",
       "type": "prefecture_city",
       "code": "4506",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/防城港市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:06",
+      "file": "cities/防城港.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::钦州市": {
       "province": "广西壮族自治区",
       "name": "钦州市",
       "type": "prefecture_city",
       "code": "4507",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/钦州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:06",
+      "file": "cities/钦州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::贵港市": {
       "province": "广西壮族自治区",
       "name": "贵港市",
       "type": "prefecture_city",
       "code": "4508",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/贵港市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:06",
+      "file": "cities/贵港.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广西壮族自治区::玉林市": {
       "province": "广西壮族自治区",
