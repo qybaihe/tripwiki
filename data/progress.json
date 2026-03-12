@@ -2867,40 +2867,40 @@
       "name": "林芝市",
       "type": "prefecture_city",
       "code": "5404",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/林芝市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:51",
+      "file": "cities/林芝.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "西藏自治区::山南市": {
       "province": "西藏自治区",
       "name": "山南市",
       "type": "prefecture_city",
       "code": "5405",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/山南市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:51",
+      "file": "cities/山南.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "西藏自治区::那曲市": {
       "province": "西藏自治区",
       "name": "那曲市",
       "type": "prefecture_city",
       "code": "5406",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/那曲市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:51",
+      "file": "cities/那曲.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "西藏自治区::阿里地区": {
       "province": "西藏自治区",
       "name": "阿里地区",
       "type": "prefecture_region",
       "code": "5425",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阿里地区.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:51",
+      "file": "cities/阿里.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::西安市": {
       "province": "陕西省",
@@ -2917,10 +2917,10 @@
       "name": "铜川市",
       "type": "prefecture_city",
       "code": "6102",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/铜川市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:51",
+      "file": "cities/铜川.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::宝鸡市": {
       "province": "陕西省",

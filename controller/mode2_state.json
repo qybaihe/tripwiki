@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T16:34:30",
+  "generated_at": "2026-03-12T16:51:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
@@ -7,11 +7,11 @@
       "廊坊"
     ],
     "completed_since_last_run": [
-      "德宏傣族景颇族自治州",
-      "怒江傈僳族自治州",
-      "迪庆藏族自治州",
-      "日喀则",
-      "昌都"
+      "林芝",
+      "山南",
+      "那曲",
+      "阿里",
+      "铜川"
     ],
     "launched": [],
     "launch_failures": [],
@@ -154,8 +154,8 @@
     ]
   },
   "summary": {
-    "done": 291,
-    "todo": 51,
+    "done": 296,
+    "todo": 46,
     "synced_count": 2,
     "completed_count": 5,
     "launch_count": 0,
