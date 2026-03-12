@@ -1457,40 +1457,40 @@
       "name": "德州市",
       "type": "prefecture_city",
       "code": "3714",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/德州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 10:49",
+      "file": "cities/德州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::聊城市": {
       "province": "山东省",
       "name": "聊城市",
       "type": "prefecture_city",
       "code": "3715",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/聊城市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 10:49",
+      "file": "cities/聊城.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::滨州市": {
       "province": "山东省",
       "name": "滨州市",
       "type": "prefecture_city",
       "code": "3716",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/滨州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 10:49",
+      "file": "cities/滨州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::菏泽市": {
       "province": "山东省",
       "name": "菏泽市",
       "type": "prefecture_city",
       "code": "3717",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/菏泽市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 10:49",
+      "file": "cities/菏泽.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::郑州市": {
       "province": "河南省",
@@ -1507,10 +1507,10 @@
       "name": "开封市",
       "type": "prefecture_city",
       "code": "4102",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/开封市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 10:49",
+      "file": "cities/开封.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::洛阳市": {
       "province": "河南省",

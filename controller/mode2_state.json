@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T10:43:30",
+  "generated_at": "2026-03-12T10:49:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
@@ -7,27 +7,14 @@
       "廊坊"
     ],
     "completed_since_last_run": [
-      "临沂"
+      "德州",
+      "聊城",
+      "滨州",
+      "菏泽",
+      "开封"
     ],
     "launched": [],
-    "launch_failures": [
-      {
-        "city": "德州",
-        "reason": "child_returned_directory_listing"
-      },
-      {
-        "city": "聊城",
-        "reason": "child_returned_process_note_only"
-      },
-      {
-        "city": "滨州",
-        "reason": "child_returned_no_output"
-      },
-      {
-        "city": "菏泽",
-        "reason": "child_failed_rg_not_found"
-      }
-    ],
+    "launch_failures": [],
     "launch_plan_only": [
       {
         "city": "石家庄",
@@ -167,12 +154,12 @@
     ]
   },
   "summary": {
-    "done": 175,
-    "todo": 167,
+    "done": 180,
+    "todo": 162,
     "synced_count": 2,
-    "completed_count": 1,
+    "completed_count": 5,
     "launch_count": 0,
-    "launch_failure_count": 4,
+    "launch_failure_count": 0,
     "running_count": 0,
     "open_slots": 5
   },
