@@ -2037,50 +2037,50 @@
       "name": "茂名市",
       "type": "prefecture_city",
       "code": "4409",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/茂名市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:19",
+      "file": "cities/茂名.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::肇庆市": {
       "province": "广东省",
       "name": "肇庆市",
       "type": "prefecture_city",
       "code": "4412",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/肇庆市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:19",
+      "file": "cities/肇庆.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::惠州市": {
       "province": "广东省",
       "name": "惠州市",
       "type": "prefecture_city",
       "code": "4413",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/惠州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:19",
+      "file": "cities/惠州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::梅州市": {
       "province": "广东省",
       "name": "梅州市",
       "type": "prefecture_city",
       "code": "4414",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/梅州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:19",
+      "file": "cities/梅州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::汕尾市": {
       "province": "广东省",
       "name": "汕尾市",
       "type": "prefecture_city",
       "code": "4415",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/汕尾市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:19",
+      "file": "cities/汕尾.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::河源市": {
       "province": "广东省",
