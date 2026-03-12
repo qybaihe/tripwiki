@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T18:49:30",
+  "generated_at": "2026-03-12T19:02:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
@@ -7,11 +7,7 @@
       "廊坊"
     ],
     "completed_since_last_run": [
-      "阿克苏",
-      "克孜勒苏柯尔克孜自治州",
-      "和田",
-      "伊犁哈萨克自治州",
-      "塔城"
+      "阿勒泰"
     ],
     "launched": [],
     "launch_failures": [],
@@ -154,10 +150,10 @@
     ]
   },
   "summary": {
-    "done": 336,
-    "todo": 6,
+    "done": 337,
+    "todo": 4,
     "synced_count": 2,
-    "completed_count": 5,
+    "completed_count": 1,
     "launch_count": 0,
     "launch_failure_count": 0,
     "running_count": 0,

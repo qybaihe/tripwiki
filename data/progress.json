@@ -3407,20 +3407,20 @@
       "name": "阿勒泰地区",
       "type": "prefecture_region",
       "code": "6543",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阿勒泰地区.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 19:02",
+      "file": "cities/阿勒泰.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::自治区直辖县级行政区划": {
       "province": "新疆维吾尔自治区",
       "name": "自治区直辖县级行政区划",
       "type": "prefecture",
       "code": "6590",
-      "status": "todo",
-      "updated": null,
+      "status": "skipped",
+      "updated": "2026-03-12 19:02",
       "file": "cities/自治区直辖县级行政区划.md",
-      "notes": ""
+      "notes": "abnormal administrative bucket skipped by coordinator"
     }
   }
 }
