@@ -2327,20 +2327,20 @@
       "name": "三沙市",
       "type": "prefecture_city",
       "code": "4603",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/三沙市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:33",
+      "file": "cities/三沙.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "海南省::儋州市": {
       "province": "海南省",
       "name": "儋州市",
       "type": "prefecture_city",
       "code": "4604",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/儋州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:33",
+      "file": "cities/儋州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "海南省::省直辖县级行政区划": {
       "province": "海南省",
@@ -2387,30 +2387,30 @@
       "name": "自贡市",
       "type": "prefecture_city",
       "code": "5103",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/自贡市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:33",
+      "file": "cities/自贡.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::攀枝花市": {
       "province": "四川省",
       "name": "攀枝花市",
       "type": "prefecture_city",
       "code": "5104",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/攀枝花市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:33",
+      "file": "cities/攀枝花.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::泸州市": {
       "province": "四川省",
       "name": "泸州市",
       "type": "prefecture_city",
       "code": "5105",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/泸州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 14:33",
+      "file": "cities/泸州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::德阳市": {
       "province": "四川省",
