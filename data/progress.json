@@ -2807,30 +2807,30 @@
       "name": "德宏傣族景颇族自治州",
       "type": "autonomous_prefecture",
       "code": "5331",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:34",
       "file": "cities/德宏傣族景颇族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::怒江傈僳族自治州": {
       "province": "云南省",
       "name": "怒江傈僳族自治州",
       "type": "autonomous_prefecture",
       "code": "5333",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:34",
       "file": "cities/怒江傈僳族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::迪庆藏族自治州": {
       "province": "云南省",
       "name": "迪庆藏族自治州",
       "type": "autonomous_prefecture",
       "code": "5334",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:34",
       "file": "cities/迪庆藏族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "西藏自治区::拉萨市": {
       "province": "西藏自治区",
@@ -2847,20 +2847,20 @@
       "name": "日喀则市",
       "type": "prefecture_city",
       "code": "5402",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/日喀则市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:34",
+      "file": "cities/日喀则.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "西藏自治区::昌都市": {
       "province": "西藏自治区",
       "name": "昌都市",
       "type": "prefecture_city",
       "code": "5403",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/昌都市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:34",
+      "file": "cities/昌都.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "西藏自治区::林芝市": {
       "province": "西藏自治区",
