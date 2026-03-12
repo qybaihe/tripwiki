@@ -1527,50 +1527,50 @@
       "name": "平顶山市",
       "type": "prefecture_city",
       "code": "4104",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/平顶山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:03",
+      "file": "cities/平顶山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::安阳市": {
       "province": "河南省",
       "name": "安阳市",
       "type": "prefecture_city",
       "code": "4105",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/安阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:03",
+      "file": "cities/安阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::鹤壁市": {
       "province": "河南省",
       "name": "鹤壁市",
       "type": "prefecture_city",
       "code": "4106",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/鹤壁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:03",
+      "file": "cities/鹤壁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::新乡市": {
       "province": "河南省",
       "name": "新乡市",
       "type": "prefecture_city",
       "code": "4107",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/新乡市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:03",
+      "file": "cities/新乡.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::焦作市": {
       "province": "河南省",
       "name": "焦作市",
       "type": "prefecture_city",
       "code": "4108",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/焦作市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 11:03",
+      "file": "cities/焦作.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "河南省::濮阳市": {
       "province": "河南省",
