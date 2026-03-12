@@ -2087,50 +2087,50 @@
       "name": "河源市",
       "type": "prefecture_city",
       "code": "4416",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/河源市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:33",
+      "file": "cities/河源.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::阳江市": {
       "province": "广东省",
       "name": "阳江市",
       "type": "prefecture_city",
       "code": "4417",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/阳江市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:33",
+      "file": "cities/阳江.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::清远市": {
       "province": "广东省",
       "name": "清远市",
       "type": "prefecture_city",
       "code": "4418",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/清远市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:33",
+      "file": "cities/清远.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::东莞市": {
       "province": "广东省",
       "name": "东莞市",
       "type": "prefecture_city",
       "code": "4419",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/东莞市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:33",
+      "file": "cities/东莞.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::中山市": {
       "province": "广东省",
       "name": "中山市",
       "type": "prefecture_city",
       "code": "4420",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/中山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 13:33",
+      "file": "cities/中山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "广东省::潮州市": {
       "province": "广东省",
