@@ -1837,50 +1837,50 @@
       "name": "湘潭市",
       "type": "prefecture_city",
       "code": "4303",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/湘潭市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:30",
+      "file": "cities/湘潭.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::衡阳市": {
       "province": "湖南省",
       "name": "衡阳市",
       "type": "prefecture_city",
       "code": "4304",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/衡阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:30",
+      "file": "cities/衡阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::邵阳市": {
       "province": "湖南省",
       "name": "邵阳市",
       "type": "prefecture_city",
       "code": "4305",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/邵阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:30",
+      "file": "cities/邵阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::岳阳市": {
       "province": "湖南省",
       "name": "岳阳市",
       "type": "prefecture_city",
       "code": "4306",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/岳阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:30",
+      "file": "cities/岳阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::常德市": {
       "province": "湖南省",
       "name": "常德市",
       "type": "prefecture_city",
       "code": "4307",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/常德市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:30",
+      "file": "cities/常德.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::张家界市": {
       "province": "湖南省",
