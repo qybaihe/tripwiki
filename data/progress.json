@@ -1667,10 +1667,10 @@
       "name": "省直辖县级行政区划",
       "type": "prefecture",
       "code": "4190",
-      "status": "todo",
-      "updated": null,
+      "status": "skipped",
+      "updated": "2026-03-12 19:13",
       "file": "cities/省直辖县级行政区划.md",
-      "notes": ""
+      "notes": "abnormal administrative bucket skipped by coordinator"
     },
     "湖北省::武汉市": {
       "province": "湖北省",
@@ -1807,10 +1807,10 @@
       "name": "省直辖县级行政区划",
       "type": "prefecture",
       "code": "4290",
-      "status": "todo",
-      "updated": null,
+      "status": "skipped",
+      "updated": "2026-03-12 19:13",
       "file": "cities/省直辖县级行政区划.md",
-      "notes": ""
+      "notes": "abnormal administrative bucket skipped by coordinator"
     },
     "湖南省::长沙市": {
       "province": "湖南省",
@@ -2347,10 +2347,10 @@
       "name": "省直辖县级行政区划",
       "type": "prefecture",
       "code": "4690",
-      "status": "todo",
-      "updated": null,
+      "status": "skipped",
+      "updated": "2026-03-12 19:13",
       "file": "cities/省直辖县级行政区划.md",
-      "notes": ""
+      "notes": "abnormal administrative bucket skipped by coordinator"
     },
     "重庆市::市辖区": {
       "province": "重庆市",
@@ -2367,10 +2367,10 @@
       "name": "县",
       "type": "prefecture",
       "code": "5002",
-      "status": "todo",
-      "updated": null,
+      "status": "skipped",
+      "updated": "2026-03-12 19:13",
       "file": "cities/县.md",
-      "notes": ""
+      "notes": "abnormal administrative bucket skipped by coordinator"
     },
     "四川省::成都市": {
       "province": "四川省",
