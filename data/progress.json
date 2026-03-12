@@ -2747,50 +2747,50 @@
       "name": "临沧市",
       "type": "prefecture_city",
       "code": "5309",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/临沧市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 16:19",
+      "file": "cities/临沧.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::楚雄彝族自治州": {
       "province": "云南省",
       "name": "楚雄彝族自治州",
       "type": "autonomous_prefecture",
       "code": "5323",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:19",
       "file": "cities/楚雄彝族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::红河哈尼族彝族自治州": {
       "province": "云南省",
       "name": "红河哈尼族彝族自治州",
       "type": "autonomous_prefecture",
       "code": "5325",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:19",
       "file": "cities/红河哈尼族彝族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::文山壮族苗族自治州": {
       "province": "云南省",
       "name": "文山壮族苗族自治州",
       "type": "autonomous_prefecture",
       "code": "5326",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:19",
       "file": "cities/文山壮族苗族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::西双版纳傣族自治州": {
       "province": "云南省",
       "name": "西双版纳傣族自治州",
       "type": "autonomous_prefecture",
       "code": "5328",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 16:19",
       "file": "cities/西双版纳傣族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "云南省::大理白族自治州": {
       "province": "云南省",
