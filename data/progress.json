@@ -1447,10 +1447,10 @@
       "name": "临沂市",
       "type": "prefecture_city",
       "code": "3713",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/临沂市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 10:43",
+      "file": "cities/临沂.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::德州市": {
       "province": "山东省",
