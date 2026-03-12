@@ -1767,10 +1767,10 @@
       "name": "黄冈市",
       "type": "prefecture_city",
       "code": "4211",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/黄冈市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:18",
+      "file": "cities/黄冈.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::咸宁市": {
       "province": "湖北省",
@@ -1827,10 +1827,10 @@
       "name": "株洲市",
       "type": "prefecture_city",
       "code": "4302",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/株洲市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:18",
+      "file": "cities/株洲.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖南省::湘潭市": {
       "province": "湖南省",
