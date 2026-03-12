@@ -987,40 +987,40 @@
       "name": "芜湖市",
       "type": "prefecture_city",
       "code": "3402",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/芜湖市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:13",
+      "file": "cities/芜湖.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::蚌埠市": {
       "province": "安徽省",
       "name": "蚌埠市",
       "type": "prefecture_city",
       "code": "3403",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/蚌埠市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:13",
+      "file": "cities/蚌埠.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::淮南市": {
       "province": "安徽省",
       "name": "淮南市",
       "type": "prefecture_city",
       "code": "3404",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/淮南市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:13",
+      "file": "cities/淮南.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::马鞍山市": {
       "province": "安徽省",
       "name": "马鞍山市",
       "type": "prefecture_city",
       "code": "3405",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/马鞍山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 08:13",
+      "file": "cities/马鞍山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "安徽省::淮北市": {
       "province": "安徽省",
