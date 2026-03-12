@@ -2987,20 +2987,20 @@
       "name": "安康市",
       "type": "prefecture_city",
       "code": "6109",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/安康市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:19",
+      "file": "cities/安康.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::商洛市": {
       "province": "陕西省",
       "name": "商洛市",
       "type": "prefecture_city",
       "code": "6110",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/商洛市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:19",
+      "file": "cities/商洛.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::兰州市": {
       "province": "甘肃省",
@@ -3017,30 +3017,30 @@
       "name": "嘉峪关市",
       "type": "prefecture_city",
       "code": "6202",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/嘉峪关市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:19",
+      "file": "cities/嘉峪关.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::金昌市": {
       "province": "甘肃省",
       "name": "金昌市",
       "type": "prefecture_city",
       "code": "6203",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/金昌市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:19",
+      "file": "cities/金昌.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::白银市": {
       "province": "甘肃省",
       "name": "白银市",
       "type": "prefecture_city",
       "code": "6204",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/白银市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:19",
+      "file": "cities/白银.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "甘肃省::天水市": {
       "province": "甘肃省",
