@@ -1377,10 +1377,10 @@
       "name": "东营市",
       "type": "prefecture_city",
       "code": "3705",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/东营市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:49",
+      "file": "cities/东营.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::烟台市": {
       "province": "山东省",
@@ -1397,30 +1397,30 @@
       "name": "潍坊市",
       "type": "prefecture_city",
       "code": "3707",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/潍坊市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:49",
+      "file": "cities/潍坊.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::济宁市": {
       "province": "山东省",
       "name": "济宁市",
       "type": "prefecture_city",
       "code": "3708",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/济宁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:49",
+      "file": "cities/济宁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::泰安市": {
       "province": "山东省",
       "name": "泰安市",
       "type": "prefecture_city",
       "code": "3709",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/泰安市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:49",
+      "file": "cities/泰安.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::威海市": {
       "province": "山东省",
@@ -1437,10 +1437,10 @@
       "name": "日照市",
       "type": "prefecture_city",
       "code": "3711",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/日照市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 09:49",
+      "file": "cities/日照.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "山东省::临沂市": {
       "province": "山东省",
