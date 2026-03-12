@@ -3237,40 +3237,40 @@
       "name": "石嘴山市",
       "type": "prefecture_city",
       "code": "6402",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/石嘴山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:21",
+      "file": "cities/石嘴山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "宁夏回族自治区::吴忠市": {
       "province": "宁夏回族自治区",
       "name": "吴忠市",
       "type": "prefecture_city",
       "code": "6403",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/吴忠市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:21",
+      "file": "cities/吴忠.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "宁夏回族自治区::固原市": {
       "province": "宁夏回族自治区",
       "name": "固原市",
       "type": "prefecture_city",
       "code": "6404",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/固原市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:21",
+      "file": "cities/固原.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "宁夏回族自治区::中卫市": {
       "province": "宁夏回族自治区",
       "name": "中卫市",
       "type": "prefecture_city",
       "code": "6405",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/中卫市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:21",
+      "file": "cities/中卫.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::乌鲁木齐市": {
       "province": "新疆维吾尔自治区",
@@ -3287,10 +3287,10 @@
       "name": "克拉玛依市",
       "type": "prefecture_city",
       "code": "6502",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/克拉玛依市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 18:21",
+      "file": "cities/克拉玛依.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "新疆维吾尔自治区::吐鲁番市": {
       "province": "新疆维吾尔自治区",
