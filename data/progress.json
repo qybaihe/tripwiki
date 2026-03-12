@@ -2467,50 +2467,50 @@
       "name": "乐山市",
       "type": "prefecture_city",
       "code": "5111",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/乐山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:04",
+      "file": "cities/乐山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::南充市": {
       "province": "四川省",
       "name": "南充市",
       "type": "prefecture_city",
       "code": "5113",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/南充市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:04",
+      "file": "cities/南充.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::眉山市": {
       "province": "四川省",
       "name": "眉山市",
       "type": "prefecture_city",
       "code": "5114",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/眉山市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:04",
+      "file": "cities/眉山.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::宜宾市": {
       "province": "四川省",
       "name": "宜宾市",
       "type": "prefecture_city",
       "code": "5115",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/宜宾市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:04",
+      "file": "cities/宜宾.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::广安市": {
       "province": "四川省",
       "name": "广安市",
       "type": "prefecture_city",
       "code": "5116",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/广安市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 15:04",
+      "file": "cities/广安.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "四川省::达州市": {
       "province": "四川省",
