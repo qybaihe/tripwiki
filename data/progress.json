@@ -2927,30 +2927,30 @@
       "name": "宝鸡市",
       "type": "prefecture_city",
       "code": "6103",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/宝鸡市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:06",
+      "file": "cities/宝鸡.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::咸阳市": {
       "province": "陕西省",
       "name": "咸阳市",
       "type": "prefecture_city",
       "code": "6104",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/咸阳市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:06",
+      "file": "cities/咸阳.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::渭南市": {
       "province": "陕西省",
       "name": "渭南市",
       "type": "prefecture_city",
       "code": "6105",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/渭南市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:06",
+      "file": "cities/渭南.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::延安市": {
       "province": "陕西省",
@@ -2967,20 +2967,20 @@
       "name": "汉中市",
       "type": "prefecture_city",
       "code": "6107",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/汉中市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:06",
+      "file": "cities/汉中.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::榆林市": {
       "province": "陕西省",
       "name": "榆林市",
       "type": "prefecture_city",
       "code": "6108",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/榆林市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 17:06",
+      "file": "cities/榆林.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "陕西省::安康市": {
       "province": "陕西省",
