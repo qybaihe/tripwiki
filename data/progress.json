@@ -1777,30 +1777,30 @@
       "name": "咸宁市",
       "type": "prefecture_city",
       "code": "4212",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/咸宁市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:23",
+      "file": "cities/咸宁.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::随州市": {
       "province": "湖北省",
       "name": "随州市",
       "type": "prefecture_city",
       "code": "4213",
-      "status": "todo",
-      "updated": null,
-      "file": "cities/随州市.md",
-      "notes": ""
+      "status": "done",
+      "updated": "2026-03-12 12:23",
+      "file": "cities/随州.md",
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::恩施土家族苗族自治州": {
       "province": "湖北省",
       "name": "恩施土家族苗族自治州",
       "type": "autonomous_prefecture",
       "code": "4228",
-      "status": "todo",
-      "updated": null,
+      "status": "done",
+      "updated": "2026-03-12 12:23",
       "file": "cities/恩施土家族苗族自治州.md",
-      "notes": ""
+      "notes": "mode2 guide landed and synced by coordinator"
     },
     "湖北省::省直辖县级行政区划": {
       "province": "湖北省",

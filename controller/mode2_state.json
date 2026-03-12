@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T12:18:30",
+  "generated_at": "2026-03-12T12:23:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
@@ -7,20 +7,12 @@
       "廊坊"
     ],
     "completed_since_last_run": [
-      "黄冈",
-      "株洲"
+      "咸宁",
+      "随州",
+      "恩施土家族苗族自治州"
     ],
     "launched": [],
-    "launch_failures": [
-      {
-        "city": "随州",
-        "reason": "child_returned_invalid_single_token"
-      },
-      {
-        "city": "恩施土家族苗族自治州",
-        "reason": "child_returned_plan_only"
-      }
-    ],
+    "launch_failures": [],
     "launch_plan_only": [
       {
         "city": "石家庄",
@@ -160,12 +152,12 @@
     ]
   },
   "summary": {
-    "done": 202,
-    "todo": 140,
+    "done": 205,
+    "todo": 137,
     "synced_count": 2,
-    "completed_count": 2,
+    "completed_count": 3,
     "launch_count": 0,
-    "launch_failure_count": 2,
+    "launch_failure_count": 0,
     "running_count": 0,
     "open_slots": 5
   },
