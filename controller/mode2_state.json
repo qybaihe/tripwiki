@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "三亚",
-        "key": "海南省::三亚市",
+        "city": "北京",
+        "key": "北京市::市辖区",
         "reason": "rewrite"
       },
       {
-        "city": "三明",
-        "key": "福建省::三明市",
+        "city": "北海",
+        "key": "广西壮族自治区::北海市",
         "reason": "rewrite"
       },
       {
-        "city": "上海",
-        "key": "上海市::市辖区",
+        "city": "南京",
+        "key": "江苏省::南京市",
         "reason": "rewrite"
       },
       {
-        "city": "丽江",
-        "key": "云南省::丽江市",
+        "city": "南平",
+        "key": "福建省::南平市",
         "reason": "rewrite"
       },
       {
-        "city": "乌鲁木齐",
-        "key": "新疆维吾尔自治区::乌鲁木齐市",
+        "city": "大理",
+        "key": "云南省::大理白族自治州",
         "reason": "rewrite"
       }
     ],
