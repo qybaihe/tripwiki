@@ -5,7 +5,33 @@
     "synced_from_workspace": [
       "青岛"
     ],
-    "completed_since_last_run": [],
+    "completed_since_last_run": [
+      {
+        "city": "石家庄",
+        "key": "河北省::石家庄市",
+        "reason": "rewrite"
+      },
+      {
+        "city": "唐山",
+        "key": "河北省::唐山市",
+        "reason": "rewrite"
+      },
+      {
+        "city": "秦皇岛",
+        "key": "河北省::秦皇岛市",
+        "reason": "rewrite"
+      },
+      {
+        "city": "邯郸",
+        "key": "河北省::邯郸市",
+        "reason": "rewrite"
+      },
+      {
+        "city": "邢台",
+        "key": "河北省::邢台市",
+        "reason": "rewrite"
+      }
+    ],
     "launched": [],
     "launch_failures": [
       {
@@ -39,105 +65,10 @@
         "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-邢台\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《邢台》城市攻略（快速可用版），写入 `cities/邢台.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
       }
     ],
-    "launch_plan_only": [
-      {
-        "city": "石家庄",
-        "province": "河北省",
-        "key": "河北省::石家庄市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:0",
-          "missing_section:美食"
-        ]
-      },
-      {
-        "city": "唐山",
-        "province": "河北省",
-        "key": "河北省::唐山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "秦皇岛",
-        "province": "河北省",
-        "key": "河北省::秦皇岛市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "邯郸",
-        "province": "河北省",
-        "key": "河北省::邯郸市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5",
-          "missing_section:美食"
-        ]
-      },
-      {
-        "city": "邢台",
-        "province": "河北省",
-        "key": "河北省::邢台市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      }
-    ],
+    "launch_plan_only": [],
     "running_before": [],
     "running_after": [],
     "needs_rewrite_preview": [
-      {
-        "city": "石家庄",
-        "province": "河北省",
-        "key": "河北省::石家庄市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:0",
-          "missing_section:美食"
-        ]
-      },
-      {
-        "city": "唐山",
-        "province": "河北省",
-        "key": "河北省::唐山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "秦皇岛",
-        "province": "河北省",
-        "key": "河北省::秦皇岛市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "邯郸",
-        "province": "河北省",
-        "key": "河北省::邯郸市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5",
-          "missing_section:美食"
-        ]
-      },
-      {
-        "city": "邢台",
-        "province": "河北省",
-        "key": "河北省::邢台市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
       {
         "city": "保定",
         "province": "河北省",
@@ -191,7 +122,7 @@
     "skipped": 5,
     "rewrite_pending": 158,
     "synced_count": 1,
-    "completed_count": 0,
+    "completed_count": 5,
     "launch_count": 0,
     "launch_failure_count": 5,
     "running_count": 0,
