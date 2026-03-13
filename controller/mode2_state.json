@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-03-12T19:13:30",
+  "generated_at": "2026-03-12T22:52:34",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "保定",
-      "廊坊"
+      "青岛"
     ],
     "completed_since_last_run": [],
     "launched": [],
-    "launch_failures": [],
+    "launch_failures": [
+      {
+        "city": "石家庄",
+        "key": "河北省::石家庄市",
+        "reason": "rewrite",
+        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-石家庄\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《石家庄》城市攻略（快速可用版），写入 `cities/石家庄.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
+      },
+      {
+        "city": "唐山",
+        "key": "河北省::唐山市",
+        "reason": "rewrite",
+        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-唐山\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《唐山》城市攻略（快速可用版），写入 `cities/唐山.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
+      },
+      {
+        "city": "秦皇岛",
+        "key": "河北省::秦皇岛市",
+        "reason": "rewrite",
+        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-秦皇岛\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《秦皇岛》城市攻略（快速可用版），写入 `cities/秦皇岛.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
+      },
+      {
+        "city": "邯郸",
+        "key": "河北省::邯郸市",
+        "reason": "rewrite",
+        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-邯郸\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《邯郸》城市攻略（快速可用版），写入 `cities/邯郸.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
+      },
+      {
+        "city": "邢台",
+        "key": "河北省::邢台市",
+        "reason": "rewrite",
+        "error": "Command '['openclaw', 'tools', 'call', 'sessions_spawn', '{\"runtime\": \"subagent\", \"mode\": \"run\", \"label\": \"tripwiki-mode2-邢台\", \"cwd\": \"/root/.openclaw/workspace/tripwiki\", \"task\": \"为 tripwiki 生成或补全《邢台》城市攻略（快速可用版），写入 `cities/邢台.md`。\\\\n要求：\\\\n1. 如果原文件为占位符或不完整，直接重写/补全到可发布标准。\\\\n2. 完整 Markdown 结构必须包含：城市概览、行前速览、1-3天行程、≥18个景点（每个含门票参考/建议时长/玩法/交通/预约要点/来源链接）、美食、住宿、交通、避坑、参考来源。\\\\n3. 不要输出占位符。\\\\n4. 只修改这一份城市文件。\\\\n\", \"timeoutSeconds\": 1800, \"sandbox\": \"inherit\"}']' returned non-zero exit status 1."
+      }
+    ],
     "launch_plan_only": [
       {
         "city": "石家庄",
@@ -109,40 +139,48 @@
         ]
       },
       {
-        "city": "太原",
-        "province": "山西省",
-        "key": "山西省::太原市",
+        "city": "保定",
+        "province": "河北省",
+        "key": "河北省::保定市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "张家口",
+        "province": "河北省",
+        "key": "河北省::张家口市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:0"
         ]
       },
       {
-        "city": "大同",
-        "province": "山西省",
-        "key": "山西省::大同市",
+        "city": "承德",
+        "province": "河北省",
+        "key": "河北省::承德市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1",
-          "missing_section:美食"
+          "scenic_lt_18:0"
         ]
       },
       {
-        "city": "大连",
-        "province": "辽宁省",
-        "key": "辽宁省::大连市",
+        "city": "沧州",
+        "province": "河北省",
+        "key": "河北省::沧州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:0"
         ]
       },
       {
-        "city": "长春",
-        "province": "吉林省",
-        "key": "吉林省::长春市",
+        "city": "廊坊",
+        "province": "河北省",
+        "key": "河北省::廊坊市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:5"
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -150,10 +188,12 @@
   "summary": {
     "done": 337,
     "todo": 0,
-    "synced_count": 2,
+    "skipped": 5,
+    "rewrite_pending": 158,
+    "synced_count": 1,
     "completed_count": 0,
     "launch_count": 0,
-    "launch_failure_count": 0,
+    "launch_failure_count": 5,
     "running_count": 0,
     "open_slots": 5
   },
