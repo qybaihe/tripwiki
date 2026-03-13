@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "兰州",
-        "key": "甘肃省::兰州市",
+        "city": "大同",
+        "key": "山西省::大同市",
         "reason": "rewrite"
       },
       {
-        "city": "台州",
-        "key": "浙江省::台州市",
+        "city": "天水",
+        "key": "甘肃省::天水市",
         "reason": "rewrite"
       },
       {
-        "city": "合肥",
-        "key": "安徽省::合肥市",
+        "city": "天津",
+        "key": "天津市::市辖区",
         "reason": "rewrite"
       },
       {
-        "city": "喀什",
-        "key": "新疆维吾尔自治区::喀什地区",
+        "city": "威海",
+        "key": "山东省::威海市",
         "reason": "rewrite"
       },
       {
-        "city": "嘉兴",
-        "key": "浙江省::嘉兴市",
+        "city": "宁波",
+        "key": "浙江省::宁波市",
         "reason": "rewrite"
       }
     ],
