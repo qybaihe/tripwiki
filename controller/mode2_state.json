@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "武汉",
-        "key": "湖北省::武汉市",
+        "city": "珠海",
+        "key": "广东省::珠海市",
         "reason": "rewrite"
       },
       {
-        "city": "泉州",
-        "key": "福建省::泉州市",
+        "city": "益阳",
+        "key": "湖南省::益阳市",
         "reason": "rewrite"
       },
       {
-        "city": "温州",
-        "key": "浙江省::温州市",
+        "city": "石家庄",
+        "key": "河北省::石家庄市",
         "reason": "rewrite"
       },
       {
-        "city": "湖州",
-        "key": "浙江省::湖州市",
+        "city": "绍兴",
+        "key": "浙江省::绍兴市",
         "reason": "rewrite"
       },
       {
-        "city": "潮州",
-        "key": "广东省::潮州市",
+        "city": "聊城",
+        "key": "山东省::聊城市",
         "reason": "rewrite"
       }
     ],
