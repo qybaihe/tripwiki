@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "大同",
-        "key": "山西省::大同市",
+        "city": "安庆",
+        "key": "安徽省::安庆市",
         "reason": "rewrite"
       },
       {
-        "city": "天水",
-        "key": "甘肃省::天水市",
+        "city": "安阳",
+        "key": "河南省::安阳市",
         "reason": "rewrite"
       },
       {
-        "city": "天津",
-        "key": "天津市::市辖区",
+        "city": "宜昌",
+        "key": "湖北省::宜昌市",
         "reason": "rewrite"
       },
       {
-        "city": "威海",
-        "key": "山东省::威海市",
+        "city": "宜春",
+        "key": "江西省::宜春市",
         "reason": "rewrite"
       },
       {
-        "city": "宁波",
-        "key": "浙江省::宁波市",
+        "city": "广州",
+        "key": "广东省::广州市",
         "reason": "rewrite"
       }
     ],
