@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "保定",
-        "key": "河北省::保定市",
+        "city": "三亚",
+        "key": "海南省::三亚市",
         "reason": "rewrite"
       },
       {
-        "city": "张家口",
-        "key": "河北省::张家口市",
+        "city": "三明",
+        "key": "福建省::三明市",
         "reason": "rewrite"
       },
       {
-        "city": "承德",
-        "key": "河北省::承德市",
+        "city": "上海",
+        "key": "上海市::市辖区",
         "reason": "rewrite"
       },
       {
-        "city": "沧州",
-        "key": "河北省::沧州市",
+        "city": "丽江",
+        "key": "云南省::丽江市",
         "reason": "rewrite"
       },
       {
-        "city": "廊坊",
-        "key": "河北省::廊坊市",
+        "city": "乌鲁木齐",
+        "key": "新疆维吾尔自治区::乌鲁木齐市",
         "reason": "rewrite"
       }
     ],
