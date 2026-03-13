@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "敦煌",
-        "key": "甘肃省::酒泉市::敦煌",
+        "city": "兰州",
+        "key": "甘肃省::兰州市",
         "reason": "rewrite"
       },
       {
-        "city": "昆明",
-        "key": "云南省::昆明市",
+        "city": "台州",
+        "key": "浙江省::台州市",
         "reason": "rewrite"
       },
       {
-        "city": "杭州",
-        "key": "浙江省::杭州市",
+        "city": "合肥",
+        "key": "安徽省::合肥市",
         "reason": "rewrite"
       },
       {
-        "city": "深圳",
-        "key": "广东省::深圳市",
+        "city": "喀什",
+        "key": "新疆维吾尔自治区::喀什地区",
         "reason": "rewrite"
       },
       {
-        "city": "郑州",
-        "key": "河南省::郑州市",
+        "city": "嘉兴",
+        "key": "浙江省::嘉兴市",
         "reason": "rewrite"
       }
     ],
