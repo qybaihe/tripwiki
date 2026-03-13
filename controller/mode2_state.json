@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "张家界",
-        "key": "湖南省::张家界市",
+        "city": "武汉",
+        "key": "湖北省::武汉市",
+        "reason": "rewrite_pending_result"
+      },
+      {
+        "city": "泉州",
+        "key": "福建省::泉州市",
         "reason": "rewrite"
       },
       {
-        "city": "张掖",
-        "key": "甘肃省::张掖市",
+        "city": "温州",
+        "key": "浙江省::温州市",
         "reason": "rewrite"
       },
       {
-        "city": "怀化",
-        "key": "湖南省::怀化市",
+        "city": "湖州",
+        "key": "浙江省::湖州市",
         "reason": "rewrite"
       },
       {
-        "city": "成都",
-        "key": "四川省::成都市",
-        "reason": "rewrite"
-      },
-      {
-        "city": "桂林",
-        "key": "广西壮族自治区::桂林市",
+        "city": "潮州",
+        "key": "广东省::潮州市",
         "reason": "rewrite"
       }
     ],
@@ -76,11 +76,11 @@
     "skipped": 5,
     "rewrite_pending": 158,
     "synced_count": 1,
-    "completed_count": 5,
+    "completed_count": 4,
     "launch_count": 0,
     "launch_failure_count": 5,
-    "running_count": 0,
-    "open_slots": 5
+    "running_count": 1,
+    "open_slots": 4
   },
   "running": []
 }
