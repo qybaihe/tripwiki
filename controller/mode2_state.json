@@ -9,7 +9,7 @@
       {
         "city": "武汉",
         "key": "湖北省::武汉市",
-        "reason": "rewrite_pending_result"
+        "reason": "rewrite"
       },
       {
         "city": "泉州",
@@ -76,11 +76,11 @@
     "skipped": 5,
     "rewrite_pending": 158,
     "synced_count": 1,
-    "completed_count": 4,
+    "completed_count": 5,
     "launch_count": 0,
     "launch_failure_count": 5,
-    "running_count": 1,
-    "open_slots": 4
+    "running_count": 0,
+    "open_slots": 5
   },
   "running": []
 }
