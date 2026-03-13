@@ -7,28 +7,28 @@
     ],
     "completed_since_last_run": [
       {
-        "city": "舟山",
-        "key": "浙江省::舟山市",
+        "city": "贵阳",
+        "key": "贵州省::贵阳市",
         "reason": "rewrite"
       },
       {
-        "city": "苏州",
-        "key": "江苏省::苏州市",
+        "city": "邯郸",
+        "key": "河北省::邯郸市",
         "reason": "rewrite"
       },
       {
-        "city": "莆田",
-        "key": "福建省::莆田市",
+        "city": "镇江",
+        "key": "江苏省::镇江市",
         "reason": "rewrite"
       },
       {
-        "city": "襄阳",
-        "key": "湖北省::襄阳市",
+        "city": "龙岩",
+        "key": "福建省::龙岩市",
         "reason": "rewrite"
       },
       {
-        "city": "西安",
-        "key": "陕西省::西安市",
+        "city": "青岛",
+        "key": "山东省::青岛市",
         "reason": "rewrite"
       }
     ],
