@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-03-17T05:37:46",
+  "generated_at": "2026-03-17T05:52:45",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "乌兰察布",
-      "呼伦贝尔",
-      "通辽"
+      "兴安盟",
+      "延安",
+      "榆林",
+      "锡林郭勒盟",
+      "阿拉善盟"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -188,7 +190,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 3,
+    "synced_count": 5,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
