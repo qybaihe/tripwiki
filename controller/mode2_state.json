@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-17T06:37:41",
+  "generated_at": "2026-03-17T06:52:40",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "张掖",
-      "武威",
-      "白银",
-      "金昌"
+      "定西",
+      "平凉",
+      "庆阳",
+      "陇南"
     ],
     "completed_since_last_run": [],
     "launched": [],
