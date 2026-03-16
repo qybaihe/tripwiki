@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-17T06:07:39",
+  "generated_at": "2026-03-17T06:22:41",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "咸阳",
-      "宝鸡",
-      "渭南",
-      "西安",
-      "铜川"
+      "兰州",
+      "商洛",
+      "嘉峪关",
+      "安康",
+      "汉中"
     ],
     "completed_since_last_run": [],
     "launched": [],
