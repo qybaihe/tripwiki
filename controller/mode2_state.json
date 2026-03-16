@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-17T04:37:48",
+  "generated_at": "2026-03-17T04:52:42",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "保定",
-      "张家口",
-      "承德",
-      "沧州"
+      "太原",
+      "晋城",
+      "长治",
+      "阳泉"
     ],
     "completed_since_last_run": [],
     "launched": [],
