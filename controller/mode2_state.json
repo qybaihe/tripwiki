@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-03-17T07:22:43",
+  "generated_at": "2026-03-17T07:37:41",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "海东",
-      "海北藏族自治州",
-      "海南藏族自治州",
-      "西宁",
-      "黄南藏族自治州"
+      "乌鲁木齐",
+      "克拉玛依",
+      "果洛藏族自治州",
+      "海西蒙古族藏族自治州"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -190,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 5,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
