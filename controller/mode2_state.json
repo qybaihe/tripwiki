@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-17T04:22:50",
+  "generated_at": "2026-03-17T04:37:48",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
       "保定",
-      "合肥",
-      "唐山",
-      "大同",
-      "安阳",
-      "宜春",
-      "廊坊",
-      "怀化",
+      "张家口",
       "承德",
-      "石家庄",
-      "秦皇岛",
-      "贵阳",
-      "邢台",
-      "邯郸",
-      "镇江",
-      "龙岩"
+      "沧州"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -164,8 +152,7 @@
         "key": "河北省::张家口市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:5",
-          "missing_section:美食"
+          "scenic_lt_18:4"
         ]
       },
       {
@@ -202,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 16,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
