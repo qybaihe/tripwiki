@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-03-17T05:07:41",
+  "generated_at": "2026-03-17T05:22:43",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "晋中",
-      "朔州",
-      "运城"
+      "乌海",
+      "包头",
+      "吕梁",
+      "赤峰"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -188,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 3,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
