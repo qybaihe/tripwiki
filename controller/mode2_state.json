@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-03-17T06:22:41",
+  "generated_at": "2026-03-17T06:37:41",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "兰州",
-      "商洛",
-      "嘉峪关",
-      "安康",
-      "汉中"
+      "张掖",
+      "武威",
+      "白银",
+      "金昌"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -190,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 5,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
