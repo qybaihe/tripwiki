@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-17T06:52:40",
+  "generated_at": "2026-03-17T07:07:41",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "定西",
-      "平凉",
-      "庆阳",
-      "陇南"
+      "吴忠",
+      "固原",
+      "石嘴山",
+      "银川"
     ],
     "completed_since_last_run": [],
     "launched": [],
