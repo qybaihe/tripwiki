@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-03-17T14:55:40",
+  "generated_at": "2026-03-17T15:00:18",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "清河林场"
+      "宝清农场",
+      "建设农场",
+      "洪河农场"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -186,7 +188,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 1,
+    "synced_count": 3,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
