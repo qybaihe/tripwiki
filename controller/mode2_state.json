@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T04:25:37",
+  "generated_at": "2026-03-18T04:40:38",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,48 +133,48 @@
         ]
       },
       {
-        "city": "景德镇",
+        "city": "宜春",
         "province": "江西省",
-        "key": "江西省::景德镇市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "新余",
-        "province": "江西省",
-        "key": "江西省::新余市",
+        "key": "江西省::宜春市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "鹰潭",
+        "city": "抚州",
         "province": "江西省",
-        "key": "江西省::鹰潭市",
+        "key": "江西省::抚州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "赣州",
+        "city": "上饶",
         "province": "江西省",
-        "key": "江西省::赣州市",
+        "key": "江西省::上饶市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "吉安",
-        "province": "江西省",
-        "key": "江西省::吉安市",
+        "city": "济南",
+        "province": "山东省",
+        "key": "山东省::济南市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:0"
+        ]
+      },
+      {
+        "city": "青岛",
+        "province": "山东省",
+        "key": "山东省::青岛市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 58,
+    "rewrite_pending": 53,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
