@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:32:10",
+  "generated_at": "2026-03-18T06:35:39",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "百色",
-        "province": "广西壮族自治区",
-        "key": "广西壮族自治区::百色市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "贺州",
-        "province": "广西壮族自治区",
-        "key": "广西壮族自治区::贺州市",
+        "city": "海口",
+        "province": "海南省",
+        "key": "海南省::海口市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "河池",
-        "province": "广西壮族自治区",
-        "key": "广西壮族自治区::河池市",
+        "city": "三亚",
+        "province": "海南省",
+        "key": "海南省::三亚市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:0"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "来宾",
-        "province": "广西壮族自治区",
-        "key": "广西壮族自治区::来宾市",
+        "city": "三沙",
+        "province": "海南省",
+        "key": "海南省::三沙市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "儋州",
+        "province": "海南省",
+        "key": "海南省::儋州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 117,
+    "rewrite_pending": 112,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
