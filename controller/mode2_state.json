@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-03-17T07:37:41",
+  "generated_at": "2026-03-17T07:52:45",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "乌鲁木齐",
-      "克拉玛依",
-      "果洛藏族自治州",
-      "海西蒙古族藏族自治州"
+      "吐鲁番",
+      "巴音郭楞蒙古自治州"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -189,7 +187,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 4,
+    "synced_count": 2,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
