@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:24:35",
+  "generated_at": "2026-03-17T22:50:26",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -7,131 +7,37 @@
     "launched": [],
     "launch_failures": [
       {
-        "city": "临汾",
-        "key": "山西省::临汾市",
+        "city": "赤峰",
+        "key": "内蒙古自治区::赤峰市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "吕梁",
-        "key": "山西省::吕梁市",
+        "city": "通辽",
+        "key": "内蒙古自治区::通辽市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "呼和浩特",
-        "key": "内蒙古自治区::呼和浩特市",
+        "city": "鄂尔多斯",
+        "key": "内蒙古自治区::鄂尔多斯市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "包头",
-        "key": "内蒙古自治区::包头市",
+        "city": "呼伦贝尔",
+        "key": "内蒙古自治区::呼伦贝尔市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "乌海",
-        "key": "内蒙古自治区::乌海市",
+        "city": "巴彦淖尔",
+        "key": "内蒙古自治区::巴彦淖尔市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
     ],
     "launch_plan_only": [
-      {
-        "city": "临汾",
-        "province": "山西省",
-        "key": "山西省::临汾市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "吕梁",
-        "province": "山西省",
-        "key": "山西省::吕梁市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "呼和浩特",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::呼和浩特市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "包头",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::包头市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "乌海",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::乌海市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      }
-    ],
-    "running_before": [],
-    "running_after": [],
-    "needs_rewrite_preview": [
-      {
-        "city": "临汾",
-        "province": "山西省",
-        "key": "山西省::临汾市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "吕梁",
-        "province": "山西省",
-        "key": "山西省::吕梁市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "呼和浩特",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::呼和浩特市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "包头",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::包头市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "乌海",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::乌海市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
       {
         "city": "赤峰",
         "province": "内蒙古自治区",
@@ -177,13 +83,107 @@
           "scenic_lt_18:5"
         ]
       }
+    ],
+    "running_before": [],
+    "running_after": [],
+    "needs_rewrite_preview": [
+      {
+        "city": "赤峰",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::赤峰市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "通辽",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::通辽市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "鄂尔多斯",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::鄂尔多斯市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "呼伦贝尔",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::呼伦贝尔市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "巴彦淖尔",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::巴彦淖尔市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "乌兰察布",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::乌兰察布市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "兴安",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::兴安盟",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "锡林郭勒",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::锡林郭勒盟",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "阿拉善",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::阿拉善盟",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "沈阳",
+        "province": "辽宁省",
+        "key": "辽宁省::沈阳市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      }
     ]
   },
   "summary": {
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 141,
+    "rewrite_pending": 136,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
