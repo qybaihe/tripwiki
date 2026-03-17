@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T04:40:38",
+  "generated_at": "2026-03-18T04:55:42",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,48 +133,48 @@
         ]
       },
       {
-        "city": "宜春",
-        "province": "江西省",
-        "key": "江西省::宜春市",
+        "city": "淄博",
+        "province": "山东省",
+        "key": "山东省::淄博市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:5"
         ]
       },
       {
-        "city": "抚州",
-        "province": "江西省",
-        "key": "江西省::抚州市",
+        "city": "枣庄",
+        "province": "山东省",
+        "key": "山东省::枣庄市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:4"
         ]
       },
       {
-        "city": "上饶",
-        "province": "江西省",
-        "key": "江西省::上饶市",
+        "city": "东营",
+        "province": "山东省",
+        "key": "山东省::东营市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
         ]
       },
       {
-        "city": "济南",
+        "city": "烟台",
         "province": "山东省",
-        "key": "山东省::济南市",
+        "key": "山东省::烟台市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:0"
+          "scenic_lt_18:4"
         ]
       },
       {
-        "city": "青岛",
+        "city": "潍坊",
         "province": "山东省",
-        "key": "山东省::青岛市",
+        "key": "山东省::潍坊市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 53,
+    "rewrite_pending": 48,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
