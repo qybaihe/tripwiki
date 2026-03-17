@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T00:39:45",
+  "generated_at": "2026-03-18T01:09:53",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -25,14 +25,14 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "营口",
-        "key": "辽宁省::营口市",
+        "city": "辽阳",
+        "key": "辽宁省::辽阳市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "阜新",
-        "key": "辽宁省::阜新市",
+        "city": "盘锦",
+        "key": "辽宁省::盘锦市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -66,21 +66,21 @@
         ]
       },
       {
-        "city": "营口",
+        "city": "辽阳",
         "province": "辽宁省",
-        "key": "辽宁省::营口市",
+        "key": "辽宁省::辽阳市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "阜新",
+        "city": "盘锦",
         "province": "辽宁省",
-        "key": "辽宁省::阜新市",
+        "key": "辽宁省::盘锦市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:4"
+          "scenic_lt_18:3"
         ]
       }
     ],
@@ -112,24 +112,6 @@
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "营口",
-        "province": "辽宁省",
-        "key": "辽宁省::营口市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "阜新",
-        "province": "辽宁省",
-        "key": "辽宁省::阜新市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
         ]
       },
       {
@@ -176,6 +158,24 @@
         "issues": [
           "scenic_lt_18:1"
         ]
+      },
+      {
+        "city": "长春",
+        "province": "吉林省",
+        "key": "吉林省::长春市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "吉林",
+        "province": "吉林省",
+        "key": "吉林省::吉林市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
       }
     ]
   },
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 123,
+    "rewrite_pending": 121,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
