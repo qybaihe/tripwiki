@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:29:36",
+  "generated_at": "2026-03-18T03:33:49",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,45 +133,45 @@
         ]
       },
       {
-        "city": "杭州",
+        "city": "绍兴",
         "province": "浙江省",
-        "key": "浙江省::杭州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "宁波",
-        "province": "浙江省",
-        "key": "浙江省::宁波市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "温州",
-        "province": "浙江省",
-        "key": "浙江省::温州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "嘉兴",
-        "province": "浙江省",
-        "key": "浙江省::嘉兴市",
+        "key": "浙江省::绍兴市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "湖州",
+        "city": "衢州",
         "province": "浙江省",
-        "key": "浙江省::湖州市",
+        "key": "浙江省::衢州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:0"
+        ]
+      },
+      {
+        "city": "舟山",
+        "province": "浙江省",
+        "key": "浙江省::舟山市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "台州",
+        "province": "浙江省",
+        "key": "浙江省::台州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "丽水",
+        "province": "浙江省",
+        "key": "浙江省::丽水市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 83,
+    "rewrite_pending": 78,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
