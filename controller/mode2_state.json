@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-03-17T12:24:01",
+  "generated_at": "2026-03-17T12:28:27",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "八五六农场",
-      "红兴隆"
+      "五九七农场",
+      "八五四农场",
+      "八五零农场",
+      "庆丰农场"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -187,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 2,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
