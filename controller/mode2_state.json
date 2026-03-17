@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T07:08:01",
+  "generated_at": "2026-03-18T07:11:31",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "毕节",
-        "province": "贵州省",
-        "key": "贵州省::毕节市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:6"
-        ]
-      },
-      {
-        "city": "铜仁",
-        "province": "贵州省",
-        "key": "贵州省::铜仁市",
+        "city": "昆明",
+        "province": "云南省",
+        "key": "云南省::昆明市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "黔西南布依族苗族",
-        "province": "贵州省",
-        "key": "贵州省::黔西南布依族苗族自治州",
+        "city": "曲靖",
+        "province": "云南省",
+        "key": "云南省::曲靖市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:4"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "黔东南苗族侗族",
-        "province": "贵州省",
-        "key": "贵州省::黔东南苗族侗族自治州",
+        "city": "玉溪",
+        "province": "云南省",
+        "key": "云南省::玉溪市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "保山",
+        "province": "云南省",
+        "key": "云南省::保山市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:0"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 83,
+    "rewrite_pending": 78,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
