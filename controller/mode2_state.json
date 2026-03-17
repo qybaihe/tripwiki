@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:41:40",
+  "generated_at": "2026-03-18T06:45:34",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "成都",
+        "city": "绵阳",
         "province": "四川省",
-        "key": "四川省::成都市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "自贡",
-        "province": "四川省",
-        "key": "四川省::自贡市",
+        "key": "四川省::绵阳市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:0"
         ]
       },
       {
-        "city": "攀枝花",
+        "city": "广元",
         "province": "四川省",
-        "key": "四川省::攀枝花市",
+        "key": "四川省::广元市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "泸州",
+        "city": "遂宁",
         "province": "四川省",
-        "key": "四川省::泸州市",
+        "key": "四川省::遂宁市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "内江",
+        "province": "四川省",
+        "key": "四川省::内江市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 108,
+    "rewrite_pending": 103,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
