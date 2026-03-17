@@ -1,11 +1,8 @@
 {
-  "generated_at": "2026-03-17T18:01:42",
+  "generated_at": "2026-03-17T18:11:38",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [
-      "太平沟乡",
-      "鹤北镇"
-    ],
+    "synced_from_workspace": [],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -187,7 +184,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 2,
+    "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
