@@ -1,13 +1,8 @@
 {
-  "generated_at": "2026-03-17T15:45:03",
+  "generated_at": "2026-03-17T16:04:36",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [
-      "创业管理区",
-      "前进林场",
-      "同江农场",
-      "红旗岭农场"
-    ],
+    "synced_from_workspace": [],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -189,7 +184,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 4,
+    "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
