@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:56:47",
+  "generated_at": "2026-03-18T07:08:01",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "凉山彝族",
-        "province": "四川省",
-        "key": "四川省::凉山彝族自治州",
+        "city": "毕节",
+        "province": "贵州省",
+        "key": "贵州省::毕节市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:6"
         ]
       },
       {
-        "city": "贵阳",
+        "city": "铜仁",
         "province": "贵州省",
-        "key": "贵州省::贵阳市",
+        "key": "贵州省::铜仁市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "黔西南布依族苗族",
+        "province": "贵州省",
+        "key": "贵州省::黔西南布依族苗族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:4"
         ]
       },
       {
-        "city": "六盘水",
+        "city": "黔东南苗族侗族",
         "province": "贵州省",
-        "key": "贵州省::六盘水市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "遵义",
-        "province": "贵州省",
-        "key": "贵州省::遵义市",
+        "key": "贵州省::黔东南苗族侗族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 88,
+    "rewrite_pending": 83,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
