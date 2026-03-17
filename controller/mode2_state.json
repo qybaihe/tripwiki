@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-03-17T14:08:53",
+  "generated_at": "2026-03-17T14:12:48",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [],
+    "synced_from_workspace": [
+      "东方红农场",
+      "云山农场",
+      "八五八农场",
+      "庆丰农场管理区"
+    ],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -184,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 0,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
