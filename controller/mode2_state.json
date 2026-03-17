@@ -1,14 +1,8 @@
 {
-  "generated_at": "2026-03-17T09:19:23",
+  "generated_at": "2026-03-17T09:44:46",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [
-      "临江屯",
-      "新巴尔虎右旗",
-      "新巴尔虎左旗",
-      "额尔古纳",
-      "黑山头"
-    ],
+    "synced_from_workspace": [],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -190,7 +184,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 5,
+    "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
