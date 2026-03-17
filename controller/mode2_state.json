@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:14:58",
+  "generated_at": "2026-03-18T03:25:48",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,48 +133,48 @@
         ]
       },
       {
-        "city": "常州",
+        "city": "盐城",
         "province": "江苏省",
-        "key": "江苏省::常州市",
+        "key": "江苏省::盐城市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:4"
         ]
       },
       {
-        "city": "苏州",
+        "city": "扬州",
         "province": "江苏省",
-        "key": "江苏省::苏州市",
+        "key": "江苏省::扬州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:4"
         ]
       },
       {
-        "city": "南通",
+        "city": "镇江",
         "province": "江苏省",
-        "key": "江苏省::南通市",
+        "key": "江苏省::镇江市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:3"
         ]
       },
       {
-        "city": "连云港",
+        "city": "泰州",
         "province": "江苏省",
-        "key": "江苏省::连云港市",
+        "key": "江苏省::泰州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
         ]
       },
       {
-        "city": "淮安",
+        "city": "宿迁",
         "province": "江苏省",
-        "key": "江苏省::淮安市",
+        "key": "江苏省::宿迁市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 93,
+    "rewrite_pending": 88,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
