@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:12:26",
+  "generated_at": "2026-03-18T06:16:20",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "清远",
+        "city": "云浮",
         "province": "广东省",
-        "key": "广东省::清远市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "东莞",
-        "province": "广东省",
-        "key": "广东省::东莞市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "中山",
-        "province": "广东省",
-        "key": "广东省::中山市",
+        "key": "广东省::云浮市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "潮州",
-        "province": "广东省",
-        "key": "广东省::潮州市",
+        "city": "南宁",
+        "province": "广西壮族自治区",
+        "key": "广西壮族自治区::南宁市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "柳州",
+        "province": "广西壮族自治区",
+        "key": "广西壮族自治区::柳州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "桂林",
+        "province": "广西壮族自治区",
+        "key": "广西壮族自治区::桂林市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 132,
+    "rewrite_pending": 127,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
