@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:04:30",
+  "generated_at": "2026-03-18T06:08:33",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "佛山",
+        "city": "惠州",
         "province": "广东省",
-        "key": "广东省::佛山市",
+        "key": "广东省::惠州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:0"
         ]
       },
       {
-        "city": "江门",
+        "city": "梅州",
         "province": "广东省",
-        "key": "广东省::江门市",
+        "key": "广东省::梅州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "湛江",
+        "city": "汕尾",
         "province": "广东省",
-        "key": "广东省::湛江市",
+        "key": "广东省::汕尾市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "茂名",
+        "city": "河源",
         "province": "广东省",
-        "key": "广东省::茂名市",
+        "key": "广东省::河源市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 142,
+    "rewrite_pending": 137,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
