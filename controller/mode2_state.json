@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:44:31",
+  "generated_at": "2026-03-18T03:49:14",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,48 +133,48 @@
         ]
       },
       {
-        "city": "淮北",
+        "city": "阜阳",
         "province": "安徽省",
-        "key": "安徽省::淮北市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "铜陵",
-        "province": "安徽省",
-        "key": "安徽省::铜陵市",
+        "key": "安徽省::阜阳市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:5"
         ]
       },
       {
-        "city": "安庆",
+        "city": "宿州",
         "province": "安徽省",
-        "key": "安徽省::安庆市",
+        "key": "安徽省::宿州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:0"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "黄山",
+        "city": "六安",
         "province": "安徽省",
-        "key": "安徽省::黄山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:6"
-        ]
-      },
-      {
-        "city": "滁州",
-        "province": "安徽省",
-        "key": "安徽省::滁州市",
+        "key": "安徽省::六安市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "亳州",
+        "province": "安徽省",
+        "key": "安徽省::亳州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "池州",
+        "province": "安徽省",
+        "key": "安徽省::池州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 68,
+    "rewrite_pending": 63,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
