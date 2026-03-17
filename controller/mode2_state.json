@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T23:24:17",
+  "generated_at": "2026-03-17T23:54:39",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -25,14 +25,14 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "大连",
-        "key": "辽宁省::大连市",
+        "city": "抚顺",
+        "key": "辽宁省::抚顺市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "鞍山",
-        "key": "辽宁省::鞍山市",
+        "city": "本溪",
+        "key": "辽宁省::本溪市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -66,21 +66,21 @@
         ]
       },
       {
-        "city": "大连",
+        "city": "抚顺",
         "province": "辽宁省",
-        "key": "辽宁省::大连市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "鞍山",
-        "province": "辽宁省",
-        "key": "辽宁省::鞍山市",
+        "key": "辽宁省::抚顺市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "本溪",
+        "province": "辽宁省",
+        "key": "辽宁省::本溪市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
         ]
       }
     ],
@@ -112,24 +112,6 @@
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "大连",
-        "province": "辽宁省",
-        "key": "辽宁省::大连市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "鞍山",
-        "province": "辽宁省",
-        "key": "辽宁省::鞍山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
         ]
       },
       {
@@ -176,6 +158,24 @@
         "issues": [
           "scenic_lt_18:2"
         ]
+      },
+      {
+        "city": "阜新",
+        "province": "辽宁省",
+        "key": "辽宁省::阜新市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "辽阳",
+        "province": "辽宁省",
+        "key": "辽宁省::辽阳市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
       }
     ]
   },
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 129,
+    "rewrite_pending": 127,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
