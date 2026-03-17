@@ -1,8 +1,11 @@
 {
-  "generated_at": "2026-03-17T20:19:56",
+  "generated_at": "2026-03-17T20:24:13",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [],
+    "synced_from_workspace": [
+      "名山口岸外围",
+      "宝泉岭农场"
+    ],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -184,7 +187,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 0,
+    "synced_count": 2,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
