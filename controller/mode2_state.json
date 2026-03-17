@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-03-17T08:30:03",
+  "generated_at": "2026-03-17T08:34:36",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "大同",
-      "太原",
-      "晋城",
-      "长治",
-      "阳泉"
+      "晋中",
+      "朔州",
+      "运城"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -190,7 +188,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 5,
+    "synced_count": 3,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
