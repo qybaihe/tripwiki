@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:33:49",
+  "generated_at": "2026-03-18T03:39:58",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,48 +133,48 @@
         ]
       },
       {
-        "city": "绍兴",
-        "province": "浙江省",
-        "key": "浙江省::绍兴市",
+        "city": "合肥",
+        "province": "安徽省",
+        "key": "安徽省::合肥市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "芜湖",
+        "province": "安徽省",
+        "key": "安徽省::芜湖市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "衢州",
-        "province": "浙江省",
-        "key": "浙江省::衢州市",
+        "city": "蚌埠",
+        "province": "安徽省",
+        "key": "安徽省::蚌埠市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:0"
         ]
       },
       {
-        "city": "舟山",
-        "province": "浙江省",
-        "key": "浙江省::舟山市",
+        "city": "淮南",
+        "province": "安徽省",
+        "key": "安徽省::淮南市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "台州",
-        "province": "浙江省",
-        "key": "浙江省::台州市",
+        "city": "马鞍山",
+        "province": "安徽省",
+        "key": "安徽省::马鞍山市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "丽水",
-        "province": "浙江省",
-        "key": "浙江省::丽水市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 78,
+    "rewrite_pending": 73,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
