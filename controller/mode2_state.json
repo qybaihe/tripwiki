@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:14:47",
+  "generated_at": "2026-03-18T05:20:06",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "德州",
-        "province": "山东省",
-        "key": "山东省::德州市",
+        "city": "郑州",
+        "province": "河南省",
+        "key": "河南省::郑州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:3"
         ]
       },
       {
-        "city": "聊城",
-        "province": "山东省",
-        "key": "山东省::聊城市",
+        "city": "开封",
+        "province": "河南省",
+        "key": "河南省::开封市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:5"
+          "scenic_lt_18:0"
         ]
       },
       {
-        "city": "滨州",
-        "province": "山东省",
-        "key": "山东省::滨州市",
+        "city": "平顶山",
+        "province": "河南省",
+        "key": "河南省::平顶山市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "菏泽",
-        "province": "山东省",
-        "key": "山东省::菏泽市",
+        "city": "安阳",
+        "province": "河南省",
+        "key": "河南省::安阳市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:3"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 92,
+    "rewrite_pending": 88,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
