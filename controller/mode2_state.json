@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:16:20",
+  "generated_at": "2026-03-18T06:27:55",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "云浮",
-        "province": "广东省",
-        "key": "广东省::云浮市",
+        "city": "北海",
+        "province": "广西壮族自治区",
+        "key": "广西壮族自治区::北海市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:3"
         ]
       },
       {
-        "city": "南宁",
+        "city": "防城港",
         "province": "广西壮族自治区",
-        "key": "广西壮族自治区::南宁市",
+        "key": "广西壮族自治区::防城港市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:4"
         ]
       },
       {
-        "city": "柳州",
+        "city": "钦州",
         "province": "广西壮族自治区",
-        "key": "广西壮族自治区::柳州市",
+        "key": "广西壮族自治区::钦州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:3"
         ]
       },
       {
-        "city": "桂林",
+        "city": "贵港",
         "province": "广西壮族自治区",
-        "key": "广西壮族自治区::桂林市",
+        "key": "广西壮族自治区::贵港市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 127,
+    "rewrite_pending": 122,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
