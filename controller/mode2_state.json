@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T08:44:13",
+  "generated_at": "2026-03-17T08:52:40",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "乌兰察布",
-      "呼伦贝尔",
-      "巴彦淖尔"
+      "兴安盟",
+      "锡林郭勒盟",
+      "阿拉善盟"
     ],
     "completed_since_last_run": [],
     "launched": [],
