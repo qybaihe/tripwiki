@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:51:17",
+  "generated_at": "2026-03-18T05:55:25",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "岳阳",
+        "city": "永州",
         "province": "湖南省",
-        "key": "湖南省::岳阳市",
+        "key": "湖南省::永州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "常德",
+        "city": "怀化",
         "province": "湖南省",
-        "key": "湖南省::常德市",
+        "key": "湖南省::怀化市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:4"
         ]
       },
       {
-        "city": "张家界",
+        "city": "娄底",
         "province": "湖南省",
-        "key": "湖南省::张家界市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "益阳",
-        "province": "湖南省",
-        "key": "湖南省::益阳市",
+        "key": "湖南省::娄底市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:6"
+        ]
+      },
+      {
+        "city": "湘西土家族苗族",
+        "province": "湖南省",
+        "key": "湖南省::湘西土家族苗族自治州",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 54,
+    "rewrite_pending": 49,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
