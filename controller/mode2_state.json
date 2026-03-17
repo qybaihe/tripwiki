@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:35:39",
+  "generated_at": "2026-03-18T06:41:40",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "海口",
-        "province": "海南省",
-        "key": "海南省::海口市",
+        "city": "成都",
+        "province": "四川省",
+        "key": "四川省::成都市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "三亚",
-        "province": "海南省",
-        "key": "海南省::三亚市",
+        "city": "自贡",
+        "province": "四川省",
+        "key": "四川省::自贡市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:0"
         ]
       },
       {
-        "city": "三沙",
-        "province": "海南省",
-        "key": "海南省::三沙市",
+        "city": "攀枝花",
+        "province": "四川省",
+        "key": "四川省::攀枝花市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:3"
         ]
       },
       {
-        "city": "儋州",
-        "province": "海南省",
-        "key": "海南省::儋州市",
+        "city": "泸州",
+        "province": "四川省",
+        "key": "四川省::泸州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 112,
+    "rewrite_pending": 108,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
