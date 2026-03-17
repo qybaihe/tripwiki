@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T07:11:31",
+  "generated_at": "2026-03-18T07:15:06",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "昆明",
+        "city": "丽江",
         "province": "云南省",
-        "key": "云南省::昆明市",
+        "key": "云南省::丽江市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "普洱",
+        "province": "云南省",
+        "key": "云南省::普洱市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "曲靖",
+        "city": "临沧",
         "province": "云南省",
-        "key": "云南省::曲靖市",
+        "key": "云南省::临沧市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "玉溪",
+        "city": "楚雄彝族",
         "province": "云南省",
-        "key": "云南省::玉溪市",
+        "key": "云南省::楚雄彝族自治州",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "保山",
-        "province": "云南省",
-        "key": "云南省::保山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:0"
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 78,
+    "rewrite_pending": 73,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
