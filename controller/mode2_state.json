@@ -1,9 +1,12 @@
 {
-  "generated_at": "2026-03-17T15:25:34",
+  "generated_at": "2026-03-17T15:29:44",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "青山农场"
+      "前哨管理区",
+      "前锋管理区",
+      "浓桥农场",
+      "鸭南农场"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -186,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 1,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
