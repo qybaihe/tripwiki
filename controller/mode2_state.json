@@ -1,8 +1,13 @@
 {
-  "generated_at": "2026-03-17T14:38:58",
+  "generated_at": "2026-03-17T14:43:23",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [],
+    "synced_from_workspace": [
+      "乌苏里农场",
+      "珍宝岛林场",
+      "虎头林场",
+      "跃进农场"
+    ],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -184,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 0,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
