@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:09:19",
+  "generated_at": "2026-03-17T22:24:35",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -7,131 +7,37 @@
     "launched": [],
     "launch_failures": [
       {
-        "city": "晋城",
-        "key": "山西省::晋城市",
+        "city": "临汾",
+        "key": "山西省::临汾市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "朔州",
-        "key": "山西省::朔州市",
+        "city": "吕梁",
+        "key": "山西省::吕梁市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "晋中",
-        "key": "山西省::晋中市",
+        "city": "呼和浩特",
+        "key": "内蒙古自治区::呼和浩特市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "运城",
-        "key": "山西省::运城市",
+        "city": "包头",
+        "key": "内蒙古自治区::包头市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "忻州",
-        "key": "山西省::忻州市",
+        "city": "乌海",
+        "key": "内蒙古自治区::乌海市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
     ],
     "launch_plan_only": [
-      {
-        "city": "晋城",
-        "province": "山西省",
-        "key": "山西省::晋城市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "朔州",
-        "province": "山西省",
-        "key": "山西省::朔州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "晋中",
-        "province": "山西省",
-        "key": "山西省::晋中市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "运城",
-        "province": "山西省",
-        "key": "山西省::运城市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "忻州",
-        "province": "山西省",
-        "key": "山西省::忻州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      }
-    ],
-    "running_before": [],
-    "running_after": [],
-    "needs_rewrite_preview": [
-      {
-        "city": "晋城",
-        "province": "山西省",
-        "key": "山西省::晋城市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "朔州",
-        "province": "山西省",
-        "key": "山西省::朔州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "晋中",
-        "province": "山西省",
-        "key": "山西省::晋中市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "运城",
-        "province": "山西省",
-        "key": "山西省::运城市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "忻州",
-        "province": "山西省",
-        "key": "山西省::忻州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
       {
         "city": "临汾",
         "province": "山西省",
@@ -177,13 +83,107 @@
           "scenic_lt_18:1"
         ]
       }
+    ],
+    "running_before": [],
+    "running_after": [],
+    "needs_rewrite_preview": [
+      {
+        "city": "临汾",
+        "province": "山西省",
+        "key": "山西省::临汾市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "吕梁",
+        "province": "山西省",
+        "key": "山西省::吕梁市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "呼和浩特",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::呼和浩特市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "包头",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::包头市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "乌海",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::乌海市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "赤峰",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::赤峰市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "通辽",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::通辽市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "鄂尔多斯",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::鄂尔多斯市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "呼伦贝尔",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::呼伦贝尔市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "巴彦淖尔",
+        "province": "内蒙古自治区",
+        "key": "内蒙古自治区::巴彦淖尔市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      }
     ]
   },
   "summary": {
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 146,
+    "rewrite_pending": 141,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
