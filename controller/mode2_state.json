@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T04:15:46",
+  "generated_at": "2026-03-18T04:25:37",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,24 +133,6 @@
         ]
       },
       {
-        "city": "宁德",
-        "province": "福建省",
-        "key": "福建省::宁德市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "南昌",
-        "province": "江西省",
-        "key": "江西省::南昌市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
         "city": "景德镇",
         "province": "江西省",
         "key": "江西省::景德镇市",
@@ -160,21 +142,39 @@
         ]
       },
       {
-        "city": "萍乡",
+        "city": "新余",
         "province": "江西省",
-        "key": "江西省::萍乡市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "九江",
-        "province": "江西省",
-        "key": "江西省::九江市",
+        "key": "江西省::新余市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "鹰潭",
+        "province": "江西省",
+        "key": "江西省::鹰潭市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "赣州",
+        "province": "江西省",
+        "key": "江西省::赣州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "吉安",
+        "province": "江西省",
+        "key": "江西省::吉安市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 49,
+    "rewrite_pending": 58,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
