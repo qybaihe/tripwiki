@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T01:13:46",
+  "generated_at": "2026-03-18T02:51:06",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -25,14 +25,14 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "铁岭",
-        "key": "辽宁省::铁岭市",
+        "city": "吉林",
+        "key": "吉林省::吉林市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "朝阳",
-        "key": "辽宁省::朝阳市",
+        "city": "四平",
+        "key": "吉林省::四平市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -66,21 +66,21 @@
         ]
       },
       {
-        "city": "铁岭",
-        "province": "辽宁省",
-        "key": "辽宁省::铁岭市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "朝阳",
-        "province": "辽宁省",
-        "key": "辽宁省::朝阳市",
+        "city": "吉林",
+        "province": "吉林省",
+        "key": "吉林省::吉林市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "四平",
+        "province": "吉林省",
+        "key": "吉林省::四平市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
         ]
       }
     ],
@@ -115,42 +115,6 @@
         ]
       },
       {
-        "city": "铁岭",
-        "province": "辽宁省",
-        "key": "辽宁省::铁岭市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "朝阳",
-        "province": "辽宁省",
-        "key": "辽宁省::朝阳市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "葫芦岛",
-        "province": "辽宁省",
-        "key": "辽宁省::葫芦岛市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "长春",
-        "province": "吉林省",
-        "key": "吉林省::长春市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
         "city": "吉林",
         "province": "吉林省",
         "key": "吉林省::吉林市",
@@ -176,6 +140,42 @@
         "issues": [
           "scenic_lt_18:1"
         ]
+      },
+      {
+        "city": "通化",
+        "province": "吉林省",
+        "key": "吉林省::通化市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "白山",
+        "province": "吉林省",
+        "key": "吉林省::白山市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "松原",
+        "province": "吉林省",
+        "key": "吉林省::松原市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "白城",
+        "province": "吉林省",
+        "key": "吉林省::白城市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
       }
     ]
   },
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 119,
+    "rewrite_pending": 115,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
