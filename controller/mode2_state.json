@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:53:15",
+  "generated_at": "2026-03-18T03:57:04",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,24 +133,6 @@
         ]
       },
       {
-        "city": "宣城",
-        "province": "安徽省",
-        "key": "安徽省::宣城市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:6"
-        ]
-      },
-      {
-        "city": "福州",
-        "province": "福建省",
-        "key": "福建省::福州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
         "city": "厦门",
         "province": "福建省",
         "key": "福建省::厦门市",
@@ -160,18 +142,37 @@
         ]
       },
       {
-        "city": "莆田",
+        "city": "泉州",
         "province": "福建省",
-        "key": "福建省::莆田市",
+        "key": "福建省::泉州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "三明",
+        "city": "漳州",
         "province": "福建省",
-        "key": "福建省::三明市",
+        "key": "福建省::漳州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2",
+          "missing_section:美食"
+        ]
+      },
+      {
+        "city": "南平",
+        "province": "福建省",
+        "key": "福建省::南平市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "龙岩",
+        "province": "福建省",
+        "key": "福建省::龙岩市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
@@ -183,7 +184,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 58,
+    "rewrite_pending": 54,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
