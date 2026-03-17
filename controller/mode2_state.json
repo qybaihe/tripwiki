@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:45:34",
+  "generated_at": "2026-03-18T06:49:11",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "绵阳",
+        "city": "南充",
         "province": "四川省",
-        "key": "四川省::绵阳市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:0"
-        ]
-      },
-      {
-        "city": "广元",
-        "province": "四川省",
-        "key": "四川省::广元市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "遂宁",
-        "province": "四川省",
-        "key": "四川省::遂宁市",
+        "key": "四川省::南充市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "内江",
+        "city": "眉山",
         "province": "四川省",
-        "key": "四川省::内江市",
+        "key": "四川省::眉山市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "宜宾",
+        "province": "四川省",
+        "key": "四川省::宜宾市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "广安",
+        "province": "四川省",
+        "key": "四川省::广安市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 103,
+    "rewrite_pending": 98,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
