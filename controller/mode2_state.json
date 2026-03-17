@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:00:17",
+  "generated_at": "2026-03-18T03:04:51",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -31,8 +31,8 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "齐齐哈尔",
-        "key": "黑龙江省::齐齐哈尔市",
+        "city": "伊春",
+        "key": "黑龙江省::伊春市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -75,12 +75,12 @@
         ]
       },
       {
-        "city": "齐齐哈尔",
+        "city": "伊春",
         "province": "黑龙江省",
-        "key": "黑龙江省::齐齐哈尔市",
+        "key": "黑龙江省::伊春市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:2"
         ]
       }
     ],
@@ -124,54 +124,54 @@
         ]
       },
       {
-        "city": "齐齐哈尔",
-        "province": "黑龙江省",
-        "key": "黑龙江省::齐齐哈尔市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "鸡西",
-        "province": "黑龙江省",
-        "key": "黑龙江省::鸡西市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "鹤岗",
-        "province": "黑龙江省",
-        "key": "黑龙江省::鹤岗市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "双鸭山",
-        "province": "黑龙江省",
-        "key": "黑龙江省::双鸭山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "大庆",
-        "province": "黑龙江省",
-        "key": "黑龙江省::大庆市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
         "city": "伊春",
         "province": "黑龙江省",
         "key": "黑龙江省::伊春市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "佳木斯",
+        "province": "黑龙江省",
+        "key": "黑龙江省::佳木斯市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "七台河",
+        "province": "黑龙江省",
+        "key": "黑龙江省::七台河市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "牡丹江",
+        "province": "黑龙江省",
+        "key": "黑龙江省::牡丹江市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:7"
+        ]
+      },
+      {
+        "city": "黑河",
+        "province": "黑龙江省",
+        "key": "黑龙江省::黑河市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "绥化",
+        "province": "黑龙江省",
+        "key": "黑龙江省::绥化市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 107,
+    "rewrite_pending": 102,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
