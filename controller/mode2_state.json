@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:49:11",
+  "generated_at": "2026-03-18T06:52:39",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "南充",
+        "city": "雅安",
         "province": "四川省",
-        "key": "四川省::南充市",
+        "key": "四川省::雅安市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:5"
         ]
       },
       {
-        "city": "眉山",
+        "city": "巴中",
         "province": "四川省",
-        "key": "四川省::眉山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "宜宾",
-        "province": "四川省",
-        "key": "四川省::宜宾市",
+        "key": "四川省::巴中市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
         ]
       },
       {
-        "city": "广安",
+        "city": "资阳",
         "province": "四川省",
-        "key": "四川省::广安市",
+        "key": "四川省::资阳市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "阿坝藏族羌族",
+        "province": "四川省",
+        "key": "四川省::阿坝藏族羌族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 98,
+    "rewrite_pending": 93,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
