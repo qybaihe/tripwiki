@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T04:55:42",
+  "generated_at": "2026-03-18T05:10:44",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "枣庄",
+        "city": "济宁",
         "province": "山东省",
-        "key": "山东省::枣庄市",
+        "key": "山东省::济宁市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "泰安",
+        "province": "山东省",
+        "key": "山东省::泰安市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:6"
+        ]
+      },
+      {
+        "city": "威海",
+        "province": "山东省",
+        "key": "山东省::威海市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:4"
         ]
       },
       {
-        "city": "东营",
+        "city": "日照",
         "province": "山东省",
-        "key": "山东省::东营市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "烟台",
-        "province": "山东省",
-        "key": "山东省::烟台市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "潍坊",
-        "province": "山东省",
-        "key": "山东省::潍坊市",
+        "key": "山东省::日照市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 48,
+    "rewrite_pending": 97,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
