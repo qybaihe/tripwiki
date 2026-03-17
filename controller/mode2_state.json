@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:25:48",
+  "generated_at": "2026-03-18T03:29:36",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,45 +133,45 @@
         ]
       },
       {
-        "city": "盐城",
-        "province": "江苏省",
-        "key": "江苏省::盐城市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "扬州",
-        "province": "江苏省",
-        "key": "江苏省::扬州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "镇江",
-        "province": "江苏省",
-        "key": "江苏省::镇江市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "泰州",
-        "province": "江苏省",
-        "key": "江苏省::泰州市",
+        "city": "杭州",
+        "province": "浙江省",
+        "key": "浙江省::杭州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
         ]
       },
       {
-        "city": "宿迁",
-        "province": "江苏省",
-        "key": "江苏省::宿迁市",
+        "city": "宁波",
+        "province": "浙江省",
+        "key": "浙江省::宁波市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "温州",
+        "province": "浙江省",
+        "key": "浙江省::温州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "嘉兴",
+        "province": "浙江省",
+        "key": "浙江省::嘉兴市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "湖州",
+        "province": "浙江省",
+        "key": "浙江省::湖州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 88,
+    "rewrite_pending": 83,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
