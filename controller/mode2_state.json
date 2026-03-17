@@ -1,86 +1,83 @@
 {
-  "generated_at": "2026-03-17T20:24:13",
+  "generated_at": "2026-03-17T21:54:43",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [
-      "名山口岸外围",
-      "宝泉岭农场"
-    ],
+    "synced_from_workspace": [],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
       {
-        "city": "石家庄",
-        "key": "河北省::石家庄市",
+        "city": "衡水",
+        "key": "河北省::衡水市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "唐山",
-        "key": "河北省::唐山市",
+        "city": "太原",
+        "key": "山西省::太原市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "秦皇岛",
-        "key": "河北省::秦皇岛市",
+        "city": "大同",
+        "key": "山西省::大同市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "邯郸",
-        "key": "河北省::邯郸市",
+        "city": "阳泉",
+        "key": "山西省::阳泉市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "邢台",
-        "key": "河北省::邢台市",
+        "city": "长治",
+        "key": "山西省::长治市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
     ],
     "launch_plan_only": [
       {
-        "city": "石家庄",
+        "city": "衡水",
         "province": "河北省",
-        "key": "河北省::石家庄市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "唐山",
-        "province": "河北省",
-        "key": "河北省::唐山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "秦皇岛",
-        "province": "河北省",
-        "key": "河北省::秦皇岛市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "邯郸",
-        "province": "河北省",
-        "key": "河北省::邯郸市",
+        "key": "河北省::衡水市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "邢台",
-        "province": "河北省",
-        "key": "河北省::邢台市",
+        "city": "太原",
+        "province": "山西省",
+        "key": "山西省::太原市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "大同",
+        "province": "山西省",
+        "key": "山西省::大同市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "阳泉",
+        "province": "山西省",
+        "key": "山西省::阳泉市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "长治",
+        "province": "山西省",
+        "key": "山西省::长治市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
@@ -91,93 +88,93 @@
     "running_after": [],
     "needs_rewrite_preview": [
       {
-        "city": "石家庄",
+        "city": "衡水",
         "province": "河北省",
-        "key": "河北省::石家庄市",
+        "key": "河北省::衡水市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "太原",
+        "province": "山西省",
+        "key": "山西省::太原市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "唐山",
-        "province": "河北省",
-        "key": "河北省::唐山市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "秦皇岛",
-        "province": "河北省",
-        "key": "河北省::秦皇岛市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "邯郸",
-        "province": "河北省",
-        "key": "河北省::邯郸市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "邢台",
-        "province": "河北省",
-        "key": "河北省::邢台市",
+        "city": "大同",
+        "province": "山西省",
+        "key": "山西省::大同市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "保定",
-        "province": "河北省",
-        "key": "河北省::保定市",
+        "city": "阳泉",
+        "province": "山西省",
+        "key": "山西省::阳泉市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "张家口",
-        "province": "河北省",
-        "key": "河北省::张家口市",
+        "city": "长治",
+        "province": "山西省",
+        "key": "山西省::长治市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "承德",
-        "province": "河北省",
-        "key": "河北省::承德市",
+        "city": "晋城",
+        "province": "山西省",
+        "key": "山西省::晋城市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "沧州",
-        "province": "河北省",
-        "key": "河北省::沧州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "廊坊",
-        "province": "河北省",
-        "key": "河北省::廊坊市",
+        "city": "朔州",
+        "province": "山西省",
+        "key": "山西省::朔州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "晋中",
+        "province": "山西省",
+        "key": "山西省::晋中市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "运城",
+        "province": "山西省",
+        "key": "山西省::运城市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "忻州",
+        "province": "山西省",
+        "key": "山西省::忻州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
         ]
       }
     ]
@@ -186,8 +183,8 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 161,
-    "synced_count": 2,
+    "rewrite_pending": 151,
+    "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
