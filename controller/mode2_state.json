@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T00:11:31",
+  "generated_at": "2026-03-18T00:39:45",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -25,14 +25,14 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "丹东",
-        "key": "辽宁省::丹东市",
+        "city": "营口",
+        "key": "辽宁省::营口市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "锦州",
-        "key": "辽宁省::锦州市",
+        "city": "阜新",
+        "key": "辽宁省::阜新市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -66,21 +66,21 @@
         ]
       },
       {
-        "city": "丹东",
+        "city": "营口",
         "province": "辽宁省",
-        "key": "辽宁省::丹东市",
+        "key": "辽宁省::营口市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "锦州",
+        "city": "阜新",
         "province": "辽宁省",
-        "key": "辽宁省::锦州市",
+        "key": "辽宁省::阜新市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:4"
         ]
       }
     ],
@@ -109,24 +109,6 @@
         "city": "阿拉善",
         "province": "内蒙古自治区",
         "key": "内蒙古自治区::阿拉善盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "丹东",
-        "province": "辽宁省",
-        "key": "辽宁省::丹东市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "锦州",
-        "province": "辽宁省",
-        "key": "辽宁省::锦州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
@@ -176,6 +158,24 @@
         "issues": [
           "scenic_lt_18:1"
         ]
+      },
+      {
+        "city": "朝阳",
+        "province": "辽宁省",
+        "key": "辽宁省::朝阳市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "葫芦岛",
+        "province": "辽宁省",
+        "key": "辽宁省::葫芦岛市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
       }
     ]
   },
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 125,
+    "rewrite_pending": 123,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
