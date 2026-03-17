@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:28:05",
+  "generated_at": "2026-03-18T05:32:11",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "三门峡",
+        "city": "驻马店",
         "province": "河南省",
-        "key": "河南省::三门峡市",
+        "key": "河南省::驻马店市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "南阳",
-        "province": "河南省",
-        "key": "河南省::南阳市",
+        "city": "武汉",
+        "province": "湖北省",
+        "key": "湖北省::武汉市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "黄石",
+        "province": "湖北省",
+        "key": "湖北省::黄石市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "商丘",
-        "province": "河南省",
-        "key": "河南省::商丘市",
+        "city": "十堰",
+        "province": "湖北省",
+        "key": "湖北省::十堰市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "信阳",
-        "province": "河南省",
-        "key": "河南省::信阳市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:3"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 78,
+    "rewrite_pending": 73,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
