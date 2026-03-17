@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-03-17T08:52:40",
+  "generated_at": "2026-03-17T09:08:49",
   "workers": 5,
   "actions": {
-    "synced_from_workspace": [
-      "兴安盟",
-      "锡林郭勒盟",
-      "阿拉善盟"
-    ],
+    "synced_from_workspace": [],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
@@ -188,7 +184,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 3,
+    "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
