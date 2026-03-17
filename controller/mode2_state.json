@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T23:54:39",
+  "generated_at": "2026-03-18T00:11:31",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -25,14 +25,14 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "抚顺",
-        "key": "辽宁省::抚顺市",
+        "city": "丹东",
+        "key": "辽宁省::丹东市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "本溪",
-        "key": "辽宁省::本溪市",
+        "city": "锦州",
+        "key": "辽宁省::锦州市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -66,21 +66,21 @@
         ]
       },
       {
-        "city": "抚顺",
+        "city": "丹东",
         "province": "辽宁省",
-        "key": "辽宁省::抚顺市",
+        "key": "辽宁省::丹东市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "本溪",
+        "city": "锦州",
         "province": "辽宁省",
-        "key": "辽宁省::本溪市",
+        "key": "辽宁省::锦州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:1"
         ]
       }
     ],
@@ -112,24 +112,6 @@
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "抚顺",
-        "province": "辽宁省",
-        "key": "辽宁省::抚顺市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "本溪",
-        "province": "辽宁省",
-        "key": "辽宁省::本溪市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
         ]
       },
       {
@@ -176,6 +158,24 @@
         "issues": [
           "scenic_lt_18:2"
         ]
+      },
+      {
+        "city": "盘锦",
+        "province": "辽宁省",
+        "key": "辽宁省::盘锦市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "铁岭",
+        "province": "辽宁省",
+        "key": "辽宁省::铁岭市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
       }
     ]
   },
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 127,
+    "rewrite_pending": 125,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
