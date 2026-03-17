@@ -178,13 +178,20 @@ def spawn_task(city: str) -> Dict:
         'timeoutSeconds': 1800,
         'sandbox': 'inherit'
     }
+    bridge = REPO_DIR / 'scripts' / 'spawn_subagent.py'
+    if not bridge.exists():
+        return {
+            'spawn_ok': False,
+            'error': f'bridge script missing: {bridge}',
+            'payload': payload,
+        }
     try:
-        out = sh(['openclaw', 'tools', 'call', 'sessions_spawn', json.dumps(payload, ensure_ascii=False)], cwd=REPO_DIR)
+        out = sh(['python3', str(bridge), json.dumps(payload, ensure_ascii=False)], cwd=REPO_DIR)
         try:
             data = json.loads(out)
         except Exception:
             data = {'raw': out}
-        data['spawn_ok'] = True
+        data['spawn_ok'] = data.get('status') == 'accepted' or bool(data.get('childSessionKey') or data.get('sessionKey'))
         return data
     except Exception as e:
         return {
