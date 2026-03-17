@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:24:00",
+  "generated_at": "2026-03-18T05:28:05",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "新乡",
+        "city": "三门峡",
         "province": "河南省",
-        "key": "河南省::新乡市",
+        "key": "河南省::三门峡市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "焦作",
+        "city": "南阳",
         "province": "河南省",
-        "key": "河南省::焦作市",
+        "key": "河南省::南阳市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:0"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "濮阳",
+        "city": "商丘",
         "province": "河南省",
-        "key": "河南省::濮阳市",
+        "key": "河南省::商丘市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:6"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "许昌",
+        "city": "信阳",
         "province": "河南省",
-        "key": "河南省::许昌市",
+        "key": "河南省::信阳市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 83,
+    "rewrite_pending": 78,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
