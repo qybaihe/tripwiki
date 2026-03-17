@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:39:58",
+  "generated_at": "2026-03-18T03:44:31",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,48 +133,48 @@
         ]
       },
       {
-        "city": "合肥",
+        "city": "淮北",
         "province": "安徽省",
-        "key": "安徽省::合肥市",
+        "key": "安徽省::淮北市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "铜陵",
+        "province": "安徽省",
+        "key": "安徽省::铜陵市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:5"
         ]
       },
       {
-        "city": "芜湖",
+        "city": "安庆",
         "province": "安徽省",
-        "key": "安徽省::芜湖市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "蚌埠",
-        "province": "安徽省",
-        "key": "安徽省::蚌埠市",
+        "key": "安徽省::安庆市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:0"
         ]
       },
       {
-        "city": "淮南",
+        "city": "黄山",
         "province": "安徽省",
-        "key": "安徽省::淮南市",
+        "key": "安徽省::黄山市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:6"
         ]
       },
       {
-        "city": "马鞍山",
+        "city": "滁州",
         "province": "安徽省",
-        "key": "安徽省::马鞍山市",
+        "key": "安徽省::滁州市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:4"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 73,
+    "rewrite_pending": 68,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
