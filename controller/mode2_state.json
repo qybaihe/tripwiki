@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:09:19",
+  "generated_at": "2026-03-18T03:14:58",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -31,8 +31,8 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "绥化",
-        "key": "黑龙江省::绥化市",
+        "city": "大兴安岭",
+        "key": "黑龙江省::大兴安岭地区",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -75,9 +75,9 @@
         ]
       },
       {
-        "city": "绥化",
+        "city": "大兴安岭",
         "province": "黑龙江省",
-        "key": "黑龙江省::绥化市",
+        "key": "黑龙江省::大兴安岭地区",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -124,15 +124,6 @@
         ]
       },
       {
-        "city": "绥化",
-        "province": "黑龙江省",
-        "key": "黑龙江省::绥化市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
         "city": "大兴安岭",
         "province": "黑龙江省",
         "key": "黑龙江省::大兴安岭地区",
@@ -142,37 +133,45 @@
         ]
       },
       {
-        "city": "南京",
-        "province": "江苏省",
-        "key": "江苏省::南京市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "无锡",
-        "province": "江苏省",
-        "key": "江苏省::无锡市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4",
-          "missing_section:美食"
-        ]
-      },
-      {
-        "city": "徐州",
-        "province": "江苏省",
-        "key": "江苏省::徐州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
         "city": "常州",
         "province": "江苏省",
         "key": "江苏省::常州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "苏州",
+        "province": "江苏省",
+        "key": "江苏省::苏州市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "南通",
+        "province": "江苏省",
+        "key": "江苏省::南通市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "连云港",
+        "province": "江苏省",
+        "key": "江苏省::连云港市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "淮安",
+        "province": "江苏省",
+        "key": "江苏省::淮安市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -184,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 97,
+    "rewrite_pending": 93,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
