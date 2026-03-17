@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T03:57:04",
+  "generated_at": "2026-03-18T04:15:46",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -133,49 +133,48 @@
         ]
       },
       {
-        "city": "厦门",
+        "city": "宁德",
         "province": "福建省",
-        "key": "福建省::厦门市",
+        "key": "福建省::宁德市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "泉州",
-        "province": "福建省",
-        "key": "福建省::泉州市",
+        "city": "南昌",
+        "province": "江西省",
+        "key": "江西省::南昌市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "漳州",
-        "province": "福建省",
-        "key": "福建省::漳州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2",
-          "missing_section:美食"
-        ]
-      },
-      {
-        "city": "南平",
-        "province": "福建省",
-        "key": "福建省::南平市",
+        "city": "景德镇",
+        "province": "江西省",
+        "key": "江西省::景德镇市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "龙岩",
-        "province": "福建省",
-        "key": "福建省::龙岩市",
+        "city": "萍乡",
+        "province": "江西省",
+        "key": "江西省::萍乡市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "九江",
+        "province": "江西省",
+        "key": "江西省::九江市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -184,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 54,
+    "rewrite_pending": 49,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
