@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:32:11",
+  "generated_at": "2026-03-18T05:36:18",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "驻马店",
-        "province": "河南省",
-        "key": "河南省::驻马店市",
+        "city": "襄阳",
+        "province": "湖北省",
+        "key": "湖北省::襄阳市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "武汉",
+        "city": "鄂州",
         "province": "湖北省",
-        "key": "湖北省::武汉市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "黄石",
-        "province": "湖北省",
-        "key": "湖北省::黄石市",
+        "key": "湖北省::鄂州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "十堰",
+        "city": "荆门",
         "province": "湖北省",
-        "key": "湖北省::十堰市",
+        "key": "湖北省::荆门市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "孝感",
+        "province": "湖北省",
+        "key": "湖北省::孝感市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 73,
+    "rewrite_pending": 68,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
