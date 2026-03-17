@@ -1,11 +1,9 @@
 {
-  "generated_at": "2026-03-17T16:08:58",
+  "generated_at": "2026-03-17T16:09:26",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "前哨农场",
-      "前进农场管理区",
-      "胜利农场"
+      "建三江农场"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -188,7 +186,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 3,
+    "synced_count": 1,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
