@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:00:17",
+  "generated_at": "2026-03-18T06:04:30",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "广州",
+        "city": "佛山",
         "province": "广东省",
-        "key": "广东省::广州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:6"
-        ]
-      },
-      {
-        "city": "韶关",
-        "province": "广东省",
-        "key": "广东省::韶关市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "深圳",
-        "province": "广东省",
-        "key": "广东省::深圳市",
+        "key": "广东省::佛山市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:0"
         ]
       },
       {
-        "city": "珠海",
+        "city": "江门",
         "province": "广东省",
-        "key": "广东省::珠海市",
+        "key": "广东省::江门市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:0"
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "湛江",
+        "province": "广东省",
+        "key": "广东省::湛江市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "茂名",
+        "province": "广东省",
+        "key": "广东省::茂名市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 147,
+    "rewrite_pending": 142,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
