@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-03-17T07:52:45",
+  "generated_at": "2026-03-17T08:00:14",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [
-      "吐鲁番",
-      "巴音郭楞蒙古自治州"
+      "唐山",
+      "石家庄",
+      "秦皇岛",
+      "邢台"
     ],
     "completed_since_last_run": [],
     "launched": [],
@@ -56,7 +58,7 @@
         "key": "河北省::唐山市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:5"
         ]
       },
       {
@@ -105,7 +107,7 @@
         "key": "河北省::唐山市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:5"
         ]
       },
       {
@@ -187,7 +189,7 @@
     "todo": 0,
     "skipped": 5,
     "rewrite_pending": 161,
-    "synced_count": 2,
+    "synced_count": 4,
     "completed_count": 0,
     "launch_count": 0,
     "launch_failure_count": 5,
