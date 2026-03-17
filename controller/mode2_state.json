@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T01:09:53",
+  "generated_at": "2026-03-18T01:13:46",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -25,14 +25,14 @@
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "辽阳",
-        "key": "辽宁省::辽阳市",
+        "city": "铁岭",
+        "key": "辽宁省::铁岭市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
       {
-        "city": "盘锦",
-        "key": "辽宁省::盘锦市",
+        "city": "朝阳",
+        "key": "辽宁省::朝阳市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
@@ -66,21 +66,21 @@
         ]
       },
       {
-        "city": "辽阳",
+        "city": "铁岭",
         "province": "辽宁省",
-        "key": "辽宁省::辽阳市",
+        "key": "辽宁省::铁岭市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:2"
+          "scenic_lt_18:1"
         ]
       },
       {
-        "city": "盘锦",
+        "city": "朝阳",
         "province": "辽宁省",
-        "key": "辽宁省::盘锦市",
+        "key": "辽宁省::朝阳市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:3"
+          "scenic_lt_18:2"
         ]
       }
     ],
@@ -112,24 +112,6 @@
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "辽阳",
-        "province": "辽宁省",
-        "key": "辽宁省::辽阳市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "盘锦",
-        "province": "辽宁省",
-        "key": "辽宁省::盘锦市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
         ]
       },
       {
@@ -176,6 +158,24 @@
         "issues": [
           "scenic_lt_18:2"
         ]
+      },
+      {
+        "city": "四平",
+        "province": "吉林省",
+        "key": "吉林省::四平市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "辽源",
+        "province": "吉林省",
+        "key": "吉林省::辽源市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
       }
     ]
   },
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 121,
+    "rewrite_pending": 119,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
