@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:17:58",
+  "generated_at": "2026-03-18T08:22:01",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "白银",
+        "city": "酒泉",
         "province": "甘肃省",
-        "key": "甘肃省::白银市",
+        "key": "甘肃省::酒泉市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "庆阳",
+        "province": "甘肃省",
+        "key": "甘肃省::庆阳市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
         ]
       },
       {
-        "city": "天水",
+        "city": "定西",
         "province": "甘肃省",
-        "key": "甘肃省::天水市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "武威",
-        "province": "甘肃省",
-        "key": "甘肃省::武威市",
+        "key": "甘肃省::定西市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "张掖",
+        "city": "陇南",
         "province": "甘肃省",
-        "key": "甘肃省::张掖市",
+        "key": "甘肃省::陇南市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:6"
+          "scenic_lt_18:1"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 44,
+    "rewrite_pending": 39,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
