@@ -1,17 +1,11 @@
 {
-  "generated_at": "2026-03-18T10:20:38",
+  "generated_at": "2026-03-18T10:26:21",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
     "completed_since_last_run": [],
     "launched": [],
     "launch_failures": [
-      {
-        "city": "大兴安岭",
-        "key": "黑龙江省::大兴安岭地区",
-        "reason": "rewrite",
-        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
-      },
       {
         "city": "省直辖县级行政区划",
         "key": "河南省::省直辖县级行政区划",
@@ -35,18 +29,15 @@
         "key": "重庆市::县",
         "reason": "todo",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
+      },
+      {
+        "city": "自治区直辖县级行政区划",
+        "key": "新疆维吾尔自治区::自治区直辖县级行政区划",
+        "reason": "todo",
+        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
     ],
     "launch_plan_only": [
-      {
-        "city": "大兴安岭",
-        "province": "黑龙江省",
-        "key": "黑龙江省::大兴安岭地区",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
       {
         "city": "省直辖县级行政区划",
         "province": "河南省",
@@ -74,27 +65,24 @@
         "key": "重庆市::县",
         "reason": "todo",
         "issues": []
+      },
+      {
+        "city": "自治区直辖县级行政区划",
+        "province": "新疆维吾尔自治区",
+        "key": "新疆维吾尔自治区::自治区直辖县级行政区划",
+        "reason": "todo",
+        "issues": []
       }
     ],
     "running_before": [],
     "running_after": [],
-    "needs_rewrite_preview": [
-      {
-        "city": "大兴安岭",
-        "province": "黑龙江省",
-        "key": "黑龙江省::大兴安岭地区",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      }
-    ]
+    "needs_rewrite_preview": []
   },
   "summary": {
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 1,
+    "rewrite_pending": 0,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
