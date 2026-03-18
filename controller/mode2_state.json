@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T10:02:55",
+  "generated_at": "2026-03-18T10:20:38",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -9,12 +9,6 @@
       {
         "city": "大兴安岭",
         "key": "黑龙江省::大兴安岭地区",
-        "reason": "rewrite",
-        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
-      },
-      {
-        "city": "淄博",
-        "key": "山东省::淄博市",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       },
@@ -35,6 +29,12 @@
         "key": "海南省::省直辖县级行政区划",
         "reason": "todo",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
+      },
+      {
+        "city": "县",
+        "key": "重庆市::县",
+        "reason": "todo",
+        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
     ],
     "launch_plan_only": [
@@ -45,15 +45,6 @@
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "淄博",
-        "province": "山东省",
-        "key": "山东省::淄博市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
         ]
       },
       {
@@ -76,6 +67,13 @@
         "key": "海南省::省直辖县级行政区划",
         "reason": "todo",
         "issues": []
+      },
+      {
+        "city": "县",
+        "province": "重庆市",
+        "key": "重庆市::县",
+        "reason": "todo",
+        "issues": []
       }
     ],
     "running_before": [],
@@ -89,15 +87,6 @@
         "issues": [
           "scenic_lt_18:2"
         ]
-      },
-      {
-        "city": "淄博",
-        "province": "山东省",
-        "key": "山东省::淄博市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
       }
     ]
   },
@@ -105,7 +94,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 2,
+    "rewrite_pending": 1,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
