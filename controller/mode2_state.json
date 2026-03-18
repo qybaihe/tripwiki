@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:44:59",
+  "generated_at": "2026-03-18T08:48:36",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "乌鲁木齐",
+        "city": "博尔塔拉蒙古",
         "province": "新疆维吾尔自治区",
-        "key": "新疆维吾尔自治区::乌鲁木齐市",
+        "key": "新疆维吾尔自治区::博尔塔拉蒙古自治州",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:4"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "克拉玛依",
+        "city": "巴音郭楞蒙古",
         "province": "新疆维吾尔自治区",
-        "key": "新疆维吾尔自治区::克拉玛依市",
+        "key": "新疆维吾尔自治区::巴音郭楞蒙古自治州",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:3"
         ]
       },
       {
-        "city": "吐鲁番",
+        "city": "阿克苏",
         "province": "新疆维吾尔自治区",
-        "key": "新疆维吾尔自治区::吐鲁番市",
+        "key": "新疆维吾尔自治区::阿克苏地区",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:4"
+          "scenic_lt_18:2"
         ]
       },
       {
-        "city": "哈密",
+        "city": "克孜勒苏柯尔克孜",
         "province": "新疆维吾尔自治区",
-        "key": "新疆维吾尔自治区::哈密市",
+        "key": "新疆维吾尔自治区::克孜勒苏柯尔克孜自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 20,
+    "rewrite_pending": 15,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
