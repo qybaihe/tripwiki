@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:14:11",
+  "generated_at": "2026-03-18T08:17:58",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "安康",
-        "province": "陕西省",
-        "key": "陕西省::安康市",
+        "city": "白银",
+        "province": "甘肃省",
+        "key": "甘肃省::白银市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:1"
+        ]
+      },
+      {
+        "city": "天水",
+        "province": "甘肃省",
+        "key": "甘肃省::天水市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:4"
         ]
       },
       {
-        "city": "商洛",
-        "province": "陕西省",
-        "key": "陕西省::商洛市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "兰州",
+        "city": "武威",
         "province": "甘肃省",
-        "key": "甘肃省::兰州市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:3"
-        ]
-      },
-      {
-        "city": "嘉峪关",
-        "province": "甘肃省",
-        "key": "甘肃省::嘉峪关市",
+        "key": "甘肃省::武威市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "张掖",
+        "province": "甘肃省",
+        "key": "甘肃省::张掖市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:6"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 49,
+    "rewrite_pending": 44,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
