@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:58:45",
+  "generated_at": "2026-03-18T10:02:55",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -7,73 +7,37 @@
     "launched": [],
     "launch_failures": [
       {
-        "city": "兴安",
-        "key": "内蒙古自治区::兴安盟",
-        "reason": "rewrite",
-        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
-      },
-      {
-        "city": "锡林郭勒",
-        "key": "内蒙古自治区::锡林郭勒盟",
-        "reason": "rewrite",
-        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
-      },
-      {
-        "city": "阿拉善",
-        "key": "内蒙古自治区::阿拉善盟",
-        "reason": "rewrite",
-        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
-      },
-      {
-        "city": "延边朝鲜族",
-        "key": "吉林省::延边朝鲜族自治州",
-        "reason": "rewrite",
-        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
-      },
-      {
         "city": "大兴安岭",
         "key": "黑龙江省::大兴安岭地区",
         "reason": "rewrite",
         "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
+      },
+      {
+        "city": "淄博",
+        "key": "山东省::淄博市",
+        "reason": "rewrite",
+        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
+      },
+      {
+        "city": "省直辖县级行政区划",
+        "key": "河南省::省直辖县级行政区划",
+        "reason": "todo",
+        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
+      },
+      {
+        "city": "省直辖县级行政区划",
+        "key": "湖北省::省直辖县级行政区划",
+        "reason": "todo",
+        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
+      },
+      {
+        "city": "省直辖县级行政区划",
+        "key": "海南省::省直辖县级行政区划",
+        "reason": "todo",
+        "error": "spawn bridge not wired to OpenClaw tool runtime yet; use parent-agent sessions_spawn fallback"
       }
     ],
     "launch_plan_only": [
-      {
-        "city": "兴安",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::兴安盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "锡林郭勒",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::锡林郭勒盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "阿拉善",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::阿拉善盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "延边朝鲜族",
-        "province": "吉林省",
-        "key": "吉林省::延边朝鲜族自治州",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:0"
-        ]
-      },
       {
         "city": "大兴安岭",
         "province": "黑龙江省",
@@ -82,47 +46,41 @@
         "issues": [
           "scenic_lt_18:2"
         ]
+      },
+      {
+        "city": "淄博",
+        "province": "山东省",
+        "key": "山东省::淄博市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:5"
+        ]
+      },
+      {
+        "city": "省直辖县级行政区划",
+        "province": "河南省",
+        "key": "河南省::省直辖县级行政区划",
+        "reason": "todo",
+        "issues": []
+      },
+      {
+        "city": "省直辖县级行政区划",
+        "province": "湖北省",
+        "key": "湖北省::省直辖县级行政区划",
+        "reason": "todo",
+        "issues": []
+      },
+      {
+        "city": "省直辖县级行政区划",
+        "province": "海南省",
+        "key": "海南省::省直辖县级行政区划",
+        "reason": "todo",
+        "issues": []
       }
     ],
     "running_before": [],
     "running_after": [],
     "needs_rewrite_preview": [
-      {
-        "city": "兴安",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::兴安盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "锡林郭勒",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::锡林郭勒盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "阿拉善",
-        "province": "内蒙古自治区",
-        "key": "内蒙古自治区::阿拉善盟",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "延边朝鲜族",
-        "province": "吉林省",
-        "key": "吉林省::延边朝鲜族自治州",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:0"
-        ]
-      },
       {
         "city": "大兴安岭",
         "province": "黑龙江省",
@@ -147,7 +105,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 6,
+    "rewrite_pending": 2,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
