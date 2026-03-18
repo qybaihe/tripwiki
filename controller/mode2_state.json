@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:25:34",
+  "generated_at": "2026-03-18T08:35:03",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,36 +142,36 @@
         ]
       },
       {
-        "city": "甘南藏族",
-        "province": "甘肃省",
-        "key": "甘肃省::甘南藏族自治州",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "西宁",
+        "city": "海南藏族",
         "province": "青海省",
-        "key": "青海省::西宁市",
+        "key": "青海省::海南藏族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "海东",
+        "city": "果洛藏族",
         "province": "青海省",
-        "key": "青海省::海东市",
+        "key": "青海省::果洛藏族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "海北藏族",
+        "city": "玉树藏族",
         "province": "青海省",
-        "key": "青海省::海北藏族自治州",
+        "key": "青海省::玉树藏族自治州",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:4"
+        ]
+      },
+      {
+        "city": "海西蒙古族藏族",
+        "province": "青海省",
+        "key": "青海省::海西蒙古族藏族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 34,
+    "rewrite_pending": 29,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
