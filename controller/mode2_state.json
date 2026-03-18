@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T07:54:31",
+  "generated_at": "2026-03-18T08:14:11",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "山南",
-        "province": "西藏自治区",
-        "key": "西藏自治区::山南市",
+        "city": "安康",
+        "province": "陕西省",
+        "key": "陕西省::安康市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:4"
         ]
       },
       {
-        "city": "阿里",
-        "province": "西藏自治区",
-        "key": "西藏自治区::阿里地区",
+        "city": "商洛",
+        "province": "陕西省",
+        "key": "陕西省::商洛市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:4"
         ]
       },
       {
-        "city": "西安",
-        "province": "陕西省",
-        "key": "陕西省::西安市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:1"
-        ]
-      },
-      {
-        "city": "铜川",
-        "province": "陕西省",
-        "key": "陕西省::铜川市",
+        "city": "兰州",
+        "province": "甘肃省",
+        "key": "甘肃省::兰州市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "嘉峪关",
+        "province": "甘肃省",
+        "key": "甘肃省::嘉峪关市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 59,
+    "rewrite_pending": 49,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
