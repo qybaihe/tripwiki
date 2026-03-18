@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:35:03",
+  "generated_at": "2026-03-18T08:39:27",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "海南藏族",
-        "province": "青海省",
-        "key": "青海省::海南藏族自治州",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:2"
-        ]
-      },
-      {
-        "city": "果洛藏族",
-        "province": "青海省",
-        "key": "青海省::果洛藏族自治州",
+        "city": "石嘴山",
+        "province": "宁夏回族自治区",
+        "key": "宁夏回族自治区::石嘴山市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:3"
         ]
       },
       {
-        "city": "玉树藏族",
-        "province": "青海省",
-        "key": "青海省::玉树藏族自治州",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:4"
-        ]
-      },
-      {
-        "city": "海西蒙古族藏族",
-        "province": "青海省",
-        "key": "青海省::海西蒙古族藏族自治州",
+        "city": "吴忠",
+        "province": "宁夏回族自治区",
+        "key": "宁夏回族自治区::吴忠市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "固原",
+        "province": "宁夏回族自治区",
+        "key": "宁夏回族自治区::固原市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
+        ]
+      },
+      {
+        "city": "中卫",
+        "province": "宁夏回族自治区",
+        "key": "宁夏回族自治区::中卫市",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:3"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 29,
+    "rewrite_pending": 24,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
