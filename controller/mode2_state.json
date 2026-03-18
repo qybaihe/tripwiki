@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T08:22:01",
+  "generated_at": "2026-03-18T08:25:34",
   "workers": 5,
   "actions": {
     "synced_from_workspace": [],
@@ -142,39 +142,39 @@
         ]
       },
       {
-        "city": "酒泉",
+        "city": "甘南藏族",
         "province": "甘肃省",
-        "key": "甘肃省::酒泉市",
-        "reason": "rewrite",
-        "issues": [
-          "scenic_lt_18:5"
-        ]
-      },
-      {
-        "city": "庆阳",
-        "province": "甘肃省",
-        "key": "甘肃省::庆阳市",
+        "key": "甘肃省::甘南藏族自治州",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:1"
         ]
       },
       {
-        "city": "定西",
-        "province": "甘肃省",
-        "key": "甘肃省::定西市",
+        "city": "西宁",
+        "province": "青海省",
+        "key": "青海省::西宁市",
         "reason": "rewrite",
         "issues": [
           "scenic_lt_18:2"
         ]
       },
       {
-        "city": "陇南",
-        "province": "甘肃省",
-        "key": "甘肃省::陇南市",
+        "city": "海东",
+        "province": "青海省",
+        "key": "青海省::海东市",
         "reason": "rewrite",
         "issues": [
-          "scenic_lt_18:1"
+          "scenic_lt_18:3"
+        ]
+      },
+      {
+        "city": "海北藏族",
+        "province": "青海省",
+        "key": "青海省::海北藏族自治州",
+        "reason": "rewrite",
+        "issues": [
+          "scenic_lt_18:2"
         ]
       }
     ]
@@ -183,7 +183,7 @@
     "done": 337,
     "todo": 0,
     "skipped": 5,
-    "rewrite_pending": 39,
+    "rewrite_pending": 34,
     "synced_count": 0,
     "completed_count": 0,
     "launch_count": 0,
